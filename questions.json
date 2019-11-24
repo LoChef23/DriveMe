@@ -1,0 +1,162 @@
+[ 
+   { 
+      "question":"I sistemi di ritenuta per bambini sono di un unico tipo e sono tutti utilizzabili per trasportare bambini fino a 1,50 metri di altezza",
+      "isCorrect":false
+   },
+   {
+      "question":"I bambini di età inferiore a 3 anni non possono viaggiare su autovetture sprovviste degli idonei sistemi di ritenuta",
+      "isCorrect":true
+   },
+   {
+      "question":"Guidando ciclomotori o motocicli è consigliabile utilizzare guanti protettivi per le mani",
+      "isCorrect":true
+   },
+   {
+      "question":"Le cinture di sicurezza hanno lo scopo di evitare che il conducente o i passeggeri vadano a urtare parti interne del veicolo in caso di urto violento",
+      "isCorrect":true
+   },
+   {
+      "question":"L’airbag entra in funzione in caso di incidente stradale con urto violento",
+      "isCorrect":true
+   },
+   {
+      "question":"Il casco è obbligatorio per i conducenti di motocicli non dotati di cellula di sicurezza e di dispositivi di ritenuta",
+      "isCorrect":true
+   },
+   {
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché sui sedili anteriori in braccio a persona maggiorenne",
+      "isCorrect":false
+   },
+   {
+      "question":"Le cinture di sicurezza sono di utilità trascurabile nella circolazione urbana",
+      "isCorrect":false
+   },
+   {
+      "question":"L’airbag non va usato insieme alle cinture di sicurezza",
+      "isCorrect":false
+   },
+   {
+      "question":"La pulizia del casco deve essere effettuata con detersivi non corrosivi",
+      "isCorrect":true
+   },
+   {
+      "question":"L’airbag può essere talvolta disattivabile",
+      "isCorrect":true
+   },
+   {
+      "question":"L’uso del casco durante la marcia diventa facoltativo quando la temperatura dell’aria è superiore ai trenta gradi",
+      "isCorrect":false
+   },
+   {
+      "question":"L’airbag si gonfia premendo un pulsante posto sul cruscotto",
+      "isCorrect":false
+   },
+   {
+      "question":"Se un’autovettura è munita di airbag, è possibile trasportare bambini sul sedile anteriore assicurati ad idoneo seggiolino solo se il veicolo è dotato di comando per disattivare l’airbag stesso",
+      "isCorrect":true
+   },
+   {
+      "question":"Le donne in stato di gravidanza con particolari condizioni di rischio certificate non sono obbligate ad agganciare la cintura di sicurezza",
+      "isCorrect":true
+   },
+   {
+      "question":"Il casco è obbligatorio per i conducenti di ciclomotori a due ruote, solo se minorenni",
+      "isCorrect":false
+   },
+   {
+      "question":"L’airbag si gonfia automaticamente grazie al comando di un sensore",
+      "isCorrect":true
+   },
+   {
+      "question":"Le cinture di sicurezza hanno lo scopo di limitare i danni al conducente e ai passeggeri in caso di incidente stradale",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente che non indossa il casco è soggetto alla decurtazione di punti dalla patente di guida",
+      "isCorrect":true
+   },
+   {
+      "question":"Il casco è obbligatorio per il passeggero di un motociclo privo di cellula di sicurezza e sistemi di ritenuta",
+      "isCorrect":true
+   },
+   {
+      "question":"Il casco deve essere completamente allacciato solo sui percorsi extraurbani",
+      "isCorrect":false
+   },
+   {
+      "question":"Il postino, durante l'attività lavorativa, non ha l'obbligo di agganciare la cintura di sicurezza",
+      "isCorrect":false
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico hanno la suola in acciaio",
+      "isCorrect":false
+   },
+   {
+      "question":"Se non si allaccia la cintura di sicurezza, in caso d'improvvisa frenata si può essere proiettati contro il parabrezza",
+      "isCorrect":true
+   },
+   {
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché si circoli alla velocità massima di 40 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"Indossare il casco in modo errato o senza averlo correttamente allacciato può comportare gravi rischi alla salute in caso di caduta o incidente",
+      "isCorrect":true
+   },
+   {
+      "question":"Se il veicolo è dotato di airbag frontali e laterali, si può fare a meno di allacciare la cintura di sicurezza",
+      "isCorrect":false
+   },
+   {
+      "question":"Le cinture di sicurezza richiedono un periodico controllo del loro stato di usura e di efficienza",
+      "isCorrect":true
+   },
+   {
+      "question":"L’obbligo dell’uso del casco non riguarda i maggiorenni con più di tre anni di esperienza di guida",
+      "isCorrect":false
+   },
+   {
+      "question":"I sistemi di ritenuta per bambini sono classificati in gruppi, in funzione del peso del bambino che possono accogliere",
+      "isCorrect":true
+   },
+   {
+      "question":"Le cinture di sicurezza devono essere di tipo omologato e devono essere mantenute sempre efficienti",
+      "isCorrect":true
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico permettono una giusta protezione di piedi e caviglie quando si è alla guida di veicolo a due ruote",
+      "isCorrect":true
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico proteggono i piedi da abrasioni sull’asfalto in caso di caduta",
+      "isCorrect":true
+   },
+   {
+      "question":"Non è obbligatorio utilizzare le cinture di sicurezza su una autovettura quando si circola ad una velocità inferiore ai 30 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza",
+      "isCorrect":true
+   },
+   {
+      "question":"La visiera del casco può essere riparata con nastro adesivo, purché sia di tipo ultra trasparente",
+      "isCorrect":false
+   },
+   {
+      "question":"I sistemi di ritenuta per bambini devono essere di tipo omologato e mantenuti sempre efficienti",
+      "isCorrect":true
+   },
+   {
+      "question":"Il casco integrale protegge anche il viso da traumi e lesioni in caso di incidente",
+      "isCorrect":true
+   },
+   {
+      "question":"Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento",
+      "isCorrect":true
+   },
+   {
+      "question":"Il casco deve essere sostituito dopo che abbia subito un forte urto, anche se non mostra deformazioni sulla calotta esterna",
+      "isCorrect":true
+   }
+]
