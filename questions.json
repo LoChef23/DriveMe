@@ -1,162 +1,238 @@
 [ 
    { 
-      "question":"I sistemi di ritenuta per bambini sono di un unico tipo e sono tutti utilizzabili per trasportare bambini fino a 1,50 metri di altezza",
+      "question":"I sistemi di ritenuta per bambini sono di un unico tipo e sono tutti utilizzabili per trasportare bambini fino a 1,50 metri di altezza.",
       "isCorrect":false
    },
    {
-      "question":"I bambini di età inferiore a 3 anni non possono viaggiare su autovetture sprovviste degli idonei sistemi di ritenuta",
+      "question":"I bambini di età inferiore a 3 anni non possono viaggiare su autovetture sprovviste degli idonei sistemi di ritenuta.",
       "isCorrect":true
    },
    {
-      "question":"Guidando ciclomotori o motocicli è consigliabile utilizzare guanti protettivi per le mani",
+      "question":"Guidando ciclomotori o motocicli è consigliabile utilizzare guanti protettivi per le mani.",
       "isCorrect":true
    },
    {
-      "question":"Le cinture di sicurezza hanno lo scopo di evitare che il conducente o i passeggeri vadano a urtare parti interne del veicolo in caso di urto violento",
+      "question":"Le cinture di sicurezza hanno lo scopo di evitare che il conducente o i passeggeri vadano a urtare parti interne del veicolo in caso di urto violento.",
       "isCorrect":true
    },
    {
-      "question":"L’airbag entra in funzione in caso di incidente stradale con urto violento",
+      "question":"L’airbag entra in funzione in caso di incidente stradale con urto violento.",
       "isCorrect":true
    },
    {
-      "question":"Il casco è obbligatorio per i conducenti di motocicli non dotati di cellula di sicurezza e di dispositivi di ritenuta",
+      "question":"Il casco è obbligatorio per i conducenti di motocicli non dotati di cellula di sicurezza e di dispositivi di ritenuta.",
       "isCorrect":true
    },
    {
-      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché sui sedili anteriori in braccio a persona maggiorenne",
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché sui sedili anteriori in braccio a persona maggiorenne.",
       "isCorrect":false
    },
    {
-      "question":"Le cinture di sicurezza sono di utilità trascurabile nella circolazione urbana",
+      "question":"Le cinture di sicurezza sono di utilità trascurabile nella circolazione urbana.",
       "isCorrect":false
    },
    {
-      "question":"L’airbag non va usato insieme alle cinture di sicurezza",
+      "question":"L’airbag non va usato insieme alle cinture di sicurezza.",
       "isCorrect":false
    },
    {
-      "question":"La pulizia del casco deve essere effettuata con detersivi non corrosivi",
+      "question":"La pulizia del casco deve essere effettuata con detersivi non corrosivi.",
       "isCorrect":true
    },
    {
-      "question":"L’airbag può essere talvolta disattivabile",
+      "question":"L’airbag può essere talvolta disattivabile.",
       "isCorrect":true
    },
    {
-      "question":"L’uso del casco durante la marcia diventa facoltativo quando la temperatura dell’aria è superiore ai trenta gradi",
+      "question":"L’uso del casco durante la marcia diventa facoltativo quando la temperatura dell’aria è superiore ai trenta gradi.",
       "isCorrect":false
    },
    {
-      "question":"L’airbag si gonfia premendo un pulsante posto sul cruscotto",
+      "question":"L’airbag si gonfia premendo un pulsante posto sul cruscotto.",
       "isCorrect":false
    },
    {
-      "question":"Se un’autovettura è munita di airbag, è possibile trasportare bambini sul sedile anteriore assicurati ad idoneo seggiolino solo se il veicolo è dotato di comando per disattivare l’airbag stesso",
+      "question":"Se un’autovettura è munita di airbag, è possibile trasportare bambini sul sedile anteriore assicurati ad idoneo seggiolino solo se il veicolo è dotato di comando per disattivare l’airbag stesso.",
       "isCorrect":true
    },
    {
-      "question":"Le donne in stato di gravidanza con particolari condizioni di rischio certificate non sono obbligate ad agganciare la cintura di sicurezza",
+      "question":"Le donne in stato di gravidanza con particolari condizioni di rischio certificate non sono obbligate ad agganciare la cintura di sicurezza.",
       "isCorrect":true
    },
    {
-      "question":"Il casco è obbligatorio per i conducenti di ciclomotori a due ruote, solo se minorenni",
+      "question":"Il casco è obbligatorio per i conducenti di ciclomotori a due ruote, solo se minorenni.",
       "isCorrect":false
    },
    {
-      "question":"L’airbag si gonfia automaticamente grazie al comando di un sensore",
+      "question":"L’airbag si gonfia automaticamente grazie al comando di un sensore.",
       "isCorrect":true
    },
    {
-      "question":"Le cinture di sicurezza hanno lo scopo di limitare i danni al conducente e ai passeggeri in caso di incidente stradale",
+      "question":"Le cinture di sicurezza hanno lo scopo di limitare i danni al conducente e ai passeggeri in caso di incidente stradale.",
       "isCorrect":true
    },
    {
-      "question":"Il conducente che non indossa il casco è soggetto alla decurtazione di punti dalla patente di guida",
+      "question":"Il conducente che non indossa il casco è soggetto alla decurtazione di punti dalla patente di guida.",
       "isCorrect":true
    },
    {
-      "question":"Il casco è obbligatorio per il passeggero di un motociclo privo di cellula di sicurezza e sistemi di ritenuta",
+      "question":"Il casco è obbligatorio per il passeggero di un motociclo privo di cellula di sicurezza e sistemi di ritenuta.",
       "isCorrect":true
    },
    {
-      "question":"Il casco deve essere completamente allacciato solo sui percorsi extraurbani",
+      "question":"Il casco deve essere completamente allacciato solo sui percorsi extraurbani.",
       "isCorrect":false
    },
    {
-      "question":"Il postino, durante l'attività lavorativa, non ha l'obbligo di agganciare la cintura di sicurezza",
+      "question":"Il postino, durante l'attività lavorativa, non ha l'obbligo di agganciare la cintura di sicurezza.",
       "isCorrect":false
    },
    {
-      "question":"Gli stivali ad uso motociclistico hanno la suola in acciaio",
+      "question":"Gli stivali ad uso motociclistico hanno la suola in acciaio.",
       "isCorrect":false
    },
    {
-      "question":"Se non si allaccia la cintura di sicurezza, in caso d'improvvisa frenata si può essere proiettati contro il parabrezza",
+      "question":"Se non si allaccia la cintura di sicurezza, in caso d'improvvisa frenata si può essere proiettati contro il parabrezza.",
       "isCorrect":true
    },
    {
-      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché si circoli alla velocità massima di 40 km/h",
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché si circoli alla velocità massima di 40 km/h.",
       "isCorrect":false
    },
    {
-      "question":"Indossare il casco in modo errato o senza averlo correttamente allacciato può comportare gravi rischi alla salute in caso di caduta o incidente",
+      "question":"Indossare il casco in modo errato o senza averlo correttamente allacciato può comportare gravi rischi alla salute in caso di caduta o incidente.",
       "isCorrect":true
    },
    {
-      "question":"Se il veicolo è dotato di airbag frontali e laterali, si può fare a meno di allacciare la cintura di sicurezza",
+      "question":"Se il veicolo è dotato di airbag frontali e laterali, si può fare a meno di allacciare la cintura di sicurezza.",
       "isCorrect":false
    },
    {
-      "question":"Le cinture di sicurezza richiedono un periodico controllo del loro stato di usura e di efficienza",
+      "question":"Le cinture di sicurezza richiedono un periodico controllo del loro stato di usura e di efficienza.",
       "isCorrect":true
    },
    {
-      "question":"L’obbligo dell’uso del casco non riguarda i maggiorenni con più di tre anni di esperienza di guida",
+      "question":"L’obbligo dell’uso del casco non riguarda i maggiorenni con più di tre anni di esperienza di guida.",
       "isCorrect":false
    },
    {
-      "question":"I sistemi di ritenuta per bambini sono classificati in gruppi, in funzione del peso del bambino che possono accogliere",
+      "question":"I sistemi di ritenuta per bambini sono classificati in gruppi, in funzione del peso del bambino che possono accogliere.",
       "isCorrect":true
    },
    {
-      "question":"Le cinture di sicurezza devono essere di tipo omologato e devono essere mantenute sempre efficienti",
+      "question":"Le cinture di sicurezza devono essere di tipo omologato e devono essere mantenute sempre efficienti.",
       "isCorrect":true
    },
    {
-      "question":"Gli stivali ad uso motociclistico permettono una giusta protezione di piedi e caviglie quando si è alla guida di veicolo a due ruote",
+      "question":"Gli stivali ad uso motociclistico permettono una giusta protezione di piedi e caviglie quando si è alla guida di veicolo a due ruote.",
       "isCorrect":true
    },
    {
-      "question":"Gli stivali ad uso motociclistico proteggono i piedi da abrasioni sull’asfalto in caso di caduta",
+      "question":"Gli stivali ad uso motociclistico proteggono i piedi da abrasioni sull’asfalto in caso di caduta.",
       "isCorrect":true
    },
    {
-      "question":"Non è obbligatorio utilizzare le cinture di sicurezza su una autovettura quando si circola ad una velocità inferiore ai 30 km/h",
+      "question":"Non è obbligatorio utilizzare le cinture di sicurezza su una autovettura quando si circola ad una velocità inferiore ai 30 km/h.",
       "isCorrect":false
    },
    {
-      "question":"Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza",
+      "question":"Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza.",
       "isCorrect":true
    },
    {
-      "question":"La visiera del casco può essere riparata con nastro adesivo, purché sia di tipo ultra trasparente",
+      "question":"La visiera del casco può essere riparata con nastro adesivo, purché sia di tipo ultra trasparente.",
       "isCorrect":false
    },
    {
-      "question":"I sistemi di ritenuta per bambini devono essere di tipo omologato e mantenuti sempre efficienti",
+      "question":"I sistemi di ritenuta per bambini devono essere di tipo omologato e mantenuti sempre efficienti.",
       "isCorrect":true
    },
    {
-      "question":"Il casco integrale protegge anche il viso da traumi e lesioni in caso di incidente",
+      "question":"Il casco integrale protegge anche il viso da traumi e lesioni in caso di incidente.",
       "isCorrect":true
    },
    {
-      "question":"Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento",
+      "question":"Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento.",
       "isCorrect":true
    },
    {
-      "question":"Il casco deve essere sostituito dopo che abbia subito un forte urto, anche se non mostra deformazioni sulla calotta esterna",
+      "question":"Il casco deve essere sostituito dopo che abbia subito un forte urto, anche se non mostra deformazioni sulla calotta esterna.",
       "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico facilita la salita e la discesa di passeggeri da tram, filobus e autobus.",
+      "isCorrect":false,
+      "explanation":"L'isola di traffico è una parte della carreggiata, evidenziata mediante zebrature di colore bianco e delimitata da strisce bianche continue di raccordo. Serve a facilitare l'incanalamento dei veicoli verso varie direzioni. Su di essa è vietato marciare e sostare.",
+      "explanationImage":"isola_di_traffico.png"
+   },
+   {
+      "question":"Le autovetture sono soggette a revisione ogni cinque anni.",
+      "isCorrect":false,
+      "explanation":"Le sono veicoli a motore con quattro ruote, destinati al trasporto di persone, con non più di nove posti, compreso quello del conducente. Sono soggette a revisione periodica, quattro anni dopo la prima immatricolazione e, successivamente, ogni due anni.",
+      "explanationImage":""
+   },
+   {
+      "question":"Il conducente deve fermarsi e facilitare l'attraversamento al pedone non vedente con il bastone bianco che attraversa la strada fuori dalle strisce pedonali.",
+      "isCorrect":true
+   },
+   {
+      "question":"L'intersezione (incrocio) a raso può essere regolata da semaforo.",
+      "isCorrect":true,
+      "explanation":"L'intersezione a raso è un'intersezione di due o più strade poste allo stesso livello.Può essere regolata da semaforo.",
+      "explanationImage":""
+   },
+   {
+      "question":"Il conducente deve fermarsi quando un pedone non vedente con il bastone bianco si accinge ad attraversare la strada, evitando di frenare bruscamente per non spaventarlo.",
+      "isCorrect":true
+   },
+   {
+      "question":"Le strade extraurbane principali sono segnalate da cartelli stradali di inizio e fine.",
+      "isCorrect":true,
+      "explanation":"La strada extraurbana principale è una strada a carreggiate indipendenti o separate da spartitraffico, ciascuna con almeno due corsie di marcia; è priva di intersezioni a raso ed è provvista di apposite aree di sosta e di accessi con corsie di accelerazione e di decelerazione. La strada extraurbana principale è contraddistinta dagli appositi segnali di inizio e fine.",
+      "explanationImage":""
+   },
+   {
+      "question":"Sulle autocaravan (camper) è possibile viaggiare in piedi, solo per brevi tratti.",
+      "isCorrect":false
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, i pedoni devono fare un cenno con la mano prima di iniziare l'attraversamento.",
+      "isCorrect":false
+   },
+   {
+      "question":"Nei centri abitati, su una stessa corsia possono circolare affiancati due motocicli.",
+      "isCorrect":false,
+      "explanation":"È possibile che su una corsia i veicoli debbano circolare ad una velocità minima obbligatoria, mentre non è consentito che motocicli o ciclomotori possano circolare affiancati."
+   },
+   {
+      "question":"La corsia è limitata da strisce continue o discontinue.",
+      "isCorrect":true,
+      "explanation":"La corsia è una suddivisione della carreggiata, limitata da strisce continue o discontinue e larga a sufficienza per la circolazione di una sola fila di veicoli.",
+      "explanationImage":""
+   },
+   {
+      "question":"I tricicli a motore sono veicoli con motore di cilindrata inferiore a 50 cm3 e aventi velocità massima per costruzione fino a 45 km/h.",
+      "isCorrect":false,
+      "explanation":"I tricicli sono veicoli a tre ruote simmetriche, con motore di cilindrata superiore a 50 cm3 e aventi una velocità massima superiore a 45 km/h.",
+      "explanationImage":""
+   },
+   {
+      "question":"Entrando in un centro abitato, bisogna considerare che è possibile sostare in corrispondenza di incroci non regolati.",
+      "isCorrect":false,
+      "explanation":"La sosta è vietata nelle aree di intersezione (incroci) e, fuori dai centri abitati, anche in loro prossimità."
+   },
+   {
+      "question":"La corsia può essere a doppio senso di circolazione.",
+      "isCorrect":false,
+      "explanation":"Una corsia è sempre a senso unico"
+   },
+   {
+      "question":"Il conducente deve accelerare per sgombrare rapidamente la carreggiata quando un pedone non vedente con il bastone bianco attraversa la strada senza cane guida.",
+      "isCorrect":false
+   },
+   {
+      "question":"La guida dei quadricicli non leggeri è consentita già al compimento del quattordicesimo anno di età.",
+      "isCorrect":false,
+      "explanation": "I quadricicli a motore sono veicoli a motore con quattro ruote, di potenza non superiore a 15 kW. Per la guida dei quadricicli non leggeri occorre aver compiuto 16 anni ed essere in possesso della patente di categoria B1."
    }
 ]
