@@ -13,12 +13,11 @@ api = Api(app)
 @api.route('/question/')
 class Question(Resource):
     def get(self):
-        #questionRandomID = random.randint(1, itemsInTable)
+        questionRandomID = random.randint(1, itemsInTable)
         result = client.get_item(
             TableName='Questions',
             Key={
-                'QuestionID': {'N': #str(questionRandomID)
-                '2'}
+                'QuestionID': {'N': str(questionRandomID)}
             }
         )
         response = result['Item']
