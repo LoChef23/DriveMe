@@ -234,5 +234,165 @@
       "question":"La guida dei quadricicli non leggeri è consentita già al compimento del quattordicesimo anno di età.",
       "isCorrect":false,
       "explanation": "I quadricicli a motore sono veicoli a motore con quattro ruote, di potenza non superiore a 15 kW. Per la guida dei quadricicli non leggeri occorre aver compiuto 16 anni ed essere in possesso della patente di categoria B1."
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre passare per primi, avendo sempre la precedenza sui bambini che attraversano la strada",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente che si accorga che il suo veicolo ha forti perdite di olio o carburante, deve immediatamente avvisare l'ente proprietario della strada o gli organi di polizia",
+      "isCorrect":true
+   },
+   {
+      "question":"Una zona a traffico limitato è un'area nella quale può essere limitata la circolazione solo a particolari categorie di utenti",
+      "isCorrect":true
+   },
+   {
+      "question":"L'intersezione (incrocio) a raso richiede di fare attenzione ai veicoli provenienti dalle strade che si incrociano",
+      "isCorrect":true
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che le reazioni dei bambini che attraversano sono imprevedibili e, quindi, possono creare pericolo",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente di un veicolo di grandi dimensioni ha, di norma, la precedenza sul conducente di un veicolo più piccolo",
+      "isCorrect":false
+   },
+   {
+      "question":"Nelle autostrade possono circolare tutti i motocicli e i ciclomotori",
+      "isCorrect":false
+   },
+   {
+      "question":"Le persone anziane che attraversano la carreggiata sono esposte a maggiori pericoli, perché le loro capacità visive e uditive non sono più eccellenti",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti dei conducenti di veicoli adattati per persone diversamente abili",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando si viaggia in fila con altri veicoli, è opportuno spostarsi al centro della carreggiata, per controllare la situazione del traffico",
+      "isCorrect":false
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, non si deve rallentare, per evitare di ostacolare la circolazione degli altri veicoli",
+      "isCorrect":false
+   },
+   {
+      "question":"Le strisce retroriflettenti applicate lateralmente ad alcuni veicoli possono essere di colore bianco o giallo",
+      "isCorrect":true
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che i pedoni devono attraversare la strada affiancati, in modo da impiegare meno tempo",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente deve dare segni di impazienza, se il veicolo che sta davanti procede troppo lentamente",
+      "isCorrect":false
+   },
+   {
+      "question":"I motocicli sono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni",
+      "isCorrect":true
+   },
+   {
+      "question":"L'ente proprietario della strada può imporre che su una corsia i veicoli transitino ad una velocità minima obbligatoria",
+      "isCorrect":true
+   },
+   {
+      "question":"I rimorchi sono muniti di silenziatore",
+      "isCorrect":false
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, bisogna rallentare particolarmente se vi è lo scuolabus",
+      "isCorrect":true
+   },
+   {
+      "question":"Il passaggio a livello è un cavalcavia ferroviario o tranviario",
+      "isCorrect":false
+   },
+   {
+      "question":"I ciclomotori a due ruote non possono avere un motore termico di cilindrata superiore a 50 cm3",
+      "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico è una parte della strada sulla quale è vietato il transito dei motocicli",
+      "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico è un'area pedonale urbana",
+      "isCorrect":false
+   },
+   {
+      "question":"Non tutti i tipi di veicoli possono circolare in autostrada",
+      "isCorrect":true
+   },
+   {
+      "question":"In un centro abitato bisogna essere più attenti, prudenti e tolleranti, a causa del maggior numero di utenti che interagiscono nell'ambiente urbano",
+      "isCorrect":true
+   },
+   {
+      "question":"L'attraversamento pedonale è una parte della carreggiata sulla quale è vietata la fermata dei veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che i veicoli parcheggiati in prossimità delle strisce impediscono la visuale dei pedoni",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente di un veicolo diverso dai taxi può sostare nei posteggi riservati ai taxi dalle ore 20.00 alle ore 8.00",
+      "isCorrect":false
+   },
+   {
+      "question":"Durante la circolazione, gli autocarri di massa complessiva a pieno carico inferiore o uguale a 3,5 tonnellate devono essere segnalati posteriormente con pannelli retroriflettenti gialli e rossi",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente che si accorge che il suo veicolo perde olio deve compiere tutte le azioni necessarie per evitare pericoli per altri utenti",
+      "isCorrect":true
+   },
+   {
+      "question":"Si definiscono ciclomotori tutti i veicoli a due ruote di cilindrata superiore a 50 cm3",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando si viaggia in fila con altri veicoli, bisogna mantenere ugualmente la distanza di sicurezza",
+      "isCorrect":true
+   },
+   {
+      "question":"I tricicli a motore sono costituiti da un motociclo e un sidecar",
+      "isCorrect":false
+   },
+   {
+      "question":"La corsia non può mai essere attraversata dai pedoni",
+      "isCorrect":false
+   },
+   {
+      "question":"I ciclomotori non hanno più di due ruote",
+      "isCorrect":false
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti dei conducenti di tricicli a motore",
+      "isCorrect":false
+   },
+   {
+      "question":"È consentito sostituire il dispositivo di scarico dei quadricicli leggeri per aumentare la velocità massima, purché non si aumenti la cilindrata del motore",
+      "isCorrect":false
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve aspettarsi dai bambini una reazione rapida e un comportamento corretto",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando la carreggiata è occupata da ciclisti o pedoni, non è prudente sorpassarli se non si può rispettare una distanza laterale sufficiente",
+      "isCorrect":true
+   },
+   {
+      "question":"È consentito aumentare la cilindrata dei quadricicli leggeri purché non si aumenti la velocità",
+      "isCorrect":false
+   },
+   {
+      "question":"Le macchine agricole non possono circolare in autostrada",
+      "isCorrect":true
    }
 ]
