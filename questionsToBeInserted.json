@@ -394,5 +394,155 @@
    {
       "question":"Le macchine agricole non possono circolare in autostrada",
       "isCorrect":true
+   },
+   {
+      "question":"Il conducente deve prevedere che un pedone non vedente con il bastone bianco che attraversa la strada fuori dalle strisce pedonali camminerà rapidamente e senza incertezza",
+      "isCorrect":false
+   },
+   {
+      "question":"La corsia è destinata solo al transito dei pedoni",
+      "isCorrect":false
+   },
+   {
+      "question":"L'uscita dei veicoli dalle autostrade avviene tramite corsie di decelerazione",
+      "isCorrect":true
+   },
+   {
+      "question":"I motocicli sono veicoli a due ruote",
+      "isCorrect":true
+   },
+   {
+      "question":"La carreggiata non comprende le piste ciclabili",
+      "isCorrect":true
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che le persone anziane solitamente attraversano lentamente e con difficoltà",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando vi sono bambini fermi al semaforo, bisogna tenere presente che possono attraversare la strada solo se accompagnati da un adulto",
+      "isCorrect":false
+   },
+   {
+      "question":"È punito con la reclusione il conducente che gareggia in velocità su strade pubbliche",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia può essere di decelerazione",
+      "isCorrect":true
+   },
+   {
+      "question":"Il salvagente facilita la salita e la discesa dei passeggeri da tram, filobus o autobus",
+      "isCorrect":true
+   },
+   {
+      "question":"Fanno parte della carreggiata le corsie di marcia",
+      "isCorrect":true
+   },
+   {
+      "question":"Per condurre macchine operatrici è necessario essere titolari della patente di guida della categoria A",
+      "isCorrect":false
+   },
+   {
+      "question":"Fanno parte della carreggiata gli attraversamenti ciclabili",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia di decelerazione serve per uscire correttamente da una strada extraurbana principale",
+      "isCorrect":true
+   },
+   {
+      "question":"La carreggiata comprende le piazzole di sosta",
+      "isCorrect":false
+   },
+   {
+      "question":"La strada non comprende le banchine",
+      "isCorrect":false
+   },
+   {
+      "question":"Le strisce retroriflettenti laterali devono essere apposte sugli autocarri di massa complessiva a pieno carico inferiore a 3,5 tonnellate",
+      "isCorrect":false
+   },
+   {
+      "question":"Il triciclo a motore è un autoveicolo",
+      "isCorrect":false
+   },
+   {
+      "question":"Nelle aree pedonali possono transitare i veicoli della polizia, con sirena e luce lampeggiante blu in funzione",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando un pedone che spinge una carrozzina per bambini attraversa la carreggiata bisogna tenere presente che, di solito, attraversa rapidamente",
+      "isCorrect":false
+   },
+   {
+      "question":"La strada rappresentata è composta da tre corsie",
+      "isCorrect":false,
+      "image":"tre_corsie.gif"
+   },
+   {
+      "question":"I semirimorchi sono rimorchi privi di impianto frenante",
+      "isCorrect":false
+   },
+   {
+      "question":"La strada rappresentata è composta da tre corsie per ogni senso di marcia",
+      "isCorrect":true,
+      "image":"tre_corsie_senso_marcia.gif"
+   },
+   {
+      "question":"È vietato lanciare dal finestrino mozziconi di sigaretta accesi",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia di accelerazione serve per uscire da una piazzola di sosta",
+      "isCorrect":false
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola per la fermata di autobus per scolari, occorre fare attenzione ai bambini, che potrebbero attraversare di corsa la strada per salire sullo scuolabus",
+      "isCorrect":true
+   },
+   {
+      "question":"Si definiscono motocicli solo i veicoli a due ruote di cilindrata fino a 125 cm3",
+      "isCorrect":false
+   },
+   {
+      "question":"Le macchine agricole operatrici possono essere dotate di speciali attrezzature per l'esecuzione di operazioni agricole",
+      "isCorrect":true
+   },
+   {
+      "question":"Il passo carrabile è un segnale che impone la circolazione rotatoria su una piazza",
+      "isCorrect":false 
+   },
+   {
+      "question":"Nelle aree pedonali i ciclomotori possono transitare solo di giorno",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente deve consentire ad una donna incinta di attraversare la strada senza metterle fretta",
+      "isCorrect":true
+   },
+   {
+      "question":"Fanno parte della carreggiata gli attraversamenti pedonali",
+      "isCorrect":true
+   },
+   {
+      "question":"L'attraversamento pedonale viene segnalato con strisce bianche parallele",
+      "isCorrect":true
+   },
+   {
+      "question":"Il passo carrabile permette ai veicoli che circolano su una strada pubblica di accedere ad un'area laterale adibita alla sosta",
+      "isCorrect":true
+   },
+   {
+      "question":"In corrispondenza del passo carrabile è consentita la fermata",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente di un motociclo può fare lo slalom tra i veicoli fermi al semaforo",
+      "isCorrect":false 
+   },
+   {
+      "question":"Le autocaravan (camper) sono veicoli destinati alla costruzione e alla manutenzione di opere stradali",
+      "isCorrect":false
    }
 ]
