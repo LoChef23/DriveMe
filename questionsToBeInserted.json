@@ -487,7 +487,7 @@
    {
       "question":"La strada rappresentata è composta da tre corsie per ogni senso di marcia",
       "isCorrect":true,
-      "image":"tre_corsie_senso_marcia.gif"
+      "image":"strada.gif"
    },
    {
       "question":"È vietato lanciare dal finestrino mozziconi di sigaretta accesi",
@@ -680,6 +680,164 @@
    },
    {
       "question":"La carreggiata è destinata alla sosta degli autocarri",
+      "isCorrect":false
+   },
+   {
+      "question":"La banchina non consente, di norma, il transito ai veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti delle persone anziane",
+      "isCorrect":true
+   },
+   {
+      "question":"Il marciapiede consente la sosta dei veicoli solo in presenza di apposite strisce di parcheggio",
+      "isCorrect":true
+   },
+   {
+      "question":"I quadricicli non sono autoveicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre essere prudenti e tenere conto dei comportamenti imprevedibili dei bambini",
+      "isCorrect":true
+   },
+   {
+      "question":"Il salvagente serve a incanalare i veicoli in varie direzioni",
+      "isCorrect":false
+   },
+   {
+      "question":"I tricicli a motore non sono soggetti a revisione periodica",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente di un veicolo diverso dai taxi non può sostare nei posteggi riservati ai taxi",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando le persone anziane attraversano la carreggiata bisogna tenere presente che, data la loro età, non reagiscono prontamente alle situazioni di pericolo",
+      "isCorrect":true
+   },
+   {
+      "question":"L'attraversamento pedonale è una parte della carreggiata sulla quale è vietata la sosta dei veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Gli autoveicoli sono tutti i veicoli con almeno quattro ruote, compresi quelli senza motore",
+      "isCorrect":false
+   },
+   {
+      "question":"L'autostrada è dotata di speciali corsie per l'ingresso e l'uscita dei veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti delle persone in bicicletta e di quelle con scarsa capacità di movimento",
+      "isCorrect":true
+   },
+   {
+      "question":"L'autostrada può comprendere piste ciclabili",
+      "isCorrect":false
+   },
+   {
+      "question":"Fanno parte della carreggiata i marciapiedi",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando si parcheggia un veicolo è vietato ostruire eventuali scivoli del marciapiede per non impedire il passaggio di pedoni che spingono una carrozzina per bambini",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada rappresentata è composta da una carreggiata",
+      "isCorrect":true,
+      "image":"strada.gif"
+   },
+   {
+      "question":"I caravan (roulottes) sono rimorchi destinati ai lavori agricoli",
+      "isCorrect":false
+   },
+   {
+      "question":"L'isola di traffico può essere percorsa solo dai taxi e dagli autobus urbani",
+      "isCorrect":false
+   },
+   {
+      "question":"Le autocaravan (camper) sono veicoli aventi una speciale carrozzeria per essere adibiti al trasporto ed all'alloggio al massimo del numero di persone indicato nella carta di circolazione",
+      "isCorrect":true
+   },
+   {
+      "question":"Le macchine operatrici possono essere veicoli sgombraneve",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada è normalmente riservata alla circolazione dei soli veicoli e animali",
+      "isCorrect":false
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve accelerare quel tanto che basta per passare davanti al pedone che attraversa",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente che partecipa a gare di velocità non autorizzate su aree pubbliche è punito con la reclusione",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti dei conducenti che dimostrano una guida incerta",
+      "isCorrect":true
+   },
+   {
+      "question":"I quadricicli non sono soggetti a revisione periodica",
+      "isCorrect":false
+   },
+   {
+      "question":"I tricicli a motore sono veicoli a motore che possono essere condotti senza patente",
+      "isCorrect":false
+   },
+   {
+      "question":"Nella strada rappresentata, per ogni senso di marcia, la corsia di destra è, di norma, dedicata alla marcia ordinaria",
+      "isCorrect":true,
+      "image":"strada.gif"
+   },
+   {
+      "question":"I caravan (roulottes) sono utilizzabili come alloggio solo con veicolo fermo",
+      "isCorrect":true
+   },
+   {
+      "question":"L'intersezione (incrocio) a raso è un'intersezione a livelli sfalsati",
+      "isCorrect":false
+   },
+   {
+      "question":"Le strade extraurbane principali possono essere ad un'unica carreggiata",
+      "isCorrect":false
+   },
+   {
+      "question":"L'intersezione (incrocio) a raso è un passaggio a livello dotato di barriere o semibarriere",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
       "isCorrect":false
    },
    {
