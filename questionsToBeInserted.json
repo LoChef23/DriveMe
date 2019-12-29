@@ -940,99 +940,101 @@
       "isCorrect":true
    },
    {
-      "question":"",
+      "question":"Il passo carrabile è una strada riservata agli autocarri",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Il marciapiede è riservato ai pedoni e ai veicoli in sosta, qualora non sia rialzato",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Le macchine agricole possono circolare su strada per il proprio trasferimento se immatricolate",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente di un veicolo, oltre a rispettare le norme specifiche della circolazione, deve tenere un rapporto corretto e tollerante verso gli altri utenti della strada",
+      "isCorrect":true
+   },
+   {
+      "question":"In un passaggio a livello si può trovare la croce di S. Andrea",
+      "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico è delimitata da strisce bianche continue",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna lasciare liberi gli incroci in caso di traffico intenso",
+      "isCorrect":true
+   },
+   {
+      "question":"È consentito spostare la segnaletica stradale, se si tratta delle barriere di delimitazione o dei coni stradali",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Il conducente, in vicinanza di un posteggio riservato ai taxi, deve fare attenzione ai pedoni, che possono attraversare improvvisamente la strada senza le dovute precauzioni",
+      "isCorrect":true
+   },
+   {
+      "question":"La carreggiata può essere a doppio senso di circolazione",
+      "isCorrect":true
+   },
+   {
+      "question":"Le autocaravan (camper) sono veicoli aventi una speciale carrozzeria per essere adibiti al trasporto ed all'alloggio di persone",
+      "isCorrect":true
+   },
+   {
+      "question":"Nelle autostrade possono circolare i ciclomotori e i motocicli con cilindrata fino a 125 cm3",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Nella strada rappresentata la carreggiata centrale è, di norma, a doppio senso di circolazione",
+      "isCorrect":true,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"Gli autobus devono essere muniti, nella parte posteriore di strisce retroriflettenti di colore rosso o bianco",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"In una carreggiata del tipo rappresentato non si può effettuare l'inversione di marcia",
+      "isCorrect":true,
+      "image":"strada03.gif"
+   },
+   {
+      "question":"La corsia è una strada a scorrimento veloce",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"È vietato rimuovere la segnaletica stradale",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia può essere destinata alla normale marcia dei veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico è la parte della città con maggiore traffico",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"L'autovettura può avere, al massimo, cinque posti",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Nelle aree pedonali possono transitare i trattori stradali, con velocità non superiore a 30 km/h",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Le corsie possono essere vietate a taluni tipi di veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Nello specchietto retrovisore il conducente deve controllare solo se sopraggiungono autocarri o autobus",
       "isCorrect":false
    },
    {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve arrestarsi se il pedone che attraversa è munito di bastone bianco-rosso; deve solo rallentare se, invece, è munito di bastone bianco",
       "isCorrect":false
    },
    {
