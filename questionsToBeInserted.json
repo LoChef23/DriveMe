@@ -544,5 +544,174 @@
    {
       "question":"Le autocaravan (camper) sono veicoli destinati alla costruzione e alla manutenzione di opere stradali",
       "isCorrect":false
+   },
+   {
+      "question":"L'isola di traffico, se rialzata, è preceduta da zebrature di colore bianco",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti delle persone diversamente abili",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente deve dare la precedenza al pedone non vedente con il bastone bianco che attraversa la strada fuori dalle strisce pedonali, anche se non è accompagnato da un cane guida",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti dei bambini che attraversano la strada",
+      "isCorrect":true
+   },
+   {
+      "question":"La carreggiata può essere suddivisa in corsie",
+      "isCorrect":true
+   },
+   {
+      "question":"L'intersezione (incrocio) a raso è un insieme di sovrappassi, sottopassi e rampe",
+      "isCorrect":false
+   },
+   {
+      "question":"La corsia di decelerazione può essere utilizzata per la sosta dei veicoli",
+      "isCorrect":false
+   },
+   {
+      "question":"L'intersezione (incrocio) a livelli sfalsati comprende strade situate ad altezze diverse",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente deve fermarsi per concedere la precedenza al pedone sordocieco che, con il bastone bianco-rosso, attraversa la strada fuori dalle strisce pedonali",
+      "isCorrect":true
+   },
+   {
+      "question":"Le autovetture non possono trainare carrelli-appendice o rimorchi",
+      "isCorrect":false
+   },
+   {
+      "question":"Per evitare di sporcare la carreggiata, bisogna pulire le ruote del veicolo, prima di uscire da un sentiero fangoso",
+      "isCorrect":true
+   },
+   {
+      "question":"Le autocaravan (camper) sono veicoli attrezzati permanentemente per essere adibiti al trasporto ed all'alloggio di persone",
+      "isCorrect":true
+   },
+   {
+      "question":"Entrando in un centro abitato, bisogna tenere conto che il flusso della circolazione viene spesso intralciato o interrotto da veicoli che sono fermi, che partono o che cambiano direzione",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada non comprende i marciapiedi",
+      "isCorrect":false
+   },
+   {
+      "question":"La carreggiata è destinata alla sosta di emergenza",
+      "isCorrect":false
+   },
+   {
+      "question":"È consentito spostare la segnaletica stradale, dopo aver avvisato gli organi di polizia",
+      "isCorrect":false
+   },
+   {
+      "question":"Durante la circolazione, i rimorchi e i semirimorchi per trasporto di cose con massa massima a pieno carico superiore a 3,5 tonnellate devono essere segnalati posteriormente con pannelli retroriflettenti in figura",
+      "isCorrect":true,
+      "image":"pannello_retroriflettente.gif"
+   },
+   {
+      "question":"L'intersezione (incrocio) a livelli sfalsati facilita la circolazione, perché esclude l'incrocio diretto fra i veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada può essere suddivisa in carreggiate",
+      "isCorrect":true
+   },
+   {
+      "question":"L'intersezione a livelli sfalsati è un incrocio a raso fra una strada e i binari del treno",
+      "isCorrect":false
+   },
+   {
+      "question":"Le autovetture sono soggette a revisione periodica",
+      "isCorrect":true
+   },
+   {
+      "question":"Le autocaravan (camper) sono veicoli destinati ai lavori agricoli",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando vi sono bambini fermi al semaforo bisogna usare prudenza, in quanto potrebbero attraversare improvvisamente la strada appena la luce del semaforo veicolare passa dal verde al giallo",
+      "isCorrect":true
+   },
+   {
+      "question":"Le macchine operatrici possono circolare ad una velocità superiore a 50 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"I tricicli a motore sono veicoli con motore di cilindrata superiore a 50 cm3",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente, in vicinanza di un posteggio riservato ai taxi, deve rallentare ed eventualmente fermarsi se vi sono pedoni che attraversano la strada, senza guardare",
+      "isCorrect":true
+   },
+   {
+      "question":"Su una strada ricoperta da brecciolino il conducente può circolare a velocità sostenuta",
+      "isCorrect":false
+   },
+   {
+      "question":"L'autostrada è a carreggiate indipendenti o separate da spartitraffico",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada extraurbana principale non ha incroci a raso che l'attraversano",
+      "isCorrect":true
+   },
+   {
+      "question":"Le strade extraurbane principali sono provviste di corsie di accelerazione per l'ingresso",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando le persone anziane attraversano la carreggiata bisogna tenere presente che potrebbero non fare adeguata attenzione ai veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Prima di impegnare un incrocio, dopo che è scattata la luce verde del semaforo, il conducente deve attendere che i pedoni abbiano finito di attraversare la strada",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente, in vicinanza di un posteggio riservato ai taxi, deve fare attenzione ai pedoni che salgono o scendono dal taxi",
+      "isCorrect":true
+   },
+   {
+      "question":"La carreggiata è destinata alla sosta degli autocarri",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
    }
 ]
