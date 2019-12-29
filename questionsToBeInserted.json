@@ -478,7 +478,7 @@
    {
       "question":"La strada rappresentata è composta da tre corsie",
       "isCorrect":false,
-      "image":"tre_corsie.gif"
+      "image":"strada01.gif"
    },
    {
       "question":"I semirimorchi sono rimorchi privi di impianto frenante",
@@ -487,7 +487,7 @@
    {
       "question":"La strada rappresentata è composta da tre corsie per ogni senso di marcia",
       "isCorrect":true,
-      "image":"strada.gif"
+      "image":"strada02.gif"
    },
    {
       "question":"È vietato lanciare dal finestrino mozziconi di sigaretta accesi",
@@ -749,7 +749,7 @@
    {
       "question":"La strada rappresentata è composta da una carreggiata",
       "isCorrect":true,
-      "image":"strada.gif"
+      "image":"strada02.gif"
    },
    {
       "question":"I caravan (roulottes) sono rimorchi destinati ai lavori agricoli",
@@ -810,6 +810,245 @@
    },
    {
       "question":"L'intersezione (incrocio) a raso è un passaggio a livello dotato di barriere o semibarriere",
+      "isCorrect":false
+   },
+   {
+      "question":"Sulle strade pubbliche sono consentite le gare di velocità, anche se non autorizzate, dalle ore 23.00 alle ore 6.00",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente può lanciare oggetti dal finestrino sulla banchina",
+      "isCorrect":false
+   },
+   {
+      "question":"Si definiscono autovetture tutti i veicoli a motore che hanno la trazione posteriore",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente deve dare la precedenza a un pedone non vedente che attraversa la strada fuori dalle strisce pedonali, solo se munito di bastone bianco-rosso",
+      "isCorrect":false
+   },
+   {
+      "question":"Il salvagente è un itinerario ciclopedonale",
+      "isCorrect":false
+   },
+   {
+      "question":"L'isola di traffico è una piazzola di sosta per i veicoli",
+      "isCorrect":false
+   },
+   {
+      "question":"Nella parte posteriore degli autobus deve essere apposto un segnale che indica la velocità minima consentita",
+      "isCorrect":false
+   },
+   {
+      "question":"I montanti interni degli autoveicoli riducono la possibilità di vedere un ciclista o un motociclista",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada rappresentata consente, di norma, il sorpasso anche in curva",
+      "isCorrect":true,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"Quando vi sono bambini fermi al semaforo, si può essere certi che attraversino la strada solo quando il semaforo pedonale abbia la luce verde accesa",
+      "isCorrect":false
+   },
+   {
+      "question":"Sulle strade pubbliche sono consentite le gare di velocità, anche se non autorizzate, tra motocicli e non tra autoveicoli",
+      "isCorrect":false
+   },
+   {
+      "question":"Si definisce autovettura il veicolo blindato e appositamente attrezzato per il trasporto di valori",
+      "isCorrect":false
+   },
+   {
+      "question":"L'isola di traffico è una parte della strada sulla quale è vietato il transito dei veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, non si può proseguire nella marcia se le portiere dello scuolabus sono ancora aperte",
+      "isCorrect":false
+   },
+   {
+      "question":"Il pannello in figura segnala il trasporto di carichi sporgenti",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Le macchine agricole possono essere semoventi o trainate",
+      "isCorrect":true
+   },
+   {
+      "question":"L'autovettura fa parte degli autoveicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Il diritto di precedenza non autorizza il conducente ad attraversare l'incrocio senza usare prudenza",
+      "isCorrect":true
+   },
+   {
+      "question":"In vicinanza di una piazzola di fermata di autobus per scolari, può accadere che i bambini scendano dall'autobus senza fare attenzione ai veicoli che sopraggiungono",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna controllare frequentemente nello specchietto retrovisore se sopraggiunge un ciclista o un motociclista",
+      "isCorrect":true
+   },
+   {
+      "question":"I caravan (roulottes) sono muniti di targa",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada rappresentata, di norma, ha due carreggiate a doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"Le persone anziane che attraversano la carreggiata sono esposte a maggiori pericoli, perché potrebbero valutare male la velocità dei veicoli che sopraggiungono",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente del motociclo può circolare sul marciapiede se il traffico sulla carreggiata è bloccato",
+      "isCorrect":false
+   },
+   {
+      "question":"Bisogna usare maggiore prudenza nei confronti dei pedoni muniti di bastone bianco, ma non di quelli con bastone bianco-rosso",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando le persone anziane attraversano la carreggiata bisogna tenere presente che hanno i riflessi più rapidi e quindi attraversano con più accortezza",
+      "isCorrect":false
+   },
+   {
+      "question":"Nelle aree pedonali possono transitare tutti gli autoveicoli, ma con prudenza",
+      "isCorrect":false
+   },
+   {
+      "question":"La banchina divide la carreggiata in due corsie",
+      "isCorrect":false
+   },
+   {
+      "question":"L'attraversamento pedonale è una parte della carreggiata destinata al transito dei pedoni che attraversano",
+      "isCorrect":true
+   },
+   {
+      "question":"Sulle strade è vietato gareggiare in velocità",
+      "isCorrect":true
+   },
+   {
+      "question":"Gli autoveicoli sono veicoli a motore con almeno quattro ruote, esclusi i quadricicli",
+      "isCorrect":true
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
       "isCorrect":false
    },
    {
