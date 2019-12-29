@@ -1038,79 +1038,110 @@
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Il pannello in figura segnala il trasporto di merci pericolose",
+      "isCorrect":true,
+      "image":"merci_pericolose.gif"
+   },
+   {
+      "question":"Nelle autostrade possono circolare solo le autovetture",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"È consentito lanciare la carta dal finestrino",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Bisogna lasciare liberi gli attraversamenti pedonali e quelli ciclabili in caso di formazione di code di veicoli",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente di veicolo a due ruote può circolare portando con sé un animale domestico, se custodito in apposita gabbia, purché non sia sporgente di oltre 50 centimetri",
+      "isCorrect":true
+   },
+   {
+      "question":"L'attraversamento pedonale è una parte della carreggiata vietata al transito dei veicoli",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"I tricicli a motore sono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni",
+      "isCorrect":true
+   },
+   {
+      "question":"I caravan (roulottes) sono rimorchi destinati esclusivamente al trasporto di attrezzature turistiche e sportive",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Vengono definite autovetture tutti i veicoli con motore anteriore",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"I ciclomotori, per essere definiti tali, devono essere muniti di cambio manuale",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Nella strada rappresentata le carreggiate laterali sono, di norma, a senso unico",
+      "isCorrect":true,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"L'intersezione (incrocio) a raso è un'intersezione di due o più strade poste allo stesso livello",
+      "isCorrect":true
+   },
+   {
+      "question":"La potenza dei quadricicli non leggeri è sempre inferiore o uguale a 15 kW",
+      "isCorrect":true
+   },
+   {
+      "question":"In un passaggio a livello si possono trovare le luci rosse",
+      "isCorrect":true
+   },
+   {
+      "question":"Le strade extraurbane principali hanno una sola corsia per ogni senso di marcia",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Sulle strade extraurbane principali i quadricicli leggeri possono transitare",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Quando vi sono bambini fermi al semaforo bisogna usare prudenza, perché potrebbero scendere dal marciapiede, invadendo la carreggiata, quando ancora per loro il semaforo è disposto al rosso",
+      "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico può essere a raso o in rilievo (rialzata)",
+      "isCorrect":true
+   },
+   {
+      "question":"Le macchine operatrici a cingoli possono circolare ad una velocità superiore a 45 km/h",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Il salvagente serve a dividere i sensi di marcia in una strada a doppio senso di circolazione",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Quando una donna in stato di gravidanza attraversa la carreggiata bisogna darle la precedenza solo se attraversa da sinistra a destra",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"Sulle strade extraurbane principali i ciclomotori possono transitare",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"La strada è riservata alla circolazione dei soli autoveicoli e motocicli",
       "isCorrect":false
    },
    {
-      "question":"",
+      "question":"I ciclomotori non sono soggetti a revisione periodica",
       "isCorrect":false
    },
    {
-      "question":"",
-      "isCorrect":false
+      "question":"Il conducente che vede i pannelli in figura sta seguendo un rimorchio o semirimorchio per trasporto di cose con massa a pieno carico superiore a 3,5 tonnellate",
+      "isCorrect":true,
+      "image":"pannello_retroriflettente.gif"
    },
    {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che il pedone potrebbe fermarsi improvvisamente sulle strisce dell'attraversamento pedonale",
+      "isCorrect":true
    }
 ]
