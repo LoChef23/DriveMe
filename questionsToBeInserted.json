@@ -1739,55 +1739,233 @@
       "image":"curva_a_destra.gif"
    },
    {
-      "question":"",
-      "isCorrect":false
+      "question":"In presenza del segnale raffigurato non è consentito sorpassare altri veicoli su una carreggiata a doppio senso di circolazione con due sole corsie",
+      "isCorrect":true,
+      "image":"curva_a_sinistra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario moderare la velocità per evitare danni alle sospensioni",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   },
+   {
+      "question":"l segnale raffigurato preannuncia un tratto di strada non rettilineo, che limita la visibilità",
+      "isCorrect":true,
+      "image":"curva_a_sinistra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario circolare a velocità moderata se si traina un rimorchio",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"Il segnale raffigurato può preannunciare la presenza di una scuola frequentata da bambini nelle vicinanze",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato impone di usare i dispositivi di segnalazione acustica per far spostare i pedoni",
+      "isCorrect":false,
+      "image":"pericolo_attraversamento_pedonale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un restringimento sulla destra della carreggiata",
+      "isCorrect":false,
+      "image":"strettoia_assimentrica_a_sinistra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un pericolo che, in caso di forte vento laterale, è maggiore per i veicoli che trainano rimorchi",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'incrocio con una linea tranviaria",
+      "isCorrect":false,
+      "image":"passaggio_a_livello_senza_barriere.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada ove esiste il pericolo di presenza di pietre sulla carreggiata",
+      "isCorrect":true,
+      "image":"caduta_massi.gif"
+   },
+   {
+      "question":"Il segnale raffigurato può trovarsi prima di un tratto in salita seguito da una discesa",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   },
+   {
+      "question":"La figura rappresenta un segnale di pericolo",
+      "isCorrect":true,
+      "image":"passaggio_a_livello_con_barriere.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una strada deformata",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è integrato dal pannello che indica la lunghezza del tratto di strada interessato",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un ponte con forte pendenza",
+      "isCorrect":false,
+      "image":"pericolo_ponte_mobile.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada con pavimentazione irregolare",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada con probabile attraversamento di animali domestici",
+      "isCorrect":true,
+      "image":"animali_domestici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è consentito effettuare l'inversione di marcia",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è posto prima di una discesa pericolosa",
+      "isCorrect":true,
+      "image":"discesa_pericolosa.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che bisogna usare prudenza perché è vicino un pericolo",
+      "isCorrect":true,
+      "image":"altri_pericoli.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una serie di curve pericolose di cui la prima a destra",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, un pericolo che è maggiore per i veicoli a due ruote",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato, su una strada a doppio senso di circolazione con due sole corsie, si deve circolare il più possibile vicino al margine destro",
+      "isCorrect":true,
+      "image":"curva_a_sinistra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fermata di uno scuolabus",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia il divieto di continuare a percorrere quella strada",
+      "isCorrect":false,
+      "image":"banchina_cedevole.gif"
+   },
+   {
+      "question":"Il segnale (A), integrato con il pannello (B), preannuncia un passaggio a livello senza barriere",
+      "isCorrect":false,
+      "image":"altri_pericolo_binari_di_manovra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario tenere il volante con una presa più sicura",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito superare la velocità di 10 km/h",
+      "isCorrect":false,
+      "image":"discesa_pericolosa.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una confluenza da sinistra",
+      "isCorrect":false,
+      "image":"strettoia_assimentrica_a_sinistra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario frenare bruscamente in caso di ghiaccio",
+      "isCorrect":false,
+      "image":"strada_sdrucciolevole.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una forte variazione di pendenza della strada",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato bisogna usare molta prudenza se la strada è bagnata",
+      "isCorrect":true,
+      "image":"discesa_pericolosa.gif"
+   },
+   {
+      "question":"La figura rappresenta un segnale di pericolo",
+      "isCorrect":true,
+      "image":"passaggio_a_livello_senza_barriere.gif"
+   },
+   {
+      "question":"I pannelli raffigurati, se con due barre, indicano un attraversamento ferroviario con due soli binari",
+      "isCorrect":false,
+      "image":"pannelli_distanziometrici.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una località di volo a vela",
+      "isCorrect":false,
+      "image":"aeromobili.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'inizio di un senso unico",
+      "isCorrect":false,
+      "image":"strettoia_asimmetrica_a_destra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato, preannuncia lo sbocco su un molo",
+      "isCorrect":false,
+      "image":"banchina_cedevole.gif"
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
-   },
-   {
-      "question":"",
-      "isCorrect":false
+      "isCorrect":false,
+      "image":""
    }
 ]
