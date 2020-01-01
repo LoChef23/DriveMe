@@ -1143,5 +1143,651 @@
    {
       "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che il pedone potrebbe fermarsi improvvisamente sulle strisce dell'attraversamento pedonale",
       "isCorrect":true
+   },
+   {
+      "question":"Il conducente che intende sorpassare ciclisti o pedoni che occupano la carreggiata deve mantenere una distanza laterale di almeno 2 metri",
+      "isCorrect":false
+   },
+   {
+      "question":"Se, uscendo da un sentiero fangoso, si sporca notevolmente la strada, si può incorrere in una sanzione amministrativa",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada rappresentata è composta da otto corsie",
+      "isCorrect":true,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"Il passo carrabile è una strada riservata ai carri trainati da animali",
+      "isCorrect":false
+   },
+   {
+      "question":"La corsia di decelerazione serve per uscire dalla carreggiata dell'autostrada ed entrare nell'area di servizio",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente deve dare la precedenza al pedone con il bastone bianco o bianco-rosso che attraversa la strada, anche se è fuori dalle strisce di un attraversamento pedonale",
+      "isCorrect":true
+   },
+   {
+      "question":"Sulle strade extraurbane principali è consentito circolare alla velocità massima di 130 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"L'autostrada deve essere lateralmente recintata",
+      "isCorrect":true
+   },
+   {
+      "question":"Il passaggio a livello è caratterizzato dalla presenza di un sottopassaggio",
+      "isCorrect":false
+   },
+   {
+      "question":"La corsia di accelerazione serve per abbandonare la carreggiata dell'autostrada ed entrare in un'area di sosta",
+      "isCorrect":false
+   },
+   {
+      "question":"Il marciapiede è una parte della strada riservata anche alle biciclette",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente di un veicolo deve tutelare la propria e l'altrui sicurezza",
+      "isCorrect":true
+   },
+   {
+      "question":"Sulle banchine la sosta dei veicoli è consentita per un massimo di 5 ore",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando le persone anziane attraversano la carreggiata bisogna lampeggiare e suonare il clacson per farle attraversare rapidamente",
+      "isCorrect":false
+   },
+   {
+      "question":"Bisogna lasciare liberi i passaggi a livello e i binari del tram anche in caso di traffico intenso",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia può essere destinata alle soste di emergenza, in caso di guasto o malessere",
+      "isCorrect":true
+   },
+   {
+      "question":"Una zona a traffico limitato è delimitata da appositi segnali stradali di inizio e di fine",
+      "isCorrect":true
+   },
+   {
+      "question":"Il passo carrabile deve essere corredato da apposito segnale, che riporti l'ente e il numero di autorizzazione",
+      "isCorrect":true
+   },
+   {
+      "question":"L'isola di traffico serve a separare la carreggiata dalla banchina",
+      "isCorrect":false
+   },
+   {
+      "question":"I quadricicli sono soggetti a revisione periodica",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada può essere a doppio senso di circolazione",
+      "isCorrect":true
+   },
+   {
+      "question":"Entrati in un centro abitato, bisogna tenere conto che gli altri utenti della strada (quali pedoni e ciclisti) si mescolano maggiormente con il traffico motorizzato",
+      "isCorrect":true
+   },
+   {
+      "question":"Se un pedone con bastone bianco attraversa la strada fuori dalle strisce pedonali, bisogna suonare il clacson per sollecitarlo ad attraversare rapidamente",
+      "isCorrect":false
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre suonare per invitare i bambini che attraversano sulle strisce a dare la precedenza",
+      "isCorrect":false
+   },
+   {
+      "question":"I rimorchi leggeri sono quelli di massa massima a pieno carico fino a 750 kg",
+      "isCorrect":true
+   },
+   {
+      "question":"Il marciapiede è una parte della strada dove, di norma, è consentita la sosta dei ciclomotori",
+      "isCorrect":false
+   },
+   {
+      "question":"Nelle aree pedonali possono transitare i quadricicli a motore, purché non superino la velocità di 50 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre fare attenzione allo scuolabus, che dopo la fermata farà sicuramente retromarcia",
+      "isCorrect":false
+   },
+   {
+      "question":"La corsia è una pista riservata alle vetture da corsa",
+      "isCorrect":false
+   },
+   {
+      "question":"È consentito lasciare il veicolo in sosta sul marciapiede senza lasciare spazio ai pedoni che spingono una carrozzina per bambini",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente di un veicolo deve essere paziente e tollerante anche in caso di rallentamento della circolazione",
+      "isCorrect":true
+   },
+   {
+      "question":"È punito con la reclusione chi scommette su veicoli che partecipano a gare di velocità non autorizzate su strade pubbliche",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente deve passare per primo, in quanto ha la precedenza, quando un pedone non vedente con il bastone bianco attraversa la strada fuori dalle strisce pedonali",
+      "isCorrect":false
+   },
+   {
+      "question":"Il passo carrabile consente ai veicoli di accedere alle proprietà private laterali alla strada (garage, cortili, ecc.)",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia può essere riservata ai veicoli che intendono svoltare (corsia specializzata)",
+      "isCorrect":true
+   },
+   {
+      "question":"Le macchine agricole possono trasportare fino a quattro passeggeri",
+      "isCorrect":false
+   },
+   {
+      "question":"In un centro abitato, bisogna considerare che i pedoni e i diversamente abili devono sempre dare la precedenza ai veicoli a motore",
+      "isCorrect":false
+   },
+   {
+      "question":"Le competizioni sportive con veicoli su aree pubbliche sono consentite senza autorizzazione",
+      "isCorrect":false
+   },
+   {
+      "question":"Bisogna lasciare liberi i sottovia in caso di traffico intenso",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando vi sono bambini fermi al semaforo bisogna usare prudenza, perché può accadere che si spingano a vicenda, finendo sulla carreggiata",
+      "isCorrect":true
+   },
+   {
+      "question":"L'intersezione (incrocio) a livelli sfalsati comprende rampe, sovrappassi o sottopassi",
+      "isCorrect":true
+   },
+   {
+      "question":"È consentito spostare i segnali stradali verticali temporanei per parcheggiare il veicolo",
+      "isCorrect":false
+   },
+   {
+      "question":"Le autocaravan sono soggette a revisione ogni cinque anni",
+      "isCorrect":false
+   },
+   {
+      "question":"Fanno parte della carreggiata le banchine",
+      "isCorrect":false
+   },
+   {
+      "question":"Il motociclo è un qualunque veicolo a due ruote",
+      "isCorrect":false
+   },
+   {
+      "question":"L'attraversamento pedonale è una parte della carreggiata in cui è consentita la fermata ma non la sosta dei veicoli",
+      "isCorrect":false
+   },
+   {
+      "question":"In una zona a traffico limitato possono circolare solo i veicoli autorizzati",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando le persone anziane attraversano la carreggiata non bisogna avvicinarsi troppo con il veicolo, per evitare che si sentano minacciati e reagiscano con movimenti pericolosi",
+      "isCorrect":true
+   },
+   {
+      "question":"Con la patente di categoria A si possono guidare tutte le macchine agricole",
+      "isCorrect":false
+   },
+   {
+      "question":"I veicoli a due ruote, con motore termico fino a 50 cm3 di cilindrata e velocità massima di 45 km/h sono ciclomotori",
+      "isCorrect":true
+   },
+   {
+      "question":"Il marciapiede è una parte della strada, al di fuori della carreggiata, destinata alla circolazione dei pedoni",
+      "isCorrect":true
+   },
+   {
+      "question":"Il marciapiede è una parte della strada riservata, di norma, ai pedoni",
+      "isCorrect":true
+   },
+   {
+      "question":"In una carreggiata del tipo rappresentato possiamo iniziare un sorpasso anche se il conducente che sta dietro ha già iniziato la stessa manovra",
+      "isCorrect":false,
+      "image":"strada03.gif"
+   },
+   {
+      "question":"Non tutti i veicoli a motore a due ruote vengono classificati ciclomotori",
+      "isCorrect":true
+   },
+   {
+      "question":"Gettare mozziconi di sigaretta accesi dai finestrini è molto pericoloso soprattutto se sopraggiungono veicoli a due ruote",
+      "isCorrect":true
+   },
+   {
+      "question":"Il conducente di un veicolo deve cercare di prevedere il comportamento degli altri utenti",
+      "isCorrect":true
+   },
+   {
+      "question":"Gettare mozziconi accesi dai finestrini in prossimità di boschi o aree verdi potrebbe causare incendi",
+      "isCorrect":true
+   },
+   {
+      "question":"Quando la carreggiata è occupata da ciclisti o pedoni, per sorpassarli è prudente mantenere un'adeguata distanza di sicurezza laterale",
+      "isCorrect":true
+   },
+   {
+      "question":"I bambini, al semaforo, possono attraversare la strada solo dopo aver ricevuto un gesto di consenso da parte degli automobilisti",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente deve fermarsi e dare la precedenza al pedone non vedente con il bastone bianco che si accinge ad attraversare la strada fuori dalle strisce pedonali",
+      "isCorrect":true
+   },
+   {
+      "question":"Alla guida di un veicolo il conducente deve procedere a bassa velocità sopra le pozzanghere",
+      "isCorrect":true
+   },
+   {
+      "question":"Entrando in un centro abitato, bisogna continuare a mantenere la concentrazione alla guida anche se potrebbero aumentare i motivi per distrarsi",
+      "isCorrect":true
+   },
+   {
+      "question":"I caravan (roulottes) sono rimorchi attrezzati per essere adibiti ad alloggio",
+      "isCorrect":true
+   },
+   {
+      "question":"L'attraversamento pedonale è una parte della carreggiata, in cui i veicoli devono dare la precedenza ai pedoni, che attraversano sulle apposite strisce",
+      "isCorrect":true
+   },
+   {
+      "question":"In una carreggiata extraurbana del tipo rappresentato le corsie interne sono, di norma, riservate al sorpasso",
+      "isCorrect":true,
+      "image":"strada03.gif"
+   },
+   {
+      "question":"Entrando in un centro abitato bisogna tenere conto che può cambiare spesso la precedenza agli incroci",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia può essere riservata alla circolazione di alcune categorie di veicoli (taxi, autobus, ecc.)",
+      "isCorrect":true
+   },
+   {
+      "question":"La banchina è riservata ai veicoli lenti, nelle strade in salita",
+      "isCorrect":false
+   },
+   {
+      "question":"È vietato sorpassare ciclisti o pedoni che occupano la carreggiata",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando la carreggiata è occupata da ciclisti o pedoni, si devono sorpassare senza superare la velocità di 30 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando si viaggia in fila con altri veicoli è consentito distrarsi se si è a bassa velocità",
+      "isCorrect":false
+   },
+   {
+      "question":"Nella strada rappresentata, per ogni senso di marcia, la corsia di destra è dedicata, di norma, al sorpasso",
+      "isCorrect":false,
+      "image":"strada02.gif"
+   },
+   {
+      "question":"Il passo carrabile è un parcheggio scambiatore",
+      "isCorrect":false
+   },
+   {
+      "question":"In un centro abitato è sempre consentita la marcia per file parallele",
+      "isCorrect":false
+   },
+   {
+      "question":"La strada rappresentata è composta da quattro carreggiate, tutte a senso unico",
+      "isCorrect":false,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"Il passo carrabile è una zona per l'accesso dei veicoli alle proprietà laterali alla strada",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia di accelerazione serve ad entrare correttamente in autostrada",
+      "isCorrect":true
+   },
+   {
+      "question":"Nella strada rappresentata, la corsia centrale è a doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"strada01.gif"
+   },
+   {
+      "question":"La carreggiata è la traccia lasciata dalle ruote dei veicoli sulle strade innevate",
+      "isCorrect":false
+   },
+   {
+      "question":"La strada può comprendere le piste ciclabili",
+      "isCorrect":true
+   },
+   {
+      "question":"Bisogna lasciare liberi i cavalcavia in caso di traffico intenso",
+      "isCorrect":false
+   },
+   {
+      "question":"Sono consentite le gare di velocità, anche se non autorizzate, purché partecipino solo due autovetture",
+      "isCorrect":false
+   },
+   {
+      "question":"È vietato spostare o imbrattare la segnaletica stradale",
+      "isCorrect":true
+   },
+   {
+      "question":"La corsia di accelerazione può essere utilizzata per il sorpasso",
+      "isCorrect":false
+   },
+   {
+      "question":"L'intersezione (incrocio) a livelli sfalsati è munita di infrastrutture (rampe, sovrappassi, sottopassi) per il collegamento fra strade poste a livelli diversi",
+      "isCorrect":true
+   },
+   {
+      "question":"In vicinanza di un attraversamento pedonale, il conducente deve considerare che il pedone, nell'attraversare la strada, può diventare insicuro e ritornare improvvisamente indietro",
+      "isCorrect":true
+   },
+   {
+      "question":"In un passaggio a livello si può trovare un dispositivo di segnalazione acustica",
+      "isCorrect":true
+   },
+   {
+      "question":"La strada è qualsiasi area asfaltata, limitata lateralmente dagli attraversamenti pedonali",
+      "isCorrect":false
+   },
+   {
+      "question":"L'autovettura è un veicolo con dieci posti in totale, compreso il conducente",
+      "isCorrect":false
+   },
+   {
+      "question":"Quando le persone anziane attraversano la carreggiata bisogna tenere presente che, avendo più esperienza e un campo visivo maggiore, intuiscono meglio le situazioni di pericolo",
+      "isCorrect":false
+   },
+   {
+      "question":"Nelle strade extraurbane principali si possono trovare intersezioni (incroci) a livelli sfalsati",
+      "isCorrect":true
+   },
+   {
+      "question":"Il salvagente può essere segnalato da colonnine luminose a luce gialla fissa",
+      "isCorrect":true
+   },
+   {
+      "question":"Le macchine operatrici possono essere semoventi o trainate",
+      "isCorrect":true
+   },
+   {
+      "question":"Tutti i veicoli a motore con tre ruote sono dei motocicli",
+      "isCorrect":false
+   },
+   {
+      "question":"I motocicli hanno motore di cilindrata fino a 50 cm3 e sviluppano una velocità fino a 45 km/h",
+      "isCorrect":false
+   },
+   {
+      "question":"Il salvagente è una persona preposta al primo soccorso",
+      "isCorrect":false
+   },
+   {
+      "question":"Il conducente del motociclo può parcheggiare sul marciapiede anche se non vi sono appositi spazi di posteggio",
+      "isCorrect":false
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di capannoni industriali nelle vicinanze",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una strada dissestata",
+      "isCorrect":false,
+      "image":"banchina_cedevole.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una cunetta o un dosso",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il sorpasso dei tram",
+      "isCorrect":false,
+      "image":"attraversamento_tramviario.gif"
+   },
+   {
+      "question":"Il segnale raffigurato si trova, in genere, 150 metri prima di un tratto di strada con fondo irregolare",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto",
+      "isCorrect":true,
+      "image":"doppia_curva_la_prima_a_sinistra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un restringimento sulla destra della carreggiata",
+      "isCorrect":false,
+      "image":"strettoia_assimentrica_a_sinistra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato il sorpasso se si circola in una strada a senso unico",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   },
+   {
+      "question":"Il segnale raffigurato specifica la pendenza di una salita",
+      "isCorrect":false,
+      "image":"discesa_pericolosa.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato il conducente deve diminuire la distanza di sicurezza dal veicolo che lo precede",
+      "isCorrect":false,
+      "image":"discesa_pericolosa.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una corsia riservata ai filobus",
+      "isCorrect":false,
+      "image":"attraversamento_tramviario.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica che, poco oltre, occorrerà usare maggiore prudenza",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la possibilità di un improvviso abbagliamento dovuto ad aeroplani a bassa quota",
+      "isCorrect":true,
+      "image":"aeromobili.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è a fondo giallo se posto prima di un cantiere stradale",
+      "isCorrect":true,
+      "image":"semaforo.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia lavori in corso",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato bisogna far attenzione a possibili brusche frenate da parte dei veicoli che precedono",
+      "isCorrect":true,
+      "image":"caduta_massi.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato si deve rallentare usando continuamente i freni per non danneggiare il cambio di velocità",
+      "isCorrect":false,
+      "image":"discesa_pericolosa.gif"
+   },
+   {
+      "question":"Il segnale raffigurato può essere integrato con un pannello indicante TORNANTI",
+      "isCorrect":true,
+      "image":"doppia_curva_la_prima_a_destra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato bisogna usare particolare prudenza perché si incontra una discesa ripida",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada vicino ad un aeroporto",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è posto, di norma, a 150 metri dai binari, integrato dal relativo pannello distanziometrico",
+      "isCorrect":true,
+      "image": "passaggio_a_livello_senza_barriere.gif"
+   },
+   {
+      "question":"Il segnale raffigurato, se a fondo giallo, è posto in presenza di cantieri stradali",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una zona in cui possono circolare solo i veicoli in servizio pubblico",
+      "isCorrect":false,
+      "image":"attraversamento_tramviario.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in zone dove può avvenire il volo a bassa quota di aeroplani",
+      "isCorrect":true,
+      "image":"aeromobili.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"I pannelli raffigurati sono segnali di prescrizione",
+      "isCorrect":false,
+      "image":"pannelli_distanziometrici.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di aeroplani a bassa quota",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato non è consentito sostare o fermarsi in prossimità o in corrispondenza dei binari",
+      "isCorrect":true,
+      "image":"passaggio_a_livello_senza_barriere.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'attraversamento di una zona soggetta al pericolo di esplosioni",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito effettuare la fermata in corrispondenza delle curve",
+      "isCorrect":false,
+      "image":"doppia_curva_la_prima_a_sinistra.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un attraversamento ferroviario a livello munito di semibarriere",
+      "isCorrect":false,
+      "image":"passaggio_a_livello_senza_barriere.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica una deviazione per cantiere di lavoro",
+      "isCorrect":false,
+      "image":"curva_a_sinistra.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario moderare la velocità e tenere presente che la distanza di sicurezza aumenta in caso di ghiaccio",
+      "isCorrect":true,
+      "image":"strada_sdrucciolevole.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada deformata",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada pericoloso a causa di una cunetta",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di un campo d'aviazione",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un restringimento sui due lati della carreggiata",
+      "isCorrect":true,
+      "image":"strettoia_simmetrica.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia zone laterali alla strada che sono ad alto rischio d'incendio",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, la necessità per i veicoli telonati di rallentare e all'occorrenza di fermarsi",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
+   },
+   {
+      "question":"",
+      "isCorrect":false
    }
 ]
