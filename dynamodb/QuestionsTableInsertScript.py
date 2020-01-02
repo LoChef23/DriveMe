@@ -1,7 +1,7 @@
 import json
 from Question import Question
 
-with open('questionsToBeInserted.json', 'r') as questionsFile:
+with open('questionsToBeInserted.json', 'r', encoding='utf-8') as questionsFile:
     questionsList = json.load(questionsFile)
 
 i = 1
