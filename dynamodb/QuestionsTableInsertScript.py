@@ -1,3 +1,5 @@
+# file with questions should be uploaded in the main folder
+# script should be launched from the main folder
 import json
 from Question import Question
 
