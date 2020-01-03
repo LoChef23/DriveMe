@@ -2,9 +2,11 @@ import boto3
 
 class Question():
 
-    def __init__(self, questionID, questionText, isCorrect):
+    def __init__(self, questionID, questionText, questionExplanation, questionImage, isCorrect):
         self.questionID = questionID
         self.questionText = questionText
+        self.questionExplanation = questionExplanation
+        self.questionImage = questionImage
         self.isCorrect = isCorrect
 
     def import_in_dynamodb(self):
@@ -14,6 +16,8 @@ class Question():
             Item={
                 'QuestionID':{'N': self.questionID},
                 'QuestionText':{'S': self.questionText},
+                'QuestionExplanation':{'S': self.questionExplanation},
+                'QuestionImage':{'S': self.questionImage},
                 'isCorrect':{'BOOL': self.isCorrect}
             }
         )
