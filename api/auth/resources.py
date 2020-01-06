@@ -1,6 +1,5 @@
 from flask_restful import Resource, reqparse
 from models import User, UserNotYetRegistered
-from flask_jwt_extended import (create_access_token, create_refresh_token, jwt_required, jwt_refresh_token_required, get_jwt_identity, get_raw_jwt)
 
 loginParser = reqparse.RequestParser()
 loginParser.add_argument('username', help='This field could not be empty', required=True)
@@ -24,11 +23,18 @@ class UserRegistration(Resource):
             if registrationCheckForUserExistence != '':
                 return {"validationError": registrationCheckForUserExistence}
 
-        passwordHash = userToBeRegistered.hash_password()
-
-        usertInsertion = userToBeRegistered.insert_user_in_dynamodb()
-
-        return {"message":f"User {userToBeRegistered.username} successfully created"}
+        try:
+            passwordHash = userToBeRegistered.hash_password()
+            access_token = userToBeRegistered.generate_access_token()
+            usertInsertion = userToBeRegistered.insert_user_in_dynamodb()
+            return {
+                "message": f"User {userToBeRegistered.username} successfully registered",
+                "accessToken": access_token
+            }
+        except:
+            return {
+            "message":f"Something went wrong"
+            }, 500
 
 class UserLogin(Resource):
     def post(self):
@@ -41,8 +47,16 @@ class UserLogin(Resource):
         if loginValidationErrorMessage != '':
             return {"validationError": loginValidationErrorMessage}
         
-
-        return {"message":f"User {userToLogin.username} successfully logged in"}
+        try:
+            access_token = userToLogin.generate_access_token()
+            return {
+                "message": f"User {userToLogin.username} successfully logged in",
+                "accessToken": access_token
+            }
+        except:
+            return {
+            "message":f"Something went wrong"
+            }, 500
 
 class UserLogoutAccess(Resource):
     def post(self):

@@ -1,6 +1,7 @@
 import re
 from passlib.apps import custom_app_context as pwd_context
 import boto3
+from flask_jwt_extended import (create_access_token, create_refresh_token, jwt_required, jwt_refresh_token_required, get_jwt_identity, get_raw_jwt)
 
 
 class User():
@@ -25,6 +26,9 @@ class User():
             validationErrorMessage = ''
         
         return validationErrorMessage
+
+    def generate_access_token(self):
+        return create_access_token(identity = self.username)
 
 class UserNotYetRegistered(User):
 
