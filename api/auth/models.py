@@ -9,36 +9,59 @@ class User():
         self.username = username
         self.password = password
     
-    def validate_user(self):
-        if self.username == '':
-            validationErrorMessage = 'Please, insert a valid username'
-        elif len(self.password) < 8:
-            validationErrorMessage = 'Please, insert a valid password: password length should be at least 8 characters'
+    def validate_login(self):
+        client = boto3.client('dynamodb')
+        checkUserAttributes = client.get_item(
+            TableName='Users',
+            Key={
+                'UserID': {'S': self.username}
+            }
+        )
+        if 'Item' not in checkUserAttributes:
+            validationErrorMessage = f'User {self.username} does not exists, please register the user first'
+        elif not(pwd_context.verify(self.password, checkUserAttributes['Item']['UserPasswordHash']['S'])):
+            validationErrorMessage = 'Wrong password'
         else:
             validationErrorMessage = ''
         
         return validationErrorMessage
-
 
 class UserNotYetRegistered(User):
 
     def __init__(self, username, password, email):
         super().__init__(username, password)
         self.email = email
-    
-    #this part could be improved
-    def validate_user_email(self):
-        if not re.match(r"[^@]+@[^@]+\.[^@]+", self.email):
+
+    def validate_registration(self):
+        if self.username == '':
+            validationErrorMessage = 'Please, insert a valid username'
+        elif len(self.password) < 8:
+            validationErrorMessage = 'Please, insert a valid password: password length should be at least 8 characters'
+        elif not re.match(r"[^@]+@[^@]+\.[^@]+", self.email):
             validationErrorMessage = 'Please, insert a valid email'
         else:
             validationErrorMessage = ''
-                        
-        return validationErrorMessage 
+        
+        return validationErrorMessage
 
-    def hash_password(self):
-        hashedPassword = pwd_context.hash(self.password)
-        self.passwordHash = hashedPassword
-        return self.passwordHash
+    def check_user_existence(self):
+        client = boto3.client('dynamodb')
+        checkUser = client.get_item(
+            TableName='Users',
+            Key={
+                'UserID': {'S': self.username}
+            }
+        )
+        if 'Item' in checkUser:
+            validationErrorMessage = f'User {self.username} exists already, please choose another username'
+        else:
+            validationErrorMessage = ''
+
+        return validationErrorMessage
+    
+    def hash_password(self): 
+        self.passwordHash = pwd_context.hash(self.password)
+        return self.passwordHash        
 
     def insert_user_in_dynamodb(self):
         client = boto3.client('dynamodb')
