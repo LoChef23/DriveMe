@@ -1,5 +1,6 @@
 from flask_restful import Resource, reqparse
 from models import User, UserNotYetRegistered
+from flask_jwt_extended import (create_access_token, create_refresh_token, jwt_required, jwt_refresh_token_required, get_jwt_identity, get_raw_jwt)
 
 loginParser = reqparse.RequestParser()
 loginParser.add_argument('username', help='This field could not be empty', required=True)
@@ -13,28 +14,35 @@ class UserRegistration(Resource):
         registrationData = registrationParser.parse_args()
 
         userToBeRegistered = UserNotYetRegistered(registrationData['username'], registrationData['password'], registrationData['email'])
-        
-        #this part could be improved
-        userValidationErrorMessage = userToBeRegistered.validate_user()
-        if userValidationErrorMessage != '':
-            return {"validationError": userValidationErrorMessage}
-        else:
-            userEmailValidationErrorMessage = userToBeRegistered.validate_user_email()
-            if userEmailValidationErrorMessage != '':
-                return {"validationError": userEmailValidationErrorMessage}
-        
-        passwordHash = userToBeRegistered.hash_password()
 
-        # check if user is already existing with that username first
+        #validations: this part could be improved
+        registrationValidationErrorMessage = userToBeRegistered.validate_registration()
+        if registrationValidationErrorMessage != '':
+            return {"validationError": registrationValidationErrorMessage}
+        else:
+            registrationCheckForUserExistence = userToBeRegistered.check_user_existence()
+            if registrationCheckForUserExistence != '':
+                return {"validationError": registrationCheckForUserExistence}
+
+        passwordHash = userToBeRegistered.hash_password()
 
         usertInsertion = userToBeRegistered.insert_user_in_dynamodb()
 
-        return usertInsertion
+        return {"message":f"User {userToBeRegistered.username} successfully created"}
 
 class UserLogin(Resource):
     def post(self):
         loginData = loginParser.parse_args()
-        return loginData
+
+        userToLogin = User(loginData['username'], loginData['password'])
+
+        #validations: this part could be improved
+        loginValidationErrorMessage = userToLogin.validate_login()
+        if loginValidationErrorMessage != '':
+            return {"validationError": loginValidationErrorMessage}
+        
+
+        return {"message":f"User {userToLogin.username} successfully logged in"}
 
 class UserLogoutAccess(Resource):
     def post(self):
