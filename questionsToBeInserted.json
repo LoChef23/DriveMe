@@ -2779,33 +2779,343 @@
       "image":"curva_a_destra.gif"
    }, 
    {
-      "question":"",
-      "isCorrect":false,
-      "image":""
+      "question":"Il segnale raffigurato può essere associato con un segnale di limite massimo di velocità",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
    }, 
    {
-      "question":"",
-      "isCorrect":false,
-      "image":""
+      "question":"Il segnale raffigurato indica un tratto di strada deformata lungo 380 metri",
+      "isCorrect":true,
+      "image":"strada_deformata_380_metri.gif"
    }, 
    {
-      "question":"",
-      "isCorrect":false,
-      "image":""
+      "question":"Il segnale raffigurato preannuncia una strada in cattivo stato",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
    }, 
    {
-      "question":"",
-      "isCorrect":false,
-      "image":""
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
    }, 
    {
-      "question":"",
-      "isCorrect":false,
-      "image":""
+      "question":"Il segnale raffigurato preannuncia un tratto di strada dissestata",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
    }, 
    {
-      "question":"",
+      "question":"In presenza del segnale raffigurato è importante prevedere eventuali sbandamenti dei veicoli provenienti dal senso opposto",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario adeguare la velocità in relazione alle particolari condizioni del fondo stradale",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario moderare la velocità per evitare eccessive sollecitazioni e danni alle sospensioni",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario tenere saldamente il volante, per controllare possibili sbandamenti",
+      "isCorrect":true,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una discesa pericolosa",
       "isCorrect":false,
-      "image":""
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia più curve consecutive",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una serie di dossi",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una doppia curva",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un dosso",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada a visibilità limitata",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato indica un tratto di strada deformata lungo 320 metri",
+      "isCorrect":false,
+      "image":"strada_deformanta_tra_320_m.png"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è obbligatorio circolare al centro della carreggiata",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato non è necessario rallentare in caso di scarsa visibilità",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è vietato il sorpasso",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario rallentare solo se provengono veicoli dal senso opposto",
+      "isCorrect":false,
+      "image":"strada_deformata.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un dosso",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada pericoloso per limitata visibilità",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato bisogna considerare che la visibilità è limitata",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una variazione di pendenza della strada con limitata visibilità",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario moderare la velocità in relazione alla visibilità",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato sono vietate la sosta e la fermata sia sul tratto in salita che su quello in discesa",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è vietato il sorpasso sul tratto in salita, se la strada è a doppio senso di circolazione con due sole corsie",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una cunetta",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cattivo stato",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada con pavimentazione irregolare",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia l'ingresso in una galleria",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito degli autobus",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è vietato il sorpasso nel tratto in discesa",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è possibile effettuare l'inversione di marcia nel tratto in discesa",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di precedenza",
+      "isCorrect":false,
+      "image":"dosso.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada pericoloso a causa di una cunetta",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato si trova prima di un tratto in discesa seguito da uno in salita",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada che potrebbe allagarsi in caso di forti piogge",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario moderare la velocità per mantenere il controllo del veicolo",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato e in caso di pioggia è necessario prevedere la possibilità di accumulo di acqua nella cunetta",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario prevedere la possibilità di accumulo di fango e detriti nella cunetta",
+      "isCorrect":true,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato indica una banchina cedevole",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cattivo stato",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un restringimento della carreggiata",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un dosso",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è necessario rallentare solo se provengono veicoli dal senso opposto",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una banchina cedevole",
+      "isCorrect":false,
+      "image":"cunetta.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una curva pericolosa a destra",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è posto, di norma, a 150 metri dal punto di inizio della curva",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato può essere integrato con pannello con la scritta TORNANTE",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato richiede di moderare la velocità",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada pericoloso",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato, posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è necessario regolare la velocità in relazione alla visibilità e al raggio della curva",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è necessario percorrere la curva con più attenzione se la strada è bagnata",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie",
+      "isCorrect":true,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un obbligo di svolta a destra",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in salita",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un cambio di corsia",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è posto, di norma, a 5 metri dall'inizio della curva",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato, posto su una strada a doppio senso di circolazione, impone di portarsi sulla parte sinistra della carreggiata per affrontare meglio la curva",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è consentita la fermata, ma non la sosta",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è consentito sorpassare i motocicli, anche invadendo la corsia opposta",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è consentito effettuare manovre di retromarcia",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è consentito sorpassare i motocicli, anche superando di poco la striscia bianca continua",
+      "isCorrect":false,
+      "image":"curva_a_destra.gif"
    }
 ]
