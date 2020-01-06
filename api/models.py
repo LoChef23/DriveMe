@@ -2,7 +2,7 @@ import re
 import random
 from passlib.apps import custom_app_context as pwd_context
 import boto3
-from flask_jwt_extended import (create_access_token, create_refresh_token, jwt_required, jwt_refresh_token_required, get_jwt_identity, get_raw_jwt)
+from flask_jwt_extended import create_access_token
 
 
 class User():
@@ -37,7 +37,7 @@ class UserNotYetRegistered(User):
         super().__init__(username, password)
         self.email = email
 
-    def validate_registration(self):
+    def validate_registration_data(self):
         if self.username == '':
             validationErrorMessage = 'Please, insert a valid username'
         elif len(self.password) < 8:
@@ -46,10 +46,7 @@ class UserNotYetRegistered(User):
             validationErrorMessage = 'Please, insert a valid email'
         else:
             validationErrorMessage = ''
-        
-        return validationErrorMessage
 
-    def check_user_existence(self):
         client = boto3.client('dynamodb')
         checkUser = client.get_item(
             TableName='Users',

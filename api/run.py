@@ -7,7 +7,7 @@ from flask_jwt_extended import JWTManager
 app = Flask(__name__)
 api = Api(app)
 
-app.config['JWT_SECRET_KEY'] = 'jwt-secret-string'
+app.config['JWT_SECRET_KEY'] = '\x0cS:7\xfb\xbd\x96A\xc6\xf8\x8a\xa8\xeeN7\xc8\r\n\xf3y<\x0c}A'
 jwt = JWTManager(app)
 
 

@@ -15,14 +15,10 @@ class UserRegistration(Resource):
 
         userToBeRegistered = UserNotYetRegistered(registrationData['username'], registrationData['password'], registrationData['email'])
 
-        #validations: this part could be improved
-        registrationValidationErrorMessage = userToBeRegistered.validate_registration()
+        #validations
+        registrationValidationErrorMessage = userToBeRegistered.validate_registration_data()
         if registrationValidationErrorMessage != '':
             return {"validationError": registrationValidationErrorMessage}
-        else:
-            registrationCheckForUserExistence = userToBeRegistered.check_user_existence()
-            if registrationCheckForUserExistence != '':
-                return {"validationError": registrationCheckForUserExistence}
 
         try:
             passwordHash = userToBeRegistered.hash_password()
@@ -40,7 +36,7 @@ class UserLogin(Resource):
 
         userToLogin = User(loginData['username'], loginData['password'])
 
-        #validations: this part could be improved
+        #validations
         loginValidationErrorMessage = userToLogin.validate_login()
         if loginValidationErrorMessage != '':
             return {"validationError": loginValidationErrorMessage}
