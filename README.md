@@ -44,6 +44,7 @@ Application has been developed using the REST architecture style and could be di
            anRpIjoiMWVjMGI1ZGEtMGVkZC00MDliLTg0ODQtZDYyYzQyZGJiNDg2IiwiZXhwIjoxNTc4NT
            IwOTkxLCJpZGVudGl0eSI6ImdpdWxpbzk4NzgwNyIsImZyZXNoIjpmYWxzZSwidHlw
            ZSI6ImFjY2VzcyJ9.yXbp3LsbXJO8Nh-KSMHVRgu1j4ZV_tk9lCc6oBlJIns"
+      }
     
 2. core part: after receiving the request and verifying the validity of the Token, answers with a random question retrieved from the      database. This part consists in 1 endpoint:
    
