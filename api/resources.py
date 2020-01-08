@@ -1,5 +1,6 @@
 from flask_restful import Resource, reqparse
-from models import User, UserNotYetRegistered
+from models import User, UserNotYetRegistered, Question
+from flask_jwt_extended import jwt_required
 
 loginParser = reqparse.RequestParser()
 loginParser.add_argument('username', help='This field could not be empty', required=True)
@@ -14,23 +15,16 @@ class UserRegistration(Resource):
 
         userToBeRegistered = UserNotYetRegistered(registrationData['username'], registrationData['password'], registrationData['email'])
 
-        #validations: this part could be improved
-        registrationValidationErrorMessage = userToBeRegistered.validate_registration()
+        #validations
+        registrationValidationErrorMessage = userToBeRegistered.validate_registration_data()
         if registrationValidationErrorMessage != '':
             return {"validationError": registrationValidationErrorMessage}
-        else:
-            registrationCheckForUserExistence = userToBeRegistered.check_user_existence()
-            if registrationCheckForUserExistence != '':
-                return {"validationError": registrationCheckForUserExistence}
 
         try:
             passwordHash = userToBeRegistered.hash_password()
             access_token = userToBeRegistered.generate_access_token()
             usertInsertion = userToBeRegistered.insert_user_in_dynamodb()
-            return {
-                "message": f"User {userToBeRegistered.username} successfully registered",
-                "accessToken": access_token
-            }
+            return {"accessToken": access_token}
         except:
             return {
             "message":f"Something went wrong"
@@ -42,17 +36,14 @@ class UserLogin(Resource):
 
         userToLogin = User(loginData['username'], loginData['password'])
 
-        #validations: this part could be improved
+        #validations
         loginValidationErrorMessage = userToLogin.validate_login()
         if loginValidationErrorMessage != '':
             return {"validationError": loginValidationErrorMessage}
         
         try:
             access_token = userToLogin.generate_access_token()
-            return {
-                "message": f"User {userToLogin.username} successfully logged in",
-                "accessToken": access_token
-            }
+            return {"accessToken": access_token}
         except:
             return {
             "message":f"Something went wrong"
@@ -69,3 +60,9 @@ class UserLogoutRefresh(Resource):
 class TokenRefresh(Resource):
     def post(self):
         return {'message': 'Token refresh'}
+
+class QuestionToBeSent(Resource):
+    @jwt_required
+    def get(self):
+        question = Question()
+        return question.retrieve_random_question()
