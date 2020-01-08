@@ -1,6 +1,13 @@
 # DriveMe
 Drive me is an application aimed to help users preparing exams or studying any kind of topic with some simple true/false Quizzes.
-In our use case we choosed the driving license topic.
+In our use case we choosed the driving license topic
+
+
+# Architecture
+Application has been deployed on an AWS EC2 instance and uses the NoSQL database AWS Dynamo DB:
+
+![Alt text]![image](https://user-images.githubusercontent.com/44367822/72021389-337f6600-326e-11ea-9e15-b31a4bcfcc21.png)
+
 
 # Solution
 Application has been developed using the REST architecture style and could be divided into 2 main parts:
@@ -63,14 +70,3 @@ Application has been developed using the REST architecture style and could be di
             "questionImage": "passaggio_a_livello_con_barriere.gif"
       }
       
-  
-# Architecture
-Application has been deployed on an AWS EC2 instance and uses the NoSQL database AWS Dynamo DB:
-
-
-
-
-
-
-
-
