@@ -2,10 +2,9 @@ import boto3
 
 class Question():
 
-    def __init__(self, questionID, questionText, questionExplanation, questionImage, isCorrect):
+    def __init__(self, questionID, questionText, questionImage, isCorrect):
         self.questionID = questionID
         self.questionText = questionText
-        self.questionExplanation = questionExplanation
         self.questionImage = questionImage
         self.isCorrect = isCorrect
 
@@ -16,7 +15,6 @@ class Question():
             Item={
                 'QuestionID':{'N': self.questionID},
                 'QuestionText':{'S': self.questionText},
-                'QuestionExplanation':{'S': self.questionExplanation},
                 'QuestionImage':{'S': self.questionImage},
                 'isCorrect':{'BOOL': self.isCorrect}
             }
