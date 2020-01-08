@@ -6,7 +6,7 @@ In our use case we choosed the driving license topic
 # Architecture
 Application has been deployed on an AWS EC2 instance and uses the NoSQL database AWS Dynamo DB:
 
-![Alt text]![image](https://user-images.githubusercontent.com/44367822/72021389-337f6600-326e-11ea-9e15-b31a4bcfcc21.png)
+![image](https://user-images.githubusercontent.com/44367822/72021389-337f6600-326e-11ea-9e15-b31a4bcfcc21.png)
 
 
 # Solution
