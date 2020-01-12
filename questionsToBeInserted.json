@@ -4858,8 +4858,343 @@
       "image":"pericolo_incendio.gif"
    }, 
    {
-      "question":"",
+      "question":"Il segnale raffigurato vieta la circolazione nei due sensi",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito a tutti i veicoli",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta la circolazione ai quadricicli a motore",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è posto su entrambi gli accessi della strada",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito agli autocarri",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato può avere validità limitata nel tempo, indicata in un pannello integrativo",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente il transito ai pedoni",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta la circolazione ai ciclomotori",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un DIVIETO DI TRANSITO",
+      "isCorrect":true,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente il transito alle biciclette",
       "isCorrect":false,
-      "image":"pericolo_incendio.gif"
-   }
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito unicamente ai veicoli a motore",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente, di norma, di entrare nella strada per effettuare la sosta e le operazioni di carico e scarico",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato non consente l'ingresso, ma solo l'uscita dalla strada",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato indica che la circolazione è a senso unico",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente il transito alle autovetture con motore elettrico",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato, se barrato in rosso, indica la fine del divieto",
+      "isCorrect":false,
+      "image":"divieto_di_transito.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta di entrare in una strada accessibile invece dall'altra parte",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"I veicoli senza motore devono rispettare il divieto imposto dal segnale rappresentato",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"I quadricicli a motore devono rispettare il divieto imposto dal segnale rappresentato",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"I taxi devono rispettare il divieto imposto dal segnale rappresentato",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il divieto imposto dal segnale raffigurato deve essere rispettato anche nelle ore notturne",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è posto su una strada a senso unico",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un SENSO VIETATO",
+      "isCorrect":true,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente l'accesso ai motocicli",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente l'accesso ai ciclomotori",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato non consente la circolazione dei veicoli in quella strada",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è posto su una carreggiata a doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta la sosta, ma non la fermata",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il sorpasso",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente la circolazione del traffico locale in entrambi i sensi",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il divieto imposto dal segnale raffigurato deve essere rispettato, nei centri abitati, dalle ore 8.00 alle ore 20.00",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un DIVIETO DI TRANSITO",
+      "isCorrect":false,
+      "image":"senso_vietato.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato consente ad un'autovettura di sorpassare un motociclo",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato si può trovare sia sulle strade urbane che su quelle extraurbane",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   }, 
+   {
+      "question":"Il segnale (A) può essere ripetuto dopo ogni incrocio con pannello integrativo (B)",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso_continuato.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta di sorpassare autocarri",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di sorpassare i ciclomotori",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il sorpasso fra autoveicoli, anche se la manovra può compiersi entro la semicarreggiata",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato un autocarro può sorpassare un motociclo",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato un'autovettura può sorpassare un ciclomotore",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito agli autotreni, autoarticolati ed autosnodati",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato sorpassare anche gli autoveicoli di massa complessiva inferiore a 3,5 tonnellate",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato sorpassare veicoli a motore diversi dai motocicli e dai ciclomotori",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito sorpassare veicoli a trazione animale",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito sorpassare ciclomotori a due ruote",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso dei motocicli",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato consente il sorpasso delle biciclette",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso dei veicoli sprovvisti di motore",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso dei veicoli a braccia",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso delle carrozze a cavalli",
+      "isCorrect":true,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato consente ad un motociclo di sorpassare un'autovettura",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la corsia di destra è riservata ai veicoli lenti",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato consente di sorpassare un'autovettura purché non si oltrepassi la striscia continua",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato vieta ad un motociclo di sorpassare una bicicletta",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato consente il sorpasso tra autovetture se non vi è la striscia bianca continua",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato consente ad un'autovettura di sorpassare un autocarro",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato si trova solo sulle strade extraurbane principali",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è vietato sorpassare qualsiasi veicolo",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è vietato il transito alle autovetture",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato impone di dare la precedenza nei sensi unici alternati",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente ad un motociclo di superare un autobus",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso degli autoveicoli a motore elettrico",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"Il segnale raffigurato preannuncia una strettoia",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso delle macchine agricole",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso delle macchine operatrici",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso dei veicoli a motore che procedono molto lentamente",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   } ,
+   {
+      "question":"In presenza del segnale raffigurato è consentito il sorpasso dei veicoli che hanno segnalato l'intenzione di svoltare a destra",
+      "isCorrect":false,
+      "image":"divieto_di_sorpasso.png"
+   }  
 ]
