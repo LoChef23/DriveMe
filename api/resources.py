@@ -49,18 +49,6 @@ class UserLogin(Resource):
             "message":f"Something went wrong"
             }, 500
 
-class UserLogoutAccess(Resource):
-    def post(self):
-        return {'message': 'User logout'}
-      
-class UserLogoutRefresh(Resource):
-    def post(self):
-        return {'message': 'User logout'}
-      
-class TokenRefresh(Resource):
-    def post(self):
-        return {'message': 'Token refresh'}
-
 class QuestionToBeSent(Resource):
     @jwt_required
     def get(self):

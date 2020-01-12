@@ -94,6 +94,5 @@ class Question():
             'questionID': result['Item']['QuestionID']['N'],
             'questionText': result['Item']['QuestionText']['S'],
             'questionAnswer': result['Item']['isCorrect']['BOOL'],
-            'questionExplanation': result['Item']['QuestionExplanation']['S'],
             'questionImage': result['Item']['QuestionImage']['S']
         }
