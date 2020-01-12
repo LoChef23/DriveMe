@@ -1549,6 +1549,11 @@
       "image":"banchina_cedevole.gif"
    },
    {
+      "question":"Il segnale raffigurato preannuncia la presenza di pietrisco sulla pavimentazione",
+      "isCorrect":false,
+      "image":"banchina_cedevole.gif"
+   },
+   {
       "question":"Il segnale raffigurato preannuncia una cunetta o un dosso",
       "isCorrect":false,
       "image":"strada_deformata.gif"
@@ -1594,29 +1599,14 @@
       "image":"attraversamento_tramviario.gif"
    },
    {
-      "question":"Il segnale raffigurato indica che, poco oltre, occorrerà usare maggiore prudenza",
-      "isCorrect":true,
-      "image":"doppio_senso_di_circolazione.gif"
-   },
-   {
       "question":"Il segnale raffigurato preannuncia la possibilità di un improvviso abbagliamento dovuto ad aeroplani a bassa quota",
       "isCorrect":true,
       "image":"aeromobili.gif"
    },
    {
-      "question":"Il segnale raffigurato è a fondo giallo se posto prima di un cantiere stradale",
-      "isCorrect":true,
-      "image":"semaforo.gif"
-   },
-   {
       "question":"Il segnale raffigurato preannuncia lavori in corso",
       "isCorrect":false,
       "image":"dosso.gif"
-   },
-   {
-      "question":"In presenza del segnale raffigurato bisogna far attenzione a possibili brusche frenate da parte dei veicoli che precedono",
-      "isCorrect":true,
-      "image":"caduta_massi.gif"
    },
    {
       "question":"In presenza del segnale raffigurato si deve rallentare usando continuamente i freni per non danneggiare il cambio di velocità",
@@ -1629,11 +1619,6 @@
       "image":"doppia_curva_la_prima_a_destra.gif"
    },
    {
-      "question":"In presenza del segnale raffigurato bisogna usare particolare prudenza perché si incontra una discesa ripida",
-      "isCorrect":false,
-      "image":"sbocco_su_molo_o_su_argine.gif"
-   },
-   {
       "question":"Il segnale raffigurato preannuncia un tratto di strada vicino ad un aeroporto",
       "isCorrect":false,
       "image":"forte_vento_laterale.gif"
@@ -1644,17 +1629,27 @@
       "image": "passaggio_a_livello_senza_barriere.gif"
    },
    {
-      "question":"Il segnale raffigurato, se a fondo giallo, è posto in presenza di cantieri stradali",
-      "isCorrect":true,
-      "image":"materiale_instabile_sulla_strada.gif"
-   },
-   {
       "question":"Il segnale raffigurato preannuncia una zona in cui possono circolare solo i veicoli in servizio pubblico",
       "isCorrect":false,
       "image":"attraversamento_tramviario.gif"
    },
    {
       "question":"Il segnale raffigurato è posto in zone dove può avvenire il volo a bassa quota di aeroplani",
+      "isCorrect":true,
+      "image":"aeromobili.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la possibilità di un improvviso e forte rumore dovuto ad aeroplani a bassa quota",
+      "isCorrect":true,
+      "image":"aeromobili.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è posto nelle vicinanze di aeroporti",
+      "isCorrect":true,
+      "image":"aeromobili.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è posto nelle vicinanze di piste per l'atterraggio ed il decollo di aeroplani",
       "isCorrect":true,
       "image":"aeromobili.gif"
    },
@@ -1677,11 +1672,6 @@
       "question":"In presenza del segnale raffigurato non è consentito sostare o fermarsi in prossimità o in corrispondenza dei binari",
       "isCorrect":true,
       "image":"passaggio_a_livello_senza_barriere.gif"
-   },
-   {
-      "question":"Il segnale raffigurato preannuncia l'attraversamento di una zona soggetta al pericolo di esplosioni",
-      "isCorrect":false,
-      "image":"pericolo_incendio.gif"
    },
    {
       "question":"In presenza del segnale raffigurato è consentito effettuare la fermata in corrispondenza delle curve",
@@ -1719,12 +1709,27 @@
       "image":"forte_vento_laterale.gif"
    },
    {
-      "question":"Il segnale raffigurato preannuncia zone laterali alla strada che sono ad alto rischio d'incendio",
-      "isCorrect":true,
-      "image":"pericolo_incendio.gif"
+      "question":"Il segnale raffigurato indica da quale direzione proviene il vento",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza, nelle vicinanze, di un parco giochi",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
    },
    {
       "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, la necessità per i veicoli telonati di rallentare e all'occorrenza di fermarsi",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, possibili sbandamenti dei veicoli provenienti dal senso opposto",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, un pericolo che aumenta all'aumentare della superficie laterale del veicolo",
       "isCorrect":true,
       "image":"forte_vento_laterale.gif"
    },
@@ -1774,11 +1779,6 @@
       "image":"passaggio_a_livello_senza_barriere.gif"
    },
    {
-      "question":"Il segnale raffigurato preannuncia un tratto di strada ove esiste il pericolo di presenza di pietre sulla carreggiata",
-      "isCorrect":true,
-      "image":"caduta_massi.gif"
-   },
-   {
       "question":"Il segnale raffigurato può trovarsi prima di un tratto in salita seguito da una discesa",
       "isCorrect":false,
       "image":"cunetta.gif"
@@ -1797,11 +1797,6 @@
       "question":"Il segnale raffigurato preannuncia una strada deformata",
       "isCorrect":false,
       "image":"cunetta.gif"
-   },
-   {
-      "question":"Il segnale raffigurato è integrato dal pannello che indica la lunghezza del tratto di strada interessato",
-      "isCorrect":true,
-      "image":"pericolo_incendio.gif"
    },
    {
       "question":"Il segnale raffigurato preannuncia un tratto di strada con pavimentazione irregolare",
@@ -1829,12 +1824,27 @@
       "image":"altri_pericoli.gif"
    },
    {
+      "question":"Il segnale raffigurato può essere usato senza pannelli integrativi per indicare un pericolo generico in caso di emergenza",
+      "isCorrect":true,
+      "image":"altri_pericoli.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un pericolo diverso da quelli per cui sono previsti specifici segnali",
+      "isCorrect":true,
+      "image":"altri_pericoli.gif"
+   },
+   {
       "question":"Il segnale raffigurato preannuncia una serie di curve pericolose di cui la prima a destra",
       "isCorrect":false,
       "image":"curva_a_destra.gif"
    },
    {
       "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, un pericolo che è maggiore per i veicoli a due ruote",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, un pericolo che è maggiore per i veicoli che trainano caravan",
       "isCorrect":true,
       "image":"forte_vento_laterale.gif"
    },
@@ -1904,12 +1914,22 @@
       "image":"aeromobili.gif"
    },
    {
+      "question":"Il segnale raffigurato preannuncia una zona riservata ai veicoli dell'aeronautica militare",
+      "isCorrect":false,
+      "image":"aeromobili.gif"
+   },
+   {
       "question":"Il segnale raffigurato, preannuncia lo sbocco su un molo",
       "isCorrect":false,
       "image":"banchina_cedevole.gif"
    },
    {
       "question":"Il segnale raffigurato preannuncia una zona dove, in caso di forte vento laterale, i veicoli scarichi o leggeri hanno maggiore tenuta di strada",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia, in caso di forte vento laterale, un pericolo che è minore per i veicoli con carichi voluminosi sopra il tetto",
       "isCorrect":false,
       "image":"forte_vento_laterale.gif"
    },
@@ -2004,6 +2024,11 @@
       "image":"pericolo_semaforo_orizzontale.gif"
    },
    {
+      "question":"Il segnale raffigurato indica l'obbligo di arresto ad un posto di blocco stradale istituito dagli organi di polizia",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_orizzontale.gif"
+   },
+   {
       "question":"Il segnale raffigurato può presegnalare dossi artificiali",
       "isCorrect":true,
       "image":"dosso.gif"
@@ -2034,24 +2059,9 @@
       "image":"doppia_curva_la_prima_a_destra.gif"
    },
    {
-      "question":"In presenza del segnale raffigurato è opportuno mantenere una distanza maggiore dal veicolo che precede",
-      "isCorrect":true,
-      "image":"materiale_instabile_sulla_strada.gif"
-   },
-   {
       "question":"In presenza del segnale raffigurato è consentito il sorpasso invadendo la corsia opposta",
       "isCorrect":false,
       "image":"passaggio_a_livello_senza_barriere.gif"
-   },
-   {
-      "question":"Il segnale raffigurato preannuncia una strettoia a destra",
-      "isCorrect":false,
-      "image":"caduta_massi.gif"
-   },
-   {
-      "question":"Il segnale raffigurato preannuncia la possibilità di trovare improvvisamente animali vaganti sulla carreggiata",
-      "isCorrect":true,
-      "image":"animali_selvatici_vaganti.gif"
    },
    {
       "question":"Il segnale raffigurato è un segnale di pericolo",
@@ -2062,11 +2072,6 @@
       "question":"Il segnale raffigurato preannuncia la presenza di veicoli a trazione animale",
       "isCorrect":false,
       "image":"animali_domestici_vaganti.gif"
-   },
-   {
-      "question":"Il segnale raffigurato impone di dare la precedenza ai veicoli provenienti in senso contrario",
-      "isCorrect":false,
-      "image":"doppio_senso_di_circolazione.gif"
    },
    {
       "question":"Il segnale raffigurato preannuncia un attraversamento ferroviario protetto da barriere o semibarriere, qualunque sia il numero dei binari",
@@ -2119,9 +2124,9 @@
       "image":"pericolo_circolazione_rotatoria.gif"
    }, 
    {
-      "question":"Il segnale raffigurato consiglia di accelerare per aumentare l'aderenza del veicolo sull'asfalto",
-      "isCorrect":false,
-      "image":"materiale_instabile_sulla_strada.gif"
+      "question":"Il segnale raffigurato preannuncia un incrocio di più strade regolato con circolazione nel senso indicato dalle frecce",
+      "isCorrect":true,
+      "image":"pericolo_circolazione_rotatoria.gif"
    }, 
    {
       "question":"Il segnale raffigurato preannuncia un ostacolo da aggirare a sinistra",
@@ -2129,19 +2134,9 @@
       "image":"curva_a_sinistra.gif"
    }, 
    {
-      "question":"Il segnale raffigurato richiede di rallentare e all'occorrenza di arrestarsi se gli animali attraversano improvvisamente la strada",
-      "isCorrect":true,
-      "image":"animali_selvatici_vaganti.gif"
-   }, 
-   {
       "question":"Il segnale raffigurato invita a circolare a velocità moderata",
       "isCorrect":true,
       "image":"pericolo_bambini.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato si riferisce soltanto alle autovetture",
-      "isCorrect":false,
-      "image":"sbocco_su_molo_o_su_argine.gif"
    }, 
    {
       "question":"Il segnale raffigurato si trova dopo i pannelli distanziometrici a barre rosse",
@@ -2159,9 +2154,9 @@
       "image":"pericolo_semaforo_orizzontale.gif"
    }, 
    {
-      "question":"Il segnale raffigurato preannuncia un semaforo",
+      "question":"Il segnale raffigurato indica che bisogna moderare la velocità per potersi all'occorrenza fermare",
       "isCorrect":true,
-      "image":"semaforo.gif"
+      "image":"pericolo_semaforo_orizzontale.gif"
    }, 
    {
       "question":"Il segnale raffigurato preannuncia una cunetta",
@@ -2229,18 +2224,33 @@
       "image":"forte_vento_laterale.gif"
    }, 
    {
+      "question":"Il segnale raffigurato preannuncia la possibile presenza di ghiaccio sulla strada",
+      "isCorrect":false,
+      "image":"forte_vento_laterale.gif"
+   }, 
+   {
       "question":"In presenza del segnale raffigurato il sorpasso del tram è consentito solo a sinistra",
       "isCorrect":false,
       "image":"attraversamento_tramviario.gif"
    }, 
    {
-      "question":"Il segnale raffigurato indica l'ingresso di uno 'zoo safari'",
-      "isCorrect":false,
-      "image":"animali_selvatici_vaganti.gif"
-   }, 
-   {
       "question":"Il segnale raffigurato è un segnale di pericolo",
       "isCorrect":true,
+      "image":"banchina_cedevole.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è consigliabile non avvicinarsi troppo al margine destro della strada",
+      "isCorrect":true,
+      "image":"banchina_cedevole.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato deve essere integrato con il segnale di limite di velocità",
+      "isCorrect":false,
+      "image":"banchina_cedevole.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
       "image":"banchina_cedevole.gif"
    }, 
    {
@@ -2254,29 +2264,24 @@
       "image":"strada_sdrucciolevole.gif"
    }, 
    {
-      "question":"Il segnale raffigurato è un preavviso di direzione obbligatoria",
-      "isCorrect":false,
-      "image":"doppio_senso_di_circolazione.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato indica l'ingresso di un Parco Nazionale",
-      "isCorrect":false,
-      "image":"animali_selvatici_vaganti.gif"
-   }, 
-   {
       "question":"Il segnale (A), integrato con il pannello (B), preannuncia la presenza di binari di manovra in corrispondenza di stabilimenti industriali",
       "isCorrect":true,
+      "image":"altri_pericolo_binari_di_manovra.gif"
+   }, 
+   {
+      "question":"Il segnale (A), integrato con il pannello (B), preannuncia la presenza di veicoli militari in manovra",
+      "isCorrect":false,
+      "image":"altri_pericoli_macchine_agricole.png"
+   }, 
+   {
+      "question":"Il segnale (A), integrato con il pannello (B), preannuncia un passaggio a livello senza barriere",
+      "isCorrect":false,
       "image":"altri_pericolo_binari_di_manovra.gif"
    }, 
    {
       "question":"In presenza del segnale raffigurato è necessario regolare la velocità in relazione alla visibilità e al raggio delle curve",
       "isCorrect":true,
       "image":"doppia_curva_la_prima_a_sinistra.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato, se a fondo giallo, è posto in presenza di lavori in corso",
-      "isCorrect":true,
-      "image":"doppio_senso_di_circolazione.gif"
    }, 
    {
       "question":"Il segnale (A) può essere abbinato al segnale (B)",
@@ -2287,11 +2292,6 @@
       "question":"Il segnale raffigurato preannuncia un'area di sosta per autobus",
       "isCorrect":false,
       "image":"attraversamento_tramviario.gif"
-   }, 
-   {
-      "question":"Nel segnale raffigurato, il disco giallo può essere sostituito da una luce gialla lampeggiante",
-      "isCorrect":true,
-      "image":"semaforo.gif"
    }, 
    {
       "question":"Il segnale raffigurato preannuncia un tratto di carreggiata sdrucciolevole",
@@ -2339,6 +2339,11 @@
       "image":"pericolo_circolazione_rotatoria.gif"
    }, 
    {
+      "question":"Il segnale raffigurato preannuncia una svolta a sinistra obbligatoria",
+      "isCorrect":false,
+      "image":"pericolo_circolazione_rotatoria.gif"
+   }, 
+   {
       "question":"In presenza del segnale raffigurato non è necessario rallentare se la cunetta presenta visibilità",
       "isCorrect":false,
       "image":"cunetta.gif"
@@ -2369,19 +2374,9 @@
       "image":"pericolo_bambini.gif"
    }, 
    {
-      "question":"Il segnale raffigurato è un segnale di pericolo",
-      "isCorrect":true,
-      "image":"doppio_senso_di_circolazione.gif"
-   }, 
-   {
       "question":"Il segnale raffigurato preannuncia un tratto di strada sul quale aumenta lo spazio di frenatura del veicolo",
       "isCorrect":true,
       "image":"discesa_pericolosa.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato preannuncia la presenza di pietrisco che può essere scagliato a distanza al passaggio del veicolo",
-      "isCorrect":true,
-      "image":"materiale_instabile_sulla_strada.gif"
    }, 
    {
       "question":"Il segnale raffigurato è posto nelle immediate vicinanze di un attraversamento ferroviario a livello senza barriere",
@@ -2432,7 +2427,22 @@
       "question":"Il segnale raffigurato preannuncia un tratto di strada con banchina cedevole",
       "isCorrect":true,
       "image":"banchina_cedevole.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada con banchina non praticabile",
+      "isCorrect":true,
+      "image":"banchina_cedevole.gif"
    }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un possibile pericolo di caduta nella cunetta laterale alla strada",
+      "isCorrect":true,
+      "image":"banchina_cedevole.gif"
+   },   
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada con banchina pericolosa",
+      "isCorrect":true,
+      "image":"banchina_cedevole.gif"
+   },   
    {
       "question":"Il segnale raffigurato preannuncia un tratto di strada pericoloso per ridotta visibilità",
       "isCorrect":true,
@@ -2450,6 +2460,11 @@
    }, 
    {
       "question":"Il segnale raffigurato vieta l'accesso agli aeroporti",
+      "isCorrect":false,
+      "image":"aeromobili.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una corsia riservata per l'ingresso in aeroporto",
       "isCorrect":false,
       "image":"aeromobili.gif"
    }, 
@@ -2489,6 +2504,11 @@
       "image":"pericolo_circolazione_rotatoria.gif"
    }, 
    {
+      "question":"Il segnale raffigurato vieta la svolta a destra al primo incrocio",
+      "isCorrect":false,
+      "image":"pericolo_circolazione_rotatoria.gif"
+   }, 
+   {
       "question":"Il segnale raffigurato invita a fare attenzione, prima di attraversare, perché potrebbe transitare più di un treno",
       "isCorrect":true,
       "image":"doppia_croce_di_s_andrea.gif"
@@ -2497,11 +2517,6 @@
       "question":"Il segnale raffigurato comporta di procedere a velocità moderata e di evitare brusche manovre",
       "isCorrect":true,
       "image":"strada_sdrucciolevole.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato preannuncia la presenza di un ponte mobile",
-      "isCorrect":false,
-      "image":"semaforo.gif"
    }, 
    {
       "question":"Il segnale raffigurato può avere il disco rosso sostituito da una luce rossa lampeggiante",
@@ -2527,16 +2542,6 @@
       "question":"In presenza del segnale raffigurato bisogna rallentare per essere pronti ad arrestarsi se ci sono pedoni che attraversano la carreggiata",
       "isCorrect":true,
       "image":"pericolo_attraversamento_pedonale.gif"
-   }, 
-   {
-      "question":"In presenza del segnale raffigurato è opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata",
-      "isCorrect":true,
-      "image":"caduta_massi_sinistra.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato preannuncia l'attraversamento di una zona soggetta al pericolo d'incendio",
-      "isCorrect":true,
-      "image":"pericolo_incendio.gif"
    }, 
    {
       "question":"Il segnale raffigurato indica un'area riservata alla circolazione dei ciclomotori",
@@ -2579,11 +2584,6 @@
       "image":"strada_deformata.gif"
    }, 
    {
-      "question":"Il segnale raffigurato preannuncia il pericolo di caduta di massi",
-      "isCorrect":true,
-      "image":"caduta_massi_sinistra.gif"
-   }, 
-   {
       "question":"Il segnale raffigurato preannuncia una salita, seguita da una discesa",
       "isCorrect":true,
       "image":"dosso.gif"
@@ -2617,11 +2617,6 @@
       "question":"Il segnale raffigurato preannuncia, in genere a 150 m, una doppia curva pericolosa",
       "isCorrect":true,
       "image":"doppia_curva_la_prima_a_sinistra.gif"
-   }, 
-   {
-      "question":"Il segnale raffigurato preannuncia lo sbocco della strada su una banchina portuale",
-      "isCorrect":true,
-      "image":"sbocco_su_molo_o_su_argine.gif"
    }, 
    {
       "question":"Il segnale raffigurato preannuncia un'isola pedonale",
@@ -2667,16 +2662,41 @@
       "question":"Il segnale raffigurato preannuncia una zona dove, in caso di forte vento laterale, i veicoli con rimorchio hanno maggiore tenuta di strada",
       "isCorrect":false,
       "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la possibilità di forti raffiche di vento laterale all'uscita da una galleria",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },  
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di un viadotto esposto ad improvvise raffiche di vento laterale",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
    }, 
+   {
+      "question":"Il segnale raffigurato preannuncia zone soggette a forti ed improvvise raffiche di vento laterale",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un pericolo che è maggiore per i veicoli telonati o furgonati",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia di procedere con prudenza tenendo saldamente il volante",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala un tratto di strada soggetto a forti raffiche di vento laterale",
+      "isCorrect":true,
+      "image":"forte_vento_laterale.gif"
+   },
    {
       "question":"Il segnale (A), integrato con il pannello (B), preannuncia la possibilità di formazione del ghiaccio",
       "isCorrect":true,
       "image":"altri_pericoli_ghiaccio.gif"
-   }, 
-   {
-      "question":"l segnale raffigurato preannuncia che termina il senso unico di circolazione",
-      "isCorrect":true,
-      "image":"doppio_senso_di_circolazione.gif"
    }, 
    {
       "question":"Il segnale raffigurato preannuncia un passaggio a livello con barriere o con semibarriere",
@@ -4207,5 +4227,655 @@
       "question":"Il segnale (A), se abbinato con il pannello (B), preannuncia un tratto di strada sul quale, in particolari condizioni meteorologiche, è probabile la presenza di ghiaccio",
       "isCorrect":true,
       "image":"strada_strucciolevole_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia luoghi frequentati da fanciulli",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato può essere posto nelle vicinanze di giardini pubblici frequentati da bambini",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato invita a considerare eventuali comportamenti imprudenti di fanciulli",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato occorre prestare particolare attenzione per la possibile presenza di bambini",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario moderare la velocità e prestare attenzione ai bambini anche se si trovano sui marciapiedi",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato occorre prestare particolare attenzione ai movimenti imprevedibili dei bambini",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato sorpassare i veicoli che si sono fermati per lasciare attraversare i bambini",
+      "isCorrect":true,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai bambini non accompagnati",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un percorso pedonale",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è posto sulla parte posteriore dello scuolabus",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è necessario fare attenzione ai bambini sulla carreggiata e non a quelli sul marciapiede",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato transitare durante l'orario di uscita dei bambini da scuola",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato superare la velocità di 30 km/h",
+      "isCorrect":false,
+      "image":"pericolo_bambini.gif"
+   },
+   {
+      "question":"Il segnale raffigurato richiede di rallentare o di arrestarsi se gli animali sulla strada non si spostano",
+      "isCorrect":true,
+      "image":"animali_domestici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la possibilità di trovare sulla strada animali domestici vaganti",
+      "isCorrect":true,
+      "image":"animali_domestici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato invita a fare attenzione per la probabile presenza di animali domestici sulla carreggiata",
+      "isCorrect":true,
+      "image":"animali_domestici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una strada riservata alla circolazione di animali domestici",
+      "isCorrect":false,
+      "image":"animali_domestici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia il probabile attraversamento di animali selvatici",
+      "isCorrect":true,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato richiede di rallentare e all'occorrenza di arrestarsi se gli animali danno segno di spavento",
+      "isCorrect":true,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato richiede di rallentare e all'occorrenza di arrestarsi se gli animali attraversano improvvisamente la strada",
+      "isCorrect":true,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la possibilità di trovare improvvisamente animali vaganti sulla carreggiata",
+      "isCorrect":true,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia il probabile e improvviso attraversamento di animali selvatici",
+      "isCorrect":true,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato richiede di rallentare per evitare urti con animali selvatici vaganti",
+      "isCorrect":true,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è obbligatorio usare ripetutamente l'avvisatore acustico per allontanare gli animali",
+      "isCorrect":false,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una area riservata alla circolazione di animali selvatici",
+      "isCorrect":false,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a marciare al centro della strada per evitare di investire gli animali selvatici",
+      "isCorrect":false,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito dei soli veicoli a quattro ruote motrici",
+      "isCorrect":false,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'ingresso di uno 'zoo safari'",
+      "isCorrect":false,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'ingresso di un Parco Nazionale",
+      "isCorrect":false,
+      "image":"animali_selvatici_vaganti.gif"
+   },
+   {
+      "question":"Il segnale raffigurato indica che, poco oltre, occorrerà usare maggiore prudenza",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato, se a fondo giallo, è posto in presenza di lavori in corso",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia che termina il senso unico di circolazione",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia che una carreggiata a senso unico, diventa a doppio senso di circolazione",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia che, poco oltre, si potranno incontrare veicoli che marciano in senso opposto",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato il sorpasso, se consentito, deve essere effettuato con particolare prudenza",
+      "isCorrect":true,
+      "image":"doppio_senso_di_circolazione.gif"
+   },
+   {
+      "question":"Il segnale raffigurato impone di dare la precedenza ai veicoli provenienti in senso contrario",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un preavviso di direzione obbligatoria",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia che il traffico si svolge su due carreggiate separate",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia che la circolazione diventa a senso unico",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il diritto di precedenza nei sensi unici alternati",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia che bisogna ritornare indietro",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un senso unico alternato",
+      "isCorrect":false,
+      "image":"doppio_senso_di_circolazione.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia lo sbocco della strada su una banchina portuale",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia lo sbocco della strada su un molo",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia lo sbocco della strada sull'argine di un fiume",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia lo sbocco della strada sull'argine di un canale",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato bisogna usare particolare prudenza, soprattutto di notte, per evitare di cadere in acqua",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di caduta in acqua",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato bisogna usare particolare prudenza se, nel tratto di strada che segue, si dovranno effettuare manovre di retromarcia",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un viadotto in costruzione",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato obbliga ad arrestarsi in corrispondenza di un ponte mobile in manovra",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada interrotto per alluvione",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia lo sbocco su un ponte mobile",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato bisogna usare particolare prudenza perché si incontra una discesa ripida",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un'area attrezzata per il lavaggio dei veicoli",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di mareggiate",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato si riferisce soltanto alle autovetture",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato non ha validità nei mesi estivi",
+      "isCorrect":false,
+      "image":"sbocco_su_molo_o_su_argine.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada sul quale l'aderenza del veicolo può diminuire",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato richiede di procedere con cautela in presenza di pedoni, anche se si trovano fuori dalla carreggiata",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di pietrisco che può essere scagliato a distanza al passaggio del veicolo",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato richiede di moderare la velocità, incrociando un altro veicolo",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è opportuno mantenere una distanza maggiore dal veicolo che precede",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di trovare pietrisco sulla pavimentazione stradale",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato occorre considerare il pericolo di sbandamento o di slittamento",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato, se a fondo giallo, è posto in presenza di cantieri stradali",
+      "isCorrect":true,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato consiglia di accelerare per aumentare l'aderenza del veicolo sull'asfalto",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada soggetto a frana",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato, se a fondo giallo, preannuncia un tratto di strada non percorribile per la presenza di cantieri stradali",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di banchine cedevoli",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada ove esiste il pericolo di caduta di massi",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia l'obbligo di montare le catene da neve",
+      "isCorrect":false,
+      "image":"materiale_instabile_sulla_strada.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di caduta di massi",
+      "isCorrect":true,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada ove esiste il pericolo di presenza di pietre sulla carreggiata",
+      "isCorrect":true,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di caduta di pietre da sinistra con conseguente loro presenza sulla carreggiata",
+      "isCorrect":true,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata",
+      "isCorrect":true,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è consigliabile evitare lunghe soste nel tratto di strada interessato dal pericolo",
+      "isCorrect":true,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada con cantieri stradali",
+      "isCorrect":false,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è opportuno suonare con insistenza",
+      "isCorrect":false,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cattivo stato o con pavimentazione irregolare",
+      "isCorrect":false,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cattivo stato o con pavimentazione irregolare",
+      "isCorrect":false,
+      "image":"altri_pericoli.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada deformata",
+      "isCorrect":false,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada in cui è vietato il sorpasso",
+      "isCorrect":false,
+      "image":"caduta_massi_sinistra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di caduta di massi da destra",
+      "isCorrect":true,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada ove esiste il pericolo di presenza di pietre sulla carreggiata",
+      "isCorrect":true,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia il pericolo di caduta di pietre dalla parete rocciosa",
+      "isCorrect":true,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata",
+      "isCorrect":true,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato bisogna far attenzione a possibili brusche frenate da parte dei veicoli che precedono",
+      "isCorrect":true,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada sdrucciolevole",
+      "isCorrect":false,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia una strettoia a destra",
+      "isCorrect":false,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada non asfaltato",
+      "isCorrect":false,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia banchine cedevoli",
+      "isCorrect":false,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada dove non si può circolare ad oltre 30 km/h",
+      "isCorrect":false,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia possibili grandinate",
+      "isCorrect":false,
+      "image":"caduta_massi_destra.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un semaforo",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_orizzontale.gif"
+   }, 
+   {
+      "question":"Nel segnale raffigurato, il disco giallo può essere sostituito da una luce gialla lampeggiante",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato bisogna moderare la velocità per potersi all'occorrenza fermare",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è a fondo giallo se posto prima di un cantiere stradale",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un semaforo con disposizione delle luci in verticale",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è obbligatorio sulle strade extraurbane",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Sulle strade extraurbane il segnale è sempre obbligatorio",
+      "isCorrect":true,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato può avere il disco rosso sostituito da una luce rossa lampeggiante",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un attraversamento ferroviario senza barriere",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un attraversamento ferroviario senza barriere",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_orizzontale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di corsie reversibili",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_orizzontale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un passaggio a livello con semibarriere",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_orizzontale.gif"
+   },
+   {
+      "question":"Il segnale raffigurato può preannunciare un passaggio a livello con semibarriere",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un senso unico alternato",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di un ponte mobile",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la presenza di un ponte mobile",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_orizzontale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato può avere al centro una luce gialla fissa",
+      "isCorrect":false,
+      "image":"pericolo_semaforo_verticale.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia l'attraversamento di una zona soggetta al pericolo d'incendio",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la vicinanza di zone ad alto rischio d'incendio",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato indica che ci si sta avvicinando ad un bosco facilmente infiammabile",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia zone laterali alla strada che sono ad alto rischio d'incendio",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato è integrato dal pannello che indica la lunghezza del tratto di strada interessato",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"In presenza del segnale se il conducente o gli eventuali passeggeri non rispettano il divieto di gettare sigarette accese dal finestrino, può verificarsi un incendio",
+      "isCorrect":true,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia l'attraversamento di una zona soggetta al pericolo di esplosioni",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia un tratto di strada fiancheggiato da cave di pietra, con pericolo di esplosioni",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli che trasportano esplosivi",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli che trasportano prodotti facilmente infiammabili",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli che trasportano liquidi infiammabili",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"Il segnale raffigurato preannuncia la possibilità di forte vento laterale",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
+   }, 
+   {
+      "question":"",
+      "isCorrect":false,
+      "image":"pericolo_incendio.gif"
    }
 ]
