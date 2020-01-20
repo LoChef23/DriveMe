@@ -6991,7 +6991,220 @@
       "question":"Il segnale raffigurato vieta la sosta sul tratto precedente",
       "isCorrect":false,
       "image":"divieto_sosta_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la temporanea sospensione della marcia del veicolo",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la fermata volontaria di tutti i veicoli",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Lungo le strade dove è posto, il segnale raffigurato vale 24 ore su 24",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta sia di giorno che di notte, anche nei centri abitati",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la fermata a tutti i veicoli",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato, in assenza di iscrizioni integrative, vige per tutto l'arco delle ventiquattro ore",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta qualsiasi volontaria fermata del veicolo",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è sempre disposta la rimozione forzata del veicolo",
+      "isCorrect":true,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta, ma consente la fermata",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Lungo le strade urbane, il segnale raffigurato indica che il divieto di fermata vige dalle ore 8.00 alle 20.00",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la fermata per far salire o scendere passeggeri",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la fermata se il veicolo non arreca intralcio alla circolazione",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la fermata, ma consente la sosta",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato non vale per gli autobus",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato non vale per i taxi",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un preavviso di divieto di sosta",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vale solo nei giorni feriali, salvo diversa indicazione",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la fermata del veicolo per la salita e la discesa dei passeggeri",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la fine del divieto di sosta",
+      "isCorrect":false,
+      "image":"divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale (A), se integrato con il pannello (B), vieta la fermata nel tratto precedente",
+      "isCorrect":true,
+      "image":"fine_divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale (A), se integrato con il pannello (B), indica la fine del divieto di fermata e di sosta",
+      "isCorrect":true,
+      "image":"fine_divieto_fermata.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un parcheggio autorizzato",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area attrezzata ed organizzata per sostare a tempo indeterminato, salvo diversa indicazione",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che ne indica la distanza",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che indica le categorie cui la stessa è riservata",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con pannello che indica le categorie di veicoli esclusi",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che ne indica la limitazione nel tempo",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che indica l'orario e le tariffe",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello indicante la disposizione dei veicoli",
+      "isCorrect":true,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di sosta con parchimetro",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che il parcheggio è ammesso dalle 8.00 alle 20.00",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un’area in cui è possibile la sosta al massimo per un’ora",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la sosta libera, ma con divieto di fermata",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio riservato ai veicoli della Polizia di Stato",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che indica la superficie disponibile",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio e può essere integrato con la prescrizione di lasciare la chiave nel quadro",
+      "isCorrect":false,
+      "image":"area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che nella direzione della freccia vi è un parcheggio",
+      "isCorrect":true,
+      "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una zona di parcheggio procedendo nel senso della freccia",
+      "isCorrect":true,
+      "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un parcheggio a 300 metri nel senso della freccia",
+      "isCorrect":true,
+      "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un posto di pronto soccorso nel senso della freccia",
+      "isCorrect":false,
+      "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un parcheggio vietato nel senso della freccia",
+      "isCorrect":false,
+      "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che la sosta e il parcheggio sono vietati nel senso della freccia",
+      "isCorrect":false,
+      "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia di procedere oltre perché il parcheggio è riservato",
+      "isCorrect":false,
+      "image":"preannuncio_area_parcheggio.png"
    }
-   
-  
 ]
