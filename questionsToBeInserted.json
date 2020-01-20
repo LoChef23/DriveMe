@@ -6221,5 +6221,777 @@
       "question":"In presenza del segnale raffigurato è consentito il traino di veicoli che trasportano prodotti facilmente infiammabili",
       "isCorrect":false,
       "image":"divieto_trasporto_esplosivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli che trasportano sostanze suscettibili di contaminare l'acqua",
+      "isCorrect":true,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di autoveicoli che trasportano prodotti che non contaminano l'acqua",
+      "isCorrect":true,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito alle autocisterne che trasportano acqua",
+      "isCorrect":true,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito alle innaffiatrici stradali",
+      "isCorrect":true,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di rimorchi che trasportano sostanze che possono contaminare l'acqua",
+      "isCorrect":false,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una zona soggetta ad allagamento",
+      "isCorrect":false,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la probabile presenza di acqua sulla carreggiata",
+      "isCorrect":false,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta delle autocisterne",
+      "isCorrect":false,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito alle cisterne vuote",
+      "isCorrect":false,
+      "image":"divieto_contaminare_acqua.png"
+   },
+   {
+      "question":"Il segnale raffigurato si riferisce ai veicoli anche se sprovvisti di motore",
+      "isCorrect":true,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato può trovarsi prima di una strettoia",
+      "isCorrect":true,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto sulle strade sia urbane che extraurbane",
+      "isCorrect":true,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la larghezza massima dei veicoli ammessi al transito",
+      "isCorrect":true,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di autotreni larghi 2,30 metri",
+      "isCorrect":true,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato si riferisce a tutti i veicoli di larghezza superiore a 2,30 metri",
+      "isCorrect":true,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la distanza minima di sicurezza tra due autoveicoli in transito su quella strada",
+      "isCorrect":false,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato i veicoli a trazione animale larghi più di 2,30 m possono transitare",
+      "isCorrect":false,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un divieto che non riguarda gli autobus",
+      "isCorrect":false,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la larghezza di una strettoia",
+      "isCorrect":false,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato è relativo al rimorchio, ma non alla motrice",
+      "isCorrect":false,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada larga 2,30 metri",
+      "isCorrect":false,
+      "image":"divieto_veicoli_larghi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'altezza massima, misurata dal piano stradale, dei veicoli che possono transitare",
+      "isCorrect":true,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito degli autoveicoli con altezza, comprensiva del carico, superiore a 3,50 metri",
+      "isCorrect":true,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'altezza massima dei veicoli ammessi al transito",
+      "isCorrect":true,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di una macchina agricola alta 3,50 metri",
+      "isCorrect":true,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato può trovarsi sia nei centri abitati che fuori",
+      "isCorrect":true,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato può trovarsi in un punto in cui la strada passa sotto un ponte",
+      "isCorrect":true,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito degli autoveicoli di lunghezza superiore a 3,50 metri",
+      "isCorrect":false,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un passaggio alto 3,50 metri",
+      "isCorrect":false,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato nei centri abitati vale soltanto dalle ore 8.00 alle ore 20.00",
+      "isCorrect":false,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che possono passare gli autocarri con carico alto 3,50 metri dal piano del cassone",
+      "isCorrect":false,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la distanza di sicurezza da tenere dal veicolo che precede",
+      "isCorrect":false,
+      "image":"divieto_altezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito a tutti i veicoli di lunghezza complessiva superiore a 10 metri",
+      "isCorrect":true,
+      "image":"divieto_lunghezza_massima.png"
+   }, 
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di un autotreno lungo 10 metri",
+      "isCorrect":true,
+      "image":"divieto_lunghezza_massima.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vieta il transito a veicoli di lunghezza superiore a quella indicata",
+      "isCorrect":true,
+      "image":"divieto_lunghezza_massima.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato deve essere rispettato anche dai conducenti di autobus",
+      "isCorrect":true,
+      "image":"divieto_lunghezza_massima.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato vige anche di notte",
+      "isCorrect":true,
+      "image":"divieto_lunghezza_massima.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato deve essere rispettato anche dai conducenti di complessi di veicoli",
+      "isCorrect":true,
+      "image":"divieto_lunghezza_massima.png"
+   }, 
+   {
+      "question":"Il segnale raffigurato deve essere rispettato solo dai conducenti di veicoli adibiti al trasporto di cose",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga un veicolo a distanziare quello che lo segue di almeno 10 metri",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio per autocarri lunghi al massimo 10 metri",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato impone il distanziamento minimo tra autocarri per consentire alle autovetture di sorpassarli",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di una autovettura che traina un caravan anche se insieme superano i 10 metri",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito a tutti gli autosnodati per trasporto di persone",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che gli autocarri devono mantenere una distanza di sicurezza di almeno 10 metri",
+      "isCorrect":false,
+      "image":"divieto_lunghezza_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli aventi una massa effettiva superiore a quella indicata",
+      "isCorrect":true,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato, integrato con pannello, può vietare il transito contemporaneo di più veicoli",
+      "isCorrect":true,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito agli autocarri di tara superiore a 7 tonnellate",
+      "isCorrect":true,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di una macchina agricola di massa a pieno carico pari a 7 tonnellate",
+      "isCorrect":true,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare prima di un ponte",
+      "isCorrect":true,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito ai veicoli il cui asse più caricato ha massa superiore a quella indicata",
+      "isCorrect":false,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato, nei centri abitati, vige dalle ore 8.00 alle ore 20.00",
+      "isCorrect":false,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di autobus di massa superiore a 7 tonnellate",
+      "isCorrect":false,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai soli veicoli per trasporto merci di massa superiore a 7 tonnellate",
+      "isCorrect":false,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli di lunghezza superiore a 7 metri",
+      "isCorrect":false,
+      "image":"divieto_massa_effettiva.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli aventi sull'asse più caricato una massa effettiva superiore a quella indicata",
+      "isCorrect":true,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito il transito di autocarri aventi massa effettiva per asse di 2,5 tonnellate",
+      "isCorrect":true,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli aventi una massa effettiva per asse superiore a 2,5 tonnellate",
+      "isCorrect":true,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato fa riferimento alla massa effettiva sull'asse al momento del transito",
+      "isCorrect":true,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato può trovarsi prima di un ponte",
+      "isCorrect":true,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i veicoli aventi massa per asse superiore a 2,5 tonnellate a procedere a passo d'uomo",
+      "isCorrect":false,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito agli autocarri di massa complessiva superiore a quella indicata",
+      "isCorrect":false,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato vale solo per autoveicoli con ruote gemellate",
+      "isCorrect":false,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato nei centri abitati vige dalle ore 8.00 alle ore 20.00",
+      "isCorrect":false,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito a tutti i veicoli con massa complessiva a pieno carico superiore a 2,5 tonnellate",
+      "isCorrect":false,
+      "image":"divieto_massa_per_asse.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine delle prescrizioni precedentemente imposte",
+      "isCorrect":true,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine di divieti precedentemente imposti",
+      "isCorrect":true,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di via libera",
+      "isCorrect":true,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di fine prescrizione",
+      "isCorrect":true,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il punto dal quale le prescrizioni precedentemente indicate non sono più valide",
+      "isCorrect":true,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine di un cantiere di lavoro",
+      "isCorrect":false,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato riguarda soltanto i veicoli in servizio pubblico",
+      "isCorrect":false,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine di un centro abitato",
+      "isCorrect":false,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del pericolo precedentemente segnalato",
+      "isCorrect":false,
+      "image":"fine_prescrizioni.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine di una prescrizione",
+      "isCorrect":true,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite massimo di velocità",
+      "isCorrect":true,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di circolare a velocità superiore a 50 km/h",
+      "isCorrect":true,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di circolare entro i limiti di velocità vigenti per quel tipo di strada",
+      "isCorrect":true,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di marciare anche a velocità inferiore a 50 km/h",
+      "isCorrect":true,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del relativo divieto",
+      "isCorrect":true,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il limite di velocità per tutti i veicoli",
+      "isCorrect":false,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta di superare la velocità di 50 km/h",
+      "isCorrect":false,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite minimo di velocità",
+      "isCorrect":false,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine dell'obbligo di mantenere una distanza di sicurezza di almeno 50 metri",
+      "isCorrect":false,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive ai veicoli che non superano la velocità di 50 km/h di marciare sulla corsia di destra",
+      "isCorrect":false,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la velocità consigliata",
+      "isCorrect":false,
+      "image":"fine_prescrizione_velocità_massima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sorpasso precedentemente imposto",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato il sorpasso se deve essere oltrepassata la striscia continua",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il punto in cui termina il divieto di sorpasso",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato non impone un particolare limite di velocità",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato può essere posto sia nei centri urbani che fuori",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di fine prescrizione",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato ha validità per tutte le 24 ore",
+      "isCorrect":true,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sorpasso tra le sole autovetture",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di transito per tutti gli autoveicoli",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive il divieto di marcia per file parallele",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite massimo di velocità",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sosta su entrambi i lati della strada",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sosta su entrambi i lati della strada",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è finito l'obbligo di mantenere la distanza di sicurezza",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sosta in seconda fila",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato un autotreno di massa pari a 44 tonnellate può sorpassare un'autovettura",
+      "isCorrect":true,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sorpasso precedentemente imposto",
+      "isCorrect":true,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato un autocarro può sorpassare un autobus",
+      "isCorrect":true,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sorpasso per veicoli merci di massa a pieno carico superiore a 3,5 tonnellate",
+      "isCorrect":true,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di fine prescrizione",
+      "isCorrect":true,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato il transito degli autotreni, autosnodati, autoarticolati",
+      "isCorrect":false,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato le autovetture devono sorpassare gli autocarri sulla corsia di destra",
+      "isCorrect":false,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di sorpasso per autobus di massa a pieno carico superiore a 3,5 tonnellate",
+      "isCorrect":false,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":false,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato non vale per gli autocarri di massa complessiva pari a 7 tonnellate",
+      "isCorrect":false,
+      "image":"fine_divieto_sorpasso_sopra_3_5_t.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto nei luoghi dove la sosta è vietata",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta sulle strade urbane dalle ore 8.00 alle ore 20.00, salvo diversa indicazione",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato può essere integrato da pannelli per indicarne l'inizio, il proseguimento o la fine",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato cessa di validità dopo il primo incrocio, se non ripetuto",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la fermata",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta nel tratto precedente",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, opportunamente integrato, può vietare la sosta nei centri abitati dalle ore 0,00 alle 24,00",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta, ma non la fermata",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato contraddistingue le aree dove è proibito lasciare in sosta un veicolo",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, lungo strade extraurbane, indica divieto permanente di sosta in assenza di indicazioni integrative",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta sul lato della strada dove è posto",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato non vieta la fermata",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato non è posto nei luoghi ove per regola generale vige il divieto di sosta",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta l'abbandono prolungato nel tempo del veicolo",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto nei centri abitati, vieta, di norma, la sosta dalle ore 8.00 alle 20.00",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta ma non la fermata",
+      "isCorrect":true,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, se posto sul lato sinistro di una strada a senso unico, vieta la sosta anche sul lato destro",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un divieto di fermata",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato non vale per i motocicli ed i ciclomotori",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è sempre prevista la rimozione forzata del veicolo",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la sosta è regolamentata con l'uso di parchimetri a pagamento",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta ai residenti",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta esponendo il tagliando emesso da un parchimetro",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, nelle strade extraurbane, consente la sosta dopo le ore 20.00",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta soltanto ai veicoli a due ruote",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta ai quadricicli a motore",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, nei centri urbani, prescrive il divieto di sosta dalle ore 20.00 alle ore 8.00, salvo diversa indicazione",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la sosta è regolamentata mediante disco orario",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, opportunamente integrato, può vietare la sosta in doppia fila",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sospensione temporanea della marcia per la salita e discesa dei passeggeri",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Lungo le strade extraurbane, il segnale raffigurato vale soltanto nelle ore diurne",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta dei veicoli su ambo i lati della carreggiata",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato permette la sosta degli autobus",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato permette la sosta dei ciclomotori",
+      "isCorrect":false,
+      "image":"divieto_di_sosta.png"
+   },
+   {
+      "question":"Il segnale (A), se integrato con pannello (B), indica una zona in cui vige divieto di sosta",
+      "isCorrect":true,
+      "image":"divieto_sosta_rimozione.png"
+   },
+   {
+      "question":"Il segnale (A), integrato con il pannello (B), indica una ZONA RIMOZIONE COATTA",
+      "isCorrect":true,
+      "image":"divieto_sosta_rimozione.png"
+   },
+   {
+      "question":"Il segnale (A), se integrato con pannello (B), indica una zona in cui vige divieto di sosta, con rimozione del veicolo",
+      "isCorrect":true,
+      "image":"divieto_sosta_rimozione.png"
+   },
+   {
+      "question":"Il segnale (A) con il pannello (B) vieta la sosta solo nei giorni lavorativi",
+      "isCorrect":true,
+      "image":"divieto_sosta_orari.png"
+   },
+   {
+      "question":"Il segnale (A), integrato con il pannello (B), consente la sosta agli autobus",
+      "isCorrect":true,
+      "image":"divieto_sosta_eccetto.png"
+   },
+   {
+      "question":"Il segnale (A), integrato con il pannello (B), vieta la sosta soltanto nei giorni festivi",
+      "isCorrect":true,
+      "image":"divieto_sosta_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta sul tratto precedente",
+      "isCorrect":false,
+      "image":"divieto_sosta_inizio.png"
    }
+   
+  
 ]
