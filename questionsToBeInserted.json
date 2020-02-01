@@ -7206,5 +7206,1980 @@
       "question":"Il segnale raffigurato preannuncia di procedere oltre perché il parcheggio è riservato",
       "isCorrect":false,
       "image":"preannuncio_area_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta nel luogo dove è posto",
+      "isCorrect":true,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la zona per l'accesso dei veicoli alle proprietà laterali",
+      "isCorrect":true,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica lo sbocco di un passo carrabile",
+      "isCorrect":true,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la fermata, purché il veicolo non sia di intralcio",
+      "isCorrect":true,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato, per essere valido, deve contenere l'indicazione dell'ente che ha concesso l'autorizzazione, il numero e l'anno del rilascio",
+      "isCorrect":true,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto soltanto nelle strade urbane",
+      "isCorrect":false,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato vale solo nelle ore diurne",
+      "isCorrect":false,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato vale solo nelle ore notturne",
+      "isCorrect":false,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta a particolari categorie di veicoli",
+      "isCorrect":false,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta ai veicoli adibiti al pronto soccorso non in servizio",
+      "isCorrect":false,
+      "image":"divieto_sosta_passo_carrabile.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta ai veicoli al servizio di persone invalide munite dell'apposito contrassegno",
+      "isCorrect":true,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato rappresenta una specifica eccezione al divieto di sosta",
+      "isCorrect":true,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente la sosta a veicoli diversi da quelli al servizio di persone invalide",
+      "isCorrect":true,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta agli scuolabus",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una corsia riservata ai veicoli al servizio di persone invalide",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un divieto di sosta per i veicoli al servizio di invalidi, ed indica il più vicino parcheggio",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa una zona vietata al traffico regolare perché attrezzata per persone invalide",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato, nella strada ove è posto, consente il transito ai soli veicoli al servizio di persone invalide",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta ai ciclomotori e ai motocicli",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta esponendo il tagliando emesso da un parchimetro",
+      "isCorrect":false,
+      "image":"divieto_sosta_contrassegno_invalide.png"
+   },
+   {
+      "question":"Il segnale raffigurato rappresenta una regolazione della sosta",
+      "isCorrect":true,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta dalle ore 9.00 alle 17.00",
+      "isCorrect":true,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta dalle ore 17.00 alle 20.00",
+      "isCorrect":true,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta in alcune ore e la vieta in altre",
+      "isCorrect":true,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta dalle ore 20.00 alle ore 7.00",
+      "isCorrect":true,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta dalle ore 7.00 alle ore 9.00",
+      "isCorrect":true,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato, nei centri abitati, consente la sosta dalle ore 20.00 alle 8.00",
+      "isCorrect":false,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una zona destinata al parcheggio con impiego del disco orario",
+      "isCorrect":false,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la fermata del veicolo tra le ore 17.00 e le 20.00",
+      "isCorrect":false,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il parcheggio dalle ore 7.00 alle 9.00",
+      "isCorrect":false,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Nelle ore in cui è vietata la sosta, il segnale raffigurato comporta la rimozione del veicolo",
+      "isCorrect":false,
+      "image":"regolazione_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto nei tratti di strada ove vengono effettuate operazioni di pulizia meccanica delle strade",
+      "isCorrect":true,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di DIVIETO DI SOSTA TEMPORANEO",
+      "isCorrect":true,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta nei periodi in cui viene effettuata la pulizia meccanica della strada",
+      "isCorrect":true,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato, nei centri urbani, segnala il divieto di sosta limitato ai giorni e alle ore indicate",
+      "isCorrect":true,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la presenza di macchine sgombraneve al lavoro sulla strada",
+      "isCorrect":false,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato segnala che nelle ore indicate vige il DIVIETO DI SOSTA per i veicoli rappresentati in figura",
+      "isCorrect":false,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che nei giorni e nelle ore indicate è vietata la sosta ai mezzi di pulizia",
+      "isCorrect":false,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica presenza di un deposito con probabile uscita di mezzi per pulizia meccanica delle strade",
+      "isCorrect":false,
+      "image":"divieto_sosta_temporaneo.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ad autotreni ed autoarticolati",
+      "isCorrect":true,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è vietato il transito alle categorie di veicoli rappresentati in figura",
+      "isCorrect":true,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un divieto di transito per determinate categorie di veicoli",
+      "isCorrect":true,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che i veicoli delle categorie rappresentate in figura non possono transitare",
+      "isCorrect":true,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che possono transitare tutti i veicoli esclusi quelli delle categorie rappresentate in figura",
+      "isCorrect":true,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un itinerario obbligatorio per gli autoveicoli delle categorie rappresentate in figura",
+      "isCorrect":false,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un parcheggio per autocarri ed autotreni",
+      "isCorrect":false,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito di tutti i veicoli con esclusione di quelli rappresentati in figura",
+      "isCorrect":false,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta ad autotreni ed autoarticolati",
+      "isCorrect":false,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala una strada riservata ai veicoli delle categorie rappresentate in figura",
+      "isCorrect":false,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un divieto di sosta per autotreni e autoarticolati",
+      "isCorrect":false,
+      "image":"divieto_transito_autotreni_autoarticolati.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è consentito svoltare a destra",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto prima di un incrocio",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato precede un segnale di DIREZIONE OBBLIGATORIA A SINISTRA",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale d'obbligo",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è preavviso dell'obbligo di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato precede un incrocio in cui non è consentito proseguire diritto o girare a destra",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'obbligo di svoltare a sinistra al prossimo incrocio",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato precede un incrocio ove è obbligatorio svoltare a sinistra",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di preavviso di direzione obbligatoria",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'unica direzione consentita",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato può essere integrato con pannello che indica la distanza dal punto in cui vige l'obbligo",
+      "isCorrect":true,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un senso unico",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio passare a sinistra dell'ostacolo",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto all'inizio di una strada in pendenza",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di cambiare corsia",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala una curva pericolosa a sinistra",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito svoltare a sinistra al prossimo incrocio",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga ad andare diritto o a svoltare a sinistra",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia di andare diritto ma non di svoltare a destra",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala il senso unico di circolazione nella svolta a sinistra",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una corsia di accelerazione",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una direzione consigliata",
+      "isCorrect":false,
+      "image":"preavviso_obbligo_svoltare_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di proseguire diritto",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente la svolta a sinistra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto prima di un incrocio, obbliga a proseguire diritto",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato, in corrispondenza di un incrocio, non consente la svolta a destra o a sinistra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'unica direzione consentita",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di direzione obbligatoria",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente la svolta a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di svoltare a destra o a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di svoltare all'incrocio",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio del senso unico di circolazione",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato impone la marcia in unica fila",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di corsia",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una direzione consigliata",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a svoltare a destra o a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato esclude la possibilità che provengano veicoli di fronte",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un senso unico frontale",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_dritto.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente di svoltare a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto prima di un incrocio, obbliga a svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, in corrispondenza di un incrocio, non consente di proseguire diritto",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'unica direzione consentita",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di direzione obbligatoria",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può svoltare soltanto a sinistra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di andare diritto all'incrocio",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di svoltare a destra all'incrocio",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio del senso unico di circolazione dopo una svolta a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del doppio senso di circolazione dopo una svolta a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio passare a sinistra di un ostacolo posto sulla carreggiata",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada che si incrocia è a senso unico verso sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un senso unico parallelo",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il divieto di svoltare a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che ci si può fermare sulla sinistra della strada",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di proseguire diritto",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato significa che bisogna aggirare l'ostacolo a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato significa preavviso di curva a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un preavviso di obbligo di svoltare a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è consentito proseguire diritto o svoltare a sinistra",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato precede un incrocio con obbligo di svoltare a destra",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un incrocio ove non è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è consentito girare a sinistra",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'unica direzione consentita",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale d'obbligo",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato può essere integrato con un pannello che indica la distanza dal punto in cui vige l'obbligo",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato precede il segnale di DIREZIONE OBBLIGATORIA A DESTRA",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è consentito svoltare a sinistra",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto prima di un incrocio",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito svoltare a destra al prossimo incrocio",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga ad andare diritto o svoltare a destra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive l'obbligo di passare a destra di un ostacolo",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una curva pericolosa a destra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala una confluenza a destra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga gli autocarri ed i veicoli lenti ad incolonnarsi sulla corsia di destra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di preavviso di pericolo",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una corsia di decelerazione",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un senso unico",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a svoltare subito a destra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente la svolta a destra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio passare a destra dell'ostacolo",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'obbligo di svoltare a sinistra",
+      "isCorrect":false,
+      "image":"preavviso_direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di svoltare a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, in corrispondenza di un incrocio, obbliga a svoltare a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto prima di un incrocio, non consente di proseguire diritto",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di direzione obbligatoria",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'unica direzione consentita",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica direzione obbligatoria a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può svoltare soltanto a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si deve svoltare a destra",
+      "isCorrect":true,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è pericoloso svoltare a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive di proseguire diritto",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio del senso unico di circolazione nella svolta a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del doppio senso di circolazione nella svolta a sinistra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada che si incrocia è a senso unico verso destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un senso unico parallelo",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il divieto di svoltare a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di parcheggio a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di proseguire diritto",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica di passare a destra dell'ostacolo",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica preavviso di curva a destra",
+      "isCorrect":false,
+      "image":"direzione_obbligatoria_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica le direzioni consentite a destra e a sinistra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a svoltare a destra o a sinistra al prossimo incrocio",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito proseguire diritto all'incrocio",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'impossibilità di proseguire diritto",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica le uniche direzioni consentite",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito svoltare a destra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può scegliere fra le due direzioni consentite",
+      "isCorrect":true,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica di disporsi su due file per proseguire diritto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che il sorpasso è consentito sia a destra che a sinistra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio del doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la facoltà di passare a destra o a sinistra di un'isola spartitraffico",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica passaggio consentito alla destra ed alla sinistra di un ostacolo",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio della circolazione per file parallele",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che nelle immediate vicinanze c'è una biforcazione pericolosa",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che bisogna disporsi su due file per proseguire diritto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito passare sia a destra che a sinistra della striscia continua",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica due sensi unici paralleli",
+      "isCorrect":false,
+      "image":"direzioni_consentite_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a proseguire diritto o svoltare a destra all'incrocio",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente solo di proseguire diritto o svoltare a destra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente la svolta a sinistra all'incrocio",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'impossibilità di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica le uniche direzioni consentite",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito svoltare a destra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può scegliere fra le due direzioni consentite",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente solo di proseguire diritto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito soltanto svoltare a destra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a passare a destra di un cantiere stradale",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il prossimo inizio di una corsia supplementare riservata ai veicoli lenti",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio svoltare unicamente a destra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio proseguire solo diritto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio dare la precedenza a sinistra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che in ogni caso bisogna tenersi il più possibile sul margine destro della carreggiata",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è prossima una biforcazione pericolosa",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente solo di proseguire diritto o svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato non consente la svolta a destra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a svoltare a sinistra o a proseguire diritto",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non si deve svoltare a destra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova anche fuori dei centri abitati",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito proseguire diritto",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito svoltare a sinistra",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può scegliere fra le due direzioni consentite",
+      "isCorrect":true,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente solo di proseguire diritto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito soltanto svoltare a sinistra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a passare a sinistra di un cantiere stradale",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di sorpassare a sinistra lo spartitraffico",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di pericolo",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si deve dare la precedenza a destra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio proseguire solo diritto",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio svoltare unicamente a sinistra",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si sta incrociando una biforcazione pericolosa",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che bisogna in ogni caso avvicinarsi il più possibile all'asse della carreggiata",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che le corsie disponibili diventano due",
+      "isCorrect":false,
+      "image":"direzioni_consentite_dritto_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a sinistra di un ostacolo",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a sinistra di un'isola di traffico",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a sinistra di un salvagente",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a sinistra di un cantiere stradale",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a sinistra di uno spartitraffico",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica passaggio obbligatorio a sinistra",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive di non superare l'ostacolo a destra",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di superare un cantiere stradale dalla parte sinistra",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di lasciare l'ostacolo a destra",
+      "isCorrect":true,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato può essere preceduto dal segnale ROTATORIA",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una discesa pericolosa a sinistra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a svoltare a sinistra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'obbligo di svoltare a sinistra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è obbligatorio svoltare a destra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di svoltare a sinistra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che bisogna superare il salvagente lasciandolo alla propria sinistra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica direzione obbligatoria a sinistra",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che siamo in prossimità di un incrocio",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è possibile proseguire su quella strada",
+      "isCorrect":false,
+      "image":"passaggio_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a destra di un ostacolo",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto in presenza di un'isola di traffico, obbliga i conducenti a passare a destra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto in presenza di un salvagente, obbliga i conducenti a passare a destra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato, posto in presenza di un cantiere stradale, obbliga i conducenti a passare a destra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a passare a destra di uno spartitraffico",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica passaggio obbligatorio a destra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è consentito superare l'ostacolo a sinistra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di superare lo spartitraffico dalla parte destra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di lasciare un'isola salvagente a sinistra",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di passare a destra di un cantiere stradale",
+      "isCorrect":true,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala una curva pericolosa a destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada deformata a destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a svoltare a destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia l'obbligo di svoltare a destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di svoltare a destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica obbligo di superare l'ostacolo lasciandolo alla propria destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica direzione obbligatoria a destra",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che siamo in prossimità di un incrocio",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è possibile proseguire su quella strada",
+      "isCorrect":false,
+      "image":"passaggio_destra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica al conducente gli unici passaggi consentiti",
+      "isCorrect":true,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica i passaggi consentiti a destra e a sinistra di un'isola di traffico",
+      "isCorrect":true,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente ai conducenti di passare sia a destra che a sinistra di un salvagente",
+      "isCorrect":true,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il passaggio a destra e a sinistra di un cantiere stradale",
+      "isCorrect":true,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può transitare a destra e a sinistra di uno spartitraffico",
+      "isCorrect":true,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il passaggio da ambedue i lati dell'ostacolo",
+      "isCorrect":true,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a svoltare a sinistra o a destra all'incrocio",
+      "isCorrect":false,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta di proseguire in quella strada",
+      "isCorrect":false,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è, di norma, preceduto dal segnale ROTATORIA",
+      "isCorrect":false,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"passaggio_destra_sinistra.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala un incrocio regolato con circolazione rotatoria",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato, in corrispondenza di una piazza, prescrive l'obbligo di circolazione secondo il verso indicato",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto prima dello sbocco su un'area in cui è prescritta la circolazione rotatoria",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di prescrizione",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto prima dello sbocco in una piazza con circolazione rotatoria",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la presenza di un incrocio nel quale la circolazione è regolata a rotatoria",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti a circolare secondo il verso indicato dalle frecce",
+      "isCorrect":true,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di divieto",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia una direzione obbligatoria a sinistra",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è collocato sulla colonnina luminosa posta al centro di una rotatoria",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è integrato con un segnale di PASSAGGIO OBBLIGATORIO A SINISTRA",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive un obbligo di ROTATORIA solo per le autovetture",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto su colonnina al centro dell'incrocio intorno alla quale bisogna girare secondo le frecce",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto all'inizio di una strada senza uscita",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di tornare indietro",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale raffigurato non vale per i ciclomotori",
+      "isCorrect":false,
+      "image":"segnale_rotatoia.png"
+   },
+   {
+      "question":"Il segnale di figura (A) su strade extraurbane è preceduto dal segnale di pericolo di CIRCOLAZIONE ROTATORIA in figura (B)",
+      "isCorrect":true,
+      "image":"circolazione_rotatoia_pericolo.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito marciare alla velocità di 40 km/h",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il limite di velocità al di sotto del quale è vietato circolare",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato impone di circolare ad una velocità di almeno 30 km/h",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i veicoli a mantenere almeno la velocità indicata",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli che non siano in grado di osservare la prescrizione",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la circolazione ai veicoli che non sono in grado di marciare almeno a 30 km/h",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive un limite minimo di velocità",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a mantenere una velocità non inferiore a 30 km/h",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato è consentito circolare entro i limiti massimi di velocità vigenti per quella strada",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la circolazione ai veicoli che procedono a velocità uguale o superiore a quella indicata",
+      "isCorrect":true,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di marciare alla velocità di 20 km/h",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite massimo di velocità",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta di superare la velocità indicata",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di marciare ad una velocità superiore a 30 km/h, senza alcun limite",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive di marciare alla velocità costante di 30 km/h",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di indicazione",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il limite massimo di velocità",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la circolazione è riservata ai veicoli con velocità massima inferiore a quella indicata",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta di marciare a velocità superiore a quella indicata",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di marciare alla velocità di 25 km/h",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a mantenere la distanza minima di sicurezza di 30 metri dal veicolo che precede",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il divieto di transito ai veicoli con massa complessiva superiore a 30 t",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di circolare a velocità inferiore a quella indicata",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la velocità consigliata",
+      "isCorrect":false,
+      "image":"limite_minimo_velocita.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine di una prescrizione",
+      "isCorrect":true,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite minimo di velocità",
+      "isCorrect":true,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non si ha più l'obbligo di circolare ad una velocità almeno pari a quella indicata",
+      "isCorrect":true,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di circolare entro i limiti massimi di velocità vigenti per quella strada",
+      "isCorrect":true,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di circolare a velocità superiore a quella indicata",
+      "isCorrect":true,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite massimo di velocità",
+      "isCorrect":false,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del divieto di transito ai veicoli con massa complessiva superiore a 30 tonnellate",
+      "isCorrect":false,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la circolazione ai veicoli di massa superiore a 30 tonnellate",
+      "isCorrect":false,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del limite di lunghezza massima dei complessi di veicoli",
+      "isCorrect":false,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine dell'obbligo di mantenere la distanza di almeno 30 metri dal veicolo che precede",
+      "isCorrect":false,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta di circolare alla velocità di 30 km/h",
+      "isCorrect":false,
+      "image":"fine_limite_velocita_minima.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive di circolare con catene o pneumatici invernali",
+      "isCorrect":true,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la circolazione è consentita solo con catene o pneumatici invernali",
+      "isCorrect":true,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito solo ai veicoli muniti di catene o pneumatici invernali",
+      "isCorrect":true,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito a veicoli sprovvisti di catene o pneumatici invernali",
+      "isCorrect":true,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala un tratto di strada ove occorre procedere con particolare prudenza",
+      "isCorrect":true,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova su strade che, in particolari condizioni, sono innevate o ghiacciate",
+      "isCorrect":true,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la circolazione ai veicoli muniti di pneumatici con catene",
+      "isCorrect":false,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato presegnala la progressiva chilometrica oltre la quale è obbligatorio l'uso delle catene",
+      "isCorrect":false,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la circolazione a veicoli muniti di pneumatici con spessore del battistrada inferiore a 3 millimetri",
+      "isCorrect":false,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a togliere le catene per non rovinare l'asfalto",
+      "isCorrect":false,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato, con pannello integrativo, indica la distanza a cui si trova un'officina per montare le catene",
+      "isCorrect":false,
+      "image":"obbligo_catene_pneumatici_neve.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio di un viale pedonale",
+      "isCorrect":true,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un segnale di obbligo",
+      "isCorrect":true,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato vale anche di giorno",
+      "isCorrect":true,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un percorso pedonale",
+      "isCorrect":true,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito anche ai veicoli, ma solo con particolare prudenza ed attenzione ai pedoni",
+      "isCorrect":false,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un divieto di transito per i pedoni",
+      "isCorrect":false,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un attraversamento pedonale",
+      "isCorrect":false,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga i conducenti di veicoli a dare la precedenza ai pedoni",
+      "isCorrect":false,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un percorso pedonale e ciclabile",
+      "isCorrect":false,
+      "image":"percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine del percorso pedonale",
+      "isCorrect":true,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine del viale pedonale",
+      "isCorrect":true,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che da lì in poi i pedoni non circolano più su un percorso riservato",
+      "isCorrect":true,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un attraversamento pedonale",
+      "isCorrect":false,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un divieto di transito per i pedoni",
+      "isCorrect":false,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta ai pedoni di attraversare la strada",
+      "isCorrect":false,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia la fine di un'area vietata ai pedoni",
+      "isCorrect":false,
+      "image":"fine_percorso_pedonale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un percorso vietato alle autovetture e ai motocicli",
+      "isCorrect":true,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di una corsia riservata alle biciclette",
+      "isCorrect":true,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un percorso riservato alle biciclette",
+      "isCorrect":true,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un itinerario che si può percorrere solo con le biciclette",
+      "isCorrect":true,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un attraversamento ciclabile regolato da semaforo",
+      "isCorrect":false,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito alle biciclette",
+      "isCorrect":false,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un percorso per pedoni e biciclette",
+      "isCorrect":false,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di una pista riservata alle biciclette e ai ciclomotori",
+      "isCorrect":false,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un percorso consentito al transito di pedoni e di biciclette",
+      "isCorrect":false,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un'area vietata al transito delle biciclette",
+      "isCorrect":false,
+      "image":"percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine della pista ciclabile",
+      "isCorrect":true,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine di un itinerario percorribile solo con biciclette",
+      "isCorrect":true,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine di una corsia riservata ai ciclisti",
+      "isCorrect":true,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine di una pista riservata alle biciclette",
+      "isCorrect":true,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un divieto di sosta per le biciclette",
+      "isCorrect":false,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito alle biciclette e ai ciclomotori",
+      "isCorrect":false,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza della fine del percorso pedonale e ciclabile",
+      "isCorrect":false,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia che non è più consentito il transito ai ciclisti e ai pedoni",
+      "isCorrect":false,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto all’inizio di un’area vietata alle biciclette",
+      "isCorrect":false,
+      "image":"fine_percorso_riservato_biciclette.png"
+   },
+   {
+      "question":"",
+      "isCorrect":false,
+      "image":"fine_percorso_riservato_biciclette.png"
    }
 ]
