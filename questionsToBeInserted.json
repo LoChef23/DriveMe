@@ -10848,13 +10848,1183 @@
       "image":"diritto_precedenza_sensi_unici_alternati.png"
    },
    {
-      "question":"",
+      "question":"La striscia bianca discontinua in figura può essere superata",
       "isCorrect":true,
-      "image":"diritto_precedenza_sensi_unici_alternati.png"
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura divide la carreggiata in due corsie",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"Nelle strade a doppio senso con due corsie la striscia bianca discontinua in figura divide i sensi di marcia",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura consente, in caso si voglia sorpassare, di occupare momentaneamente l'altra corsia di marcia",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura consente l'inversione di marcia, in condizioni di sicurezza, se la strada è a doppio senso",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura consente la svolta a sinistra",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una carreggiata a senso unico, la striscia bianca discontinua in figura serve a delimitare le corsie",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura, nelle strade a senso unico, divide le corsie",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura consente di circolare stando a cavallo di essa",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura divide la strada da una pista ciclabile",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura si trova in vicinanza di tutti i passaggi a livello",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura può essere sostituita da una serie di 'chiodi' per segnaletica stradale",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura consente l'inversione di marcia nelle strade a senso unico",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura divide la strada in due carreggiate, ognuna a doppio senso",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura si trova solo nelle strade a senso unico",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca discontinua in figura nelle strade a senso unico è posta nei dossi, per dividere i due sensi di marcia",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"Le strisce lungo il centro della carreggiata possono essere superate se discontinue (tratteggiate)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le strisce lungo il centro della carreggiata non possono essere superate se continue",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La striscia di mezzo in figura consente il sorpasso senza superarla, purché non vi siano motivi che lo vietino",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La doppia striscia in figura non può essere superata, ma si può circolare stando a cavallo di essa",
+      "isCorrect":false,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"Le strisce lungo il centro della carreggiata possono essere bianche o azzurre",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La striscia discontinua in figura può essere sostituita con alcuni 'chiodi' o catadiottri, messi a distanza di 50 centimetri",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia di mezzo in figura non consente il sorpasso in ogni caso",
+      "isCorrect":false,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura serve a dividere i sensi di marcia, sulle strade a doppio senso di circolazione",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura non può essere superata",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura permette il sorpasso, se consentito, senza superarla",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura non consente l'inversione del senso di marcia",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura non consente di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura si può trovare ai bordi della strada, per segnalare i margini",
+      "isCorrect":false,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura indica che si può viaggiare per file parallele",
+      "isCorrect":false,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura indica il punto in cui i conducenti si debbono arrestare per la presenza del segnale di STOP",
+      "isCorrect":false,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura è di colore azzurro nei parcheggi a pagamento",
+      "isCorrect":false,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"La doppia striscia continua in figura può essere superata",
+      "isCorrect":false,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"Le strisce di guida in figura, sono strisce curve discontinue (tratteggiate) di colore bianco",
+      "isCorrect":true,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le strisce di guida in figura, di norma, si trovano dove la svolta a sinistra si effettua lasciando alla nostra destra il centro dell'incrocio",
+      "isCorrect":true,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le strisce di guida in figura debbono essere lasciate alla sinistra del veicolo quando si svolta a sinistra",
+      "isCorrect":true,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le strisce di guida in figura servono ad effettuare la svolta in modo corretto, senza prendere contro mano la strada di sinistra",
+      "isCorrect":true,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le strisce di guida in figura debbono essere lasciate sempre alla destra del veicolo quando si svolta a destra",
+      "isCorrect":false,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le strisce di guida in figura non possono essere superate dai veicoli che proseguono diritto",
+      "isCorrect":false,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le strisce di guida in figura delimitano un'isola di traffico",
+      "isCorrect":false,
+      "image":"strisce_curve_discontinue.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura si trovano all'interno delle corsie, prima di un incrocio",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura indicano ai conducenti le direzioni consentite all'incrocio",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura consentono di immettersi nella corsia scelta quando le strisce sono ancora discontinue (tratteggiate)",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura obbligano a seguire la direzione indicata se le strisce di corsia sono continue",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura sono a freccia combinata diritta-destra per corsie destinate a chi deve proseguire diritto o a destra",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura possono essere completate da scritte sulla pavimentazione che indicano la località raggiungibile",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura segnalano le direzioni permesse",
+      "isCorrect":true,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura obbligano a seguire la direzione indicata, anche se le strisce di corsia sono discontinue (tratteggiate)",
+      "isCorrect":false,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura indicano che si è vicino ad una corsia per la sosta d'emergenza",
+      "isCorrect":false,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura ci consentono di cambiare corsia se le strisce sono continue",
+      "isCorrect":false,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura sono di colore azzurro per indicare un parcheggio a pagamento",
+      "isCorrect":false,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura sono di colore giallo nelle strade dove è vietata la sosta",
+      "isCorrect":false,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"Le frecce direzionali in figura sono di colore blu nelle autostrade",
+      "isCorrect":false,
+      "image":"frecce_direzionali.png"
+   },
+   {
+      "question":"L'isola di traffico in figura indica un tratto di strada vietato al transito ed alla sosta dei veicoli",
+      "isCorrect":true,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"L'isola di traffico in figura è realizzata con strisce bianche oblique",
+      "isCorrect":true,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"L'isola di traffico in figura indica una parte della strada su cui non si può circolare",
+      "isCorrect":true,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"In presenza dell'isola di traffico rappresentata in figura il veicolo C deve svoltare a destra",
+      "isCorrect":true,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"In presenza dell'isola di traffico rappresentata in figura il veicolo B deve svoltare a destra",
+      "isCorrect":true,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"In presenza dell'isola di traffico rappresentata in figura il veicolo A deve andare diritto",
+      "isCorrect":true,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"L'isola di traffico in figura può anche essere realizzata con strisce azzurre trasversali",
+      "isCorrect":false,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"L'isola di traffico in figura indica una zona dove è possibile la sosta dei veicoli",
+      "isCorrect":false,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"L'isola di traffico in figura indica una parte della carreggiata sulla quale si può sostare solo per 30 minuti",
+      "isCorrect":false,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"In presenza dell'isola di traffico rappresentata in figura il veicolo C può andare in qualsiasi direzione",
+      "isCorrect":false,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"In presenza dell'isola di traffico rappresentata in figura il veicolo B può svoltare a sinistra, dando la precedenza al veicolo A",
+      "isCorrect":false,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"In presenza dell'isola di traffico rappresentata in figura il veicolo A può svoltare a sinistra, dando la precedenza al veicolo C",
+      "isCorrect":false,
+      "image":"isole_di_traffico.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura si trova prima di una curva",
+      "isCorrect":true,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura si trova sul tratto in salita di un dosso",
+      "isCorrect":true,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura si trova prima di un incrocio",
+      "isCorrect":true,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Il veicolo in figura non può superare la striscia continua centrale",
+      "isCorrect":true,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura si trova, di norma, su strade a senso unico di circolazione",
+      "isCorrect":false,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura si trova ogni volta che si supera il tratto in discesa di un dosso",
+      "isCorrect":false,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura si trova ogni volta che si supera un passaggio a livello",
+      "isCorrect":false,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia continua centrale in figura consente l'inversione del senso di marcia",
+      "isCorrect":false,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Il veicolo in figura può effettuare un sorpasso anche superando la striscia continua centrale",
+      "isCorrect":false,
+      "image":"striscia_continua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si trova subito dopo una curva",
+      "isCorrect":true,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura consente di effettuare un sorpasso anche superando tutte e due le strisce",
+      "isCorrect":true,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si trova dopo un passaggio a livello",
+      "isCorrect":true,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si può trovare nel tratto in discesa di un dosso",
+      "isCorrect":true,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura consente anche al veicolo che viene di fronte di superare le strisce",
+      "isCorrect":false,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si trova, di norma, su strade a senso unico di circolazione",
+      "isCorrect":false,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si trova sul tratto in salita di un dosso",
+      "isCorrect":false,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si trova subito prima di un incrocio",
+      "isCorrect":false,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"Rispetto al veicolo che procede nel senso della freccia, la striscia discontinua in figura si trova prima di una curva",
+      "isCorrect":false,
+      "image":"striscia_discontinua_centrale.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede indicano un divieto di sosta",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura sono posti lungo la parte verticale del marciapiede",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede indicano che su quel lato della strada non è possibile sostare",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede consentono la fermata",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede indicano che la sosta è consentita solo agli autobus",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede segnalano un ostacolo al centro della carreggiata",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede avvertono i pedoni di fare attenzione al gradino",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"I segni gialli e neri in figura dipinti sul bordo del marciapiede indicano che è vietata anche la fermata",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"La segnaletica in figura indica una zona per la fermata degli autobus in servizio pubblico di linea",
+      "isCorrect":true,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura indica lo spazio per la fermata di autobus e filobus in servizio pubblico di linea",
+      "isCorrect":true,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La striscia a zig zag della segnaletica in figura serve agli autobus per facilitare la manovra di accostamento e per ripartire",
+      "isCorrect":true,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura vieta la sosta ma non la fermata anche nelle parti con striscia gialla a zig zag",
+      "isCorrect":true,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura indica lo spazio per la fermata di autosnodati in servizio pubblico di linea",
+      "isCorrect":true,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura indica lo spazio riservato alla sosta anche dei taxi",
+      "isCorrect":false,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura non consente alle autovetture di circolare all'interno dell'area segnata",
+      "isCorrect":false,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura non consente la sosta 20 metri prima della striscia gialla a zig zag",
+      "isCorrect":false,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura vieta agli autocarri di circolare all'interno dell'area segnata",
+      "isCorrect":false,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura può anche essere realizzata con strisce di colore bianco",
+      "isCorrect":false,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"La segnaletica in figura consente la sosta delle autovetture dalle ore 20.00 alle ore 8.00",
+      "isCorrect":false,
+      "image":"zona_fermata_autobus.png"
+   },
+   {
+      "question":"In presenza delle strisce di guida in figura il veicolo C può andare diritto",
+      "isCorrect":true,
+      "image":"strisce_di_guida.png"
+   },
+   {
+      "question":"In presenza delle strisce di guida in figura il veicolo B può svoltare a sinistra, dando però la precedenza al veicolo A",
+      "isCorrect":true,
+      "image":"strisce_di_guida.png"
+   },
+   {
+      "question":"In presenza delle strisce di guida in figura il veicolo A può andare in qualsiasi direzione",
+      "isCorrect":true,
+      "image":"strisce_di_guida.png"
+   },
+   {
+      "question":"In presenza delle strisce di guida in figura il veicolo C deve svoltare a destra",
+      "isCorrect":false,
+      "image":"strisce_di_guida.png"
+   },
+   {
+      "question":"In presenza delle strisce di guida in figura il veicolo B deve svoltare a destra",
+      "isCorrect":false,
+      "image":"strisce_di_guida.png"
+   },
+   {
+      "question":"In presenza delle strisce di guida in figura il veicolo A deve andare diritto",
+      "isCorrect":false,
+      "image":"strisce_di_guida.png"
+   },
+   {
+      "question":"Tutte e tre le corsie rappresentate in figura consentono al conducente di proseguire dritto",
+      "isCorrect":true,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"La corsia di sinistra rappresentata in figura consente al conducente di proseguire dritto o svoltare a sinistra",
+      "isCorrect":true,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"La corsia di mezzo rappresentata in figura consente al conducente solo di proseguire diritto",
+      "isCorrect":true,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"La corsia di destra rappresentata in figura consente al conducente di proseguire diritto o svoltare a destra",
+      "isCorrect":true,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"E' possibile cambiare corsia finché le strisce sono ancora discontinue (tratteggiate)",
+      "isCorrect":true,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"Il veicolo rappresentato in figura può svoltare a sinistra rimanendo nella stessa corsia",
+      "isCorrect":true,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"La corsia di sinistra rappresentata in figura consente al conducente solo di svoltare a sinistra",
+      "isCorrect":false,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"La corsia di destra rappresentata in figura è riservata ai veicoli lenti",
+      "isCorrect":false,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"La corsia di destra rappresentata in figura consente al conducente solo di svoltare a destra",
+      "isCorrect":false,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"Con la segnaletica rappresentata in figura è consentito al conducente cambiare corsia anche superando la striscia continua",
+      "isCorrect":false,
+      "image":"corsie_di_arresto.png"
+   },
+   {
+      "question":"Le corsie A, B e C rappresentate in figura non consentono al conducente di proseguire diritto",
+      "isCorrect":true,
+      "image":"corsie_preselezione.png"
+   },
+   {
+      "question":"La corsia A, rappresentata in figura, consente al conducente di svoltare solo a sinistra",
+      "isCorrect":true,
+      "image":"corsie_preselezione.png"
+   },
+   {
+      "question":"Con la segnaletica indicata in figura è consentito al conducente cambiare corsia dove le strisce di corsia sono ancora discontinue(tratteggiate)",
+      "isCorrect":true,
+      "image":"corsie_preselezione.png"
+   },
+   {
+      "question":"Le corsie A, B e C rappresentate in figura consentono al conducente di andare in tutte le direzioni",
+      "isCorrect":false,
+      "image":"corsie_preselezione.png"
+   },
+   {
+      "question":"Le corsie A,B e C rappresentate in figura sono a doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"corsie_preselezione.png"
+   },
+   {
+      "question":"La corsia B rappresentata in figura consente al conducente di svoltare e di proseguire diritto",
+      "isCorrect":false,
+      "image":"corsie_preselezione.png"
+   },
+   {
+      "question":"La corsia A rappresentata in figura consente al conducente solo di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"La corsia B rappresentata in figura consente al conducente di proseguire diritto e di svoltare a sinistra",
+      "isCorrect":true,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"In presenza della segnaletica in figura, la corsia C è l'unica che consente di svoltare a destra",
+      "isCorrect":true,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"In presenza della segnaletica in figura è consentito cambiare corsia fino a che le strisce sono ancora discontinue(tratteggiate)",
+      "isCorrect":true,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"In presenza della segnaletica in figura, la corsia A è l'unica che consente di svoltare a sinistra",
+      "isCorrect":false,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"Tutte e tre le corsie rappresentate in figura consentono al conducente di proseguire diritto",
+      "isCorrect":false,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"La corsia B rappresentata in figura consente al conducente solo di proseguire diritto",
+      "isCorrect":false,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"La corsia C rappresentata in figura consente al conducente solo la svolta a destra",
+      "isCorrect":false,
+      "image":"corsie_preselezione_doppio_senso.png"
+   },
+   {
+      "question":"Il bordo del marciapiede come dipinto in figura vieta la sosta anche ai taxi",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"Il bordo del marciapiede dipinto come in figura indica che nessun veicolo può sostare",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"Il bordo del marciapiede dipinto come in figura indica che non si può sostare lungo quel tratto",
+      "isCorrect":true,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"Il bordo del marciapiede dipinto come in figura indica che la sosta è consentita solo a pagamento",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"Il bordo del marciapiede dipinto come in figura indica che la sosta è consentita solo per un'ora",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"Il bordo del marciapiede dipinto come in figura indica la presenza di lavori in corso",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"Il bordo del marciapiede dipinto come in figura indica una strada con diritto di precedenza",
+      "isCorrect":false,
+      "image":"segni_gialli_neri.png"
+   },
+   {
+      "question":"E' regolamentare, nelle zone destinate alla fermata degli autobus in servizio pubblico di linea, trovare sulla pavimentazione la scritta BUS di colore giallo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta TAXI di colore giallo, per indicare zone riservate alla sosta dei taxi in servizio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta STOP, a completamento del relativo segnale verticale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta P L, con croce di S. Andrea, per segnalare un passaggio a livello",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si incontrano le strisce di figura dipinte sulla pavimentazione occorre moderare la velocità",
+      "isCorrect":true,
+      "image":"strisce_moderare_velocita.png"
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta indicante il nome di una località, a completamento della freccia direzionale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta STOP, per completare il segnale verticale di DARE PRECEDENZA",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta indicante una prossima stazione di servizio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione una scritta pubblicitaria che indica un distributore di carburante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione una scritta di incoraggiamento per i corridori ciclisti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' regolamentare trovare sulla pavimentazione la scritta TAXI, di colore bianco, nei parcheggi per taxi",
+      "isCorrect":false,
+      "image":"E' regolamentare trovare sulla pavimentazione la scritta GIOCHI, in vicinanza di giardini pubblici"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura si può sorpassare anche superando la striscia di mezzo",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura si può sorpassare anche in curva",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura la carreggiata è divisa in due corsie",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura la corsia di sinistra è, di norma, riservata al sorpasso",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura è consentito il sorpasso in vicinanza o in corrispondenza di dossi",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura si può sempre viaggiare per file parallele",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura si può fare l'inversione del senso di marcia",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura si può circolare stando a cavallo della striscia di mezzo",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a senso unico di circolazione con la segnaletica indicata in figura per svoltare a sinistra bisogna rimanere nella corsia di destra",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una carreggiata a doppio senso di circolazione la striscia di mezzo può essere continua o discontinua (tratteggiata)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In una carreggiata a doppio senso di circolazione la striscia di mezzo, se discontinua (tratteggiata), può essere superata durante un sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In una carreggiata a doppio senso di circolazione la linea di mezzo può essere costituita da due strisce continue affiancate, come in figura",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"In una carreggiata a doppio senso di circolazione la linea di mezzo se costituita da strisce continue, come in figura, consente il sorpasso senza superare le linee",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"Nella carreggiata a doppio senso di circolazione le strisce di mezzo in figura dividono i sensi di marcia",
+      "isCorrect":true,
+      "image":"doppia_striscia_bianca.png"
+   },
+   {
+      "question":"Nella carreggiata a doppio senso di circolazione la striscia di mezzo in figura, può essere superata con le sole ruote di sinistra",
+      "isCorrect":false,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"Nella carreggiata a doppio senso di circolazione come in figura la striscia di mezzo divide la strada in due carreggiate, ognuna a due corsie",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La segnaletica in figura indica, sia dentro che fuori dei centri abitati, un attraversamento pedonale",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un attraversamento pedonale che può trovarsi anche nei piccoli centri abitati",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un attraversamento pedonale",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un attraversamento per pedoni",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un attraversamento in cui i pedoni hanno la precedenza",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura può essere completata con l'apposito segnale verticale di ATTRAVERSAMENTO PEDONALE",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura obbliga i conducenti ad arrestarsi quando vi sono pedoni che attraversano la carreggiata",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"Un attraversamento pedonale può essere preceduto sulla destra da una striscia gialla a zig zag, come nella figura seguente",
+      "isCorrect":true,
+      "image":"strisce_pedonali_zig_zag.png"
+   },
+   {
+      "question":"La segnaletica in figura posta su strade extraurbane secondarie deve essere preceduta dal segnale di pericolo ATTRAVERSAMENTO PEDONALE",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura obbliga i conducenti a fermarsi e dare la precedenza ai pedoni che si accingono ad attraversare",
+      "isCorrect":true,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un'isola di traffico",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un attraversamento per ciclisti",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un attraversamento ciclabile",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un passo carrabile",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura è un'isola di rifugio per pedoni e ciclisti",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura non consente ai veicoli di transitarci sopra",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura indica un'area riservata ai soli pedoni disabili",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La segnaletica in figura non consente il transito ai pedoni",
+      "isCorrect":false,
+      "image":"strisce_pedonali.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura può essere abbinata ad un incrocio regolato da semaforo",
+      "isCorrect":true,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura può essere completata con la scritta STOP, dipinta sulla pavimentazione stradale",
+      "isCorrect":true,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura indica il punto in cui i conducenti devono arrestarsi in presenza del segnale FERMARSI E DARE PRECEDENZA (STOP)",
+      "isCorrect":true,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura indica il punto in cui i conducenti devono arrestarsi in presenza del semaforo a luce rossa",
+      "isCorrect":true,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"Il segnale raffigurato è una striscia trasversale di arresto",
+      "isCorrect":true,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura viene abbinata con il segnale di DARE PRECEDENZA",
+      "isCorrect":false,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura indica un attraversamento pedonale non regolato",
+      "isCorrect":false,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura indica un attraversamento ciclabile",
+      "isCorrect":false,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura non può mai essere superata",
+      "isCorrect":false,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"La striscia bianca trasversale in figura indica l'inizio del divieto di sosta",
+      "isCorrect":false,
+      "image":"striscia_di_arresto.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura si può effettuare un sorpasso anche superando la striscia di mezzo",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura non si può circolare stando a cavallo della striscia di mezzo",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura per svoltare a sinistra bisogna spostarsi verso il centro della carreggiata",
+      "isCorrect":true,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura si può sorpassare con qualsiasi condizione di visibilità e di traffico",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura si può sorpassare anche in curva, ma solo in città",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura si può fare l'inversione di marcia, ma senza occupare l'altra corsia",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione con la segnaletica indicata in figura, fuori dei centri abitati la corsia di sinistra serve per la sosta d'emergenza",
+      "isCorrect":false,
+      "image":"striscia_bianca_discontinua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura divide la carreggiata in due corsie",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura non può essere superata",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura, divide i sensi di marcia nelle strade a doppio senso",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura, sulle strade a doppio senso si può trovare sul tratto in salita di un dosso",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura, sulle strade a doppio senso può trovarsi in vicinanza degli attraversamenti pedonali",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura permette la manovra di sorpasso senza superarla",
+      "isCorrect":true,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura divide la strada in due carreggiate, ognuna a doppio senso",
+      "isCorrect":false,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura consente di marciarvi a cavallo",
+      "isCorrect":false,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura consente il sorpasso anche superandola, purché con le sole ruote di sinistra",
+      "isCorrect":false,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"La striscia bianca continua di mezzo in figura consente l'inversione di marcia nelle strade a doppio senso",
+      "isCorrect":false,
+      "image":"striscia_bianca_continua.png"
+   },
+   {
+      "question":"L'iscrizione in figura indica la velocità consigliata",
+      "isCorrect":true,
+      "image":"velocita_consigliata_orizzontale.png"
+   },
+   {
+      "question":"In presenza dell'iscrizione in figura non è consentito il transito di veicoli con massa a pieno carico superiore a 50 quintali",
+      "isCorrect":false,
+      "image":"velocita_consigliata_orizzontale.png"
+   },
+   {
+      "question":"Il dispositivo in figura è un dosso artificiale",
+      "isCorrect":true,
+      "image":"dosso_artificiale.png"
+   },
+   {
+      "question":"L'elemento in figura è un rallentatore di velocità installato sulla strada",
+      "isCorrect":true,
+      "image":"dosso_artificiale.png"
+   },
+   {
+      "question":"L'elemento in figura rappresenta un rallentatore di velocità",
+      "isCorrect":true,
+      "image":"dosso_artificiale.png"
+   },
+   {
+      "question":"L'elemento in figura è posto su un tratto di strada su cui è vietata la sosta",
+      "isCorrect":false,
+      "image":"dosso_artificiale.png"
+   },
+   {
+      "question":"L'elemento in figura individua un attraversamento ciclabile",
+      "isCorrect":false,
+      "image":"dosso_artificiale.png"
+   },
+   {
+      "question":"L'elemento in figura individua un attraversamento pedonale",
+      "isCorrect":false,
+      "image":"dosso_artificiale.png"
+   },
+   {
+      "question":"Le strisce di delimitazione gialle in figura individuano un'area di parcheggio riservata a persone invalide",
+      "isCorrect":true,
+      "image":"delimitazione_gialle_invalidi.png"
+   },
+   {
+      "question":"Le strisce gialle diagonali in figura devono essere lasciate libere per consentire l'entrata e l'uscita dal veicolo delle persone invalide",
+      "isCorrect":true,
+      "image":"delimitazione_gialle_invalidi.png"
+   },
+   {
+      "question":"Le strisce gialle in figura delimitano un'area di parcheggio riservata ai taxi",
+      "isCorrect":false,
+      "image":"delimitazione_gialle_invalidi.png"
+   },
+   {
+      "question":"Le strisce gialle in figura delimitano un'area riservata al carico e allo scarico di merci",
+      "isCorrect":false,
+      "image":"delimitazione_gialle_invalidi.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura separa la carreggiata da una piazzola di sosta",
+      "isCorrect":true,
+      "image":"piazzola_sosta.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura separa la carreggiata da un passo carrabile",
+      "isCorrect":true,
+      "image":"passo_carrabile_orizzontale.png"
+   },
+   {
+      "question":"Le strisce bianche discontinue sull'intersezione in figura sono strisce di guida",
+      "isCorrect":true,
+      "image":"strisce_guida_intersezione.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura divide la carreggiata da una corsia di accelerazione",
+      "isCorrect":true,
+      "image":"striscia_accelerazione.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura individua il bordo della strada principale, separandolo da quello della strada secondaria",
+      "isCorrect":true,
+      "image":"striscia_strada_principale.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura può essere superata solo in caso di emergenza",
+      "isCorrect":false,
+      "image":"piazzola_sosta.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura significa che la sosta non è possibile",
+      "isCorrect":false,
+      "image":"piazzola_sosta.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua separa la carreggiata dalla corsia di emergenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La striscia bianca laterale discontinua segnala l'inizio di una banchina",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le strisce bianche di guida in figura non consentono la svolta",
+      "isCorrect":false,
+      "image":"strisce_guida_intersezione.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura delimita l'accesso ad una pista ciclabile",
+      "isCorrect":false,
+      "image":"passo_carrabile_orizzontale.png"
+   },
+   {
+      "question":"La striscia bianca laterale discontinua in figura, delimita una piazzola di sosta",
+      "isCorrect":false,
+      "image":"striscia_accelerazione.png"
    },
    {
       "question":"",
       "isCorrect":false,
-      "image":"diritto_precedenza_sensi_unici_alternati.png"
+      "image":""
    }
 ]
