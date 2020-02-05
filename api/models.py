@@ -1,5 +1,7 @@
 import re
 import random
+import base64
+import os
 from passlib.apps import custom_app_context as pwd_context
 import boto3
 from flask_jwt_extended import create_access_token
@@ -90,9 +92,17 @@ class Question():
             }
         )
         
+        imageName = result['Item']['QuestionImage']['S']
+        if imageName != '-':
+            imagePath = os.path.abspath('./images/'+imageName)
+            with open(imagePath, 'rb') as imageToBeConverted:
+                strQuestionImage = str(base64.b64encode(imageToBeConverted.read()))
+        else:
+            strQuestionImage = '-'
+
         return {
             'questionID': result['Item']['QuestionID']['N'],
             'questionText': result['Item']['QuestionText']['S'],
             'questionAnswer': result['Item']['isCorrect']['BOOL'],
-            'questionImage': result['Item']['QuestionImage']['S']
+            'questionImage': strQuestionImage
         }
