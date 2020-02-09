@@ -12408,13 +12408,1008 @@
       "image":"semaforo.png"
    },
    {
-      "question":"",
+      "question":"Nei semafori in figura le frecce verdi accese indicano le direzioni verso le quali si può proseguire",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Nei semafori in figura le frecce rosse accese indicano che non si può proseguire nelle direzioni indicate",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Nei semafori in figura le frecce gialle fisse accese indicano di liberare l'incrocio, qualora sia stato già impegnato, o di arrestarsi in condizioni di sicurezza",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Nel semaforo in figura le frecce gialle lampeggianti accese indicano di attraversare l'incrocio con particolare prudenza   ",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono semafori di corsia",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Il semaforo in figura riguarda i veicoli che devono proseguire nella direzione della freccia",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Il semaforo in figura consente di proseguire nella sola direzione della freccia verde",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I semafori in figura, se spenti consentono di passare con particolare prudenza",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I semafori di corsia in figura, con freccia rossa accesa impongono l'arresto dei veicoli diretti nel senso della freccia",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I semafori in figura, con freccia gialla fissa accesa, impongono di liberare immediatamente l'incrocio, se lo si è già impegnato",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I segnali luminosi in figura valgono anche per le biciclette",
+      "isCorrect":true,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Nel semaforo in figura le frecce verdi accese, rivolte verso l'alto, indicano che si può proseguire in tutte le direzioni",
       "isCorrect":false,
-      "image":"semaforo.png"
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"Nel semaforo in figura le frecce rosse accese indicano di proseguire con prudenza",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono semafori per i veicoli in servizio di linea per trasporto di persone",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono semafori per i veicoli su rotaie (tram, treni)",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono posti all'inizio di una galleria",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I semafori in figura vengono utilizzati negli accessi ai ponti mobili",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I semafori in figura regolano l'ingresso sul pontile d'imbarco di navi traghetto",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I semafori in figura regolano l'attraversamento di un passaggio a livello",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono semafori per corsie reversibili",
+      "isCorrect":false,
+      "image":"semaforo_corsia.png"
+   },
+   {
+      "question":"La luce circolare gialla lampeggiante (tipo A di figura) invita a moderare la velocità",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce circolare gialla lampeggiante (tipo A di figura) è un segnale di pericolo generico",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce circolare gialla lampeggiante (tipo A di figura) invita a procedere con particolare prudenza",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce circolare gialla lampeggiante (tipo A di figura) può essere posta prima di un ponte mobile",
+      "isCorrect":false,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce circolare gialla lampeggiante (tipo A di figura) può essere posta prima di un pontile d'imbarco di navi traghetto",
+      "isCorrect":false,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo B o C in figura, è affiancata al semaforo veicolare",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo C in figura, indica che svoltando a destra i veicoli devono dare la precedenza alle biciclette",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo B in figura, indica che nello svoltare a destra i veicoli debbono dare la precedenza ai pedoni",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo A in figura, può essere posta in punti pericolosi della strada",
+      "isCorrect":true,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo C in figura, indica una corsia riservata a tutti i veicoli a due ruote",
+      "isCorrect":false,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo B in figura, indica la presenza di un viale pedonale",
+      "isCorrect":false,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo A in figura, è un semaforo per i veicoli in servizio di linea per trasporto di persone",
+      "isCorrect":false,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"La luce gialla lampeggiante, del tipo C in figura, indica una corsia riservata ai ciclomotori",
+      "isCorrect":false,
+      "image":"luce_gialla.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura si trovano in vicinanza di un posto di blocco della polizia",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi all'accesso di un ponte stretto",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura indicano l'uscita obbligatoria dall'autostrada",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura si trovano 150 metri prima di un confine di Stato",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura indicano che sta per accendersi la luce verde",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi a un passaggio a livello ferroviario senza barriere",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi a un passaggio a livello ferroviario con semibarriere",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi all'accesso di un pontile d'imbarco di navi traghetto",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi all'accesso di un ponte mobile",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci rosse accese lampeggianti in figura obbligano a non superare la striscia trasversale d'arresto",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura si possono trovare in vicinanza di passaggi a livello con semibarriere",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura si accendono alternativamente per segnalare l'arrivo dei treni nei passaggi a livello senza barriere",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura quando sono accese vietano il passaggio di veicoli e pedoni",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura, di norma, sono situate sul lato destro della strada",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura entrano in funzione poco prima dell'arrivo del treno e rimangono accese fino alla fine del suo passaggio",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura si accendono subito prima dell'inizio dell'abbassamento delle semibarriere",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura sono integrate da un dispositivo di segnalazione acustica",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse lampeggianti alternativamente e semibarriera ancora alzata, occorre predisporsi all'arresto",
+      "isCorrect":true,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse lampeggianti alternativamente e semibarriera ancora alzata, si può passare velocemente, se non si vede sopraggiungere alcun treno",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura si trovano lungo le linee ferroviarie, come semaforo per i conducenti dei treni",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura quando lampeggiano alternativamente invitano a occupare rapidamente il passaggio a livello",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura si possono trovare 150 metri prima di un passaggio a livello con barriere",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Le luci in figura vengono poste sul primo dei pannelli distanziometrici di un passaggio a livello",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Il dispositivo luminoso in figura è costituito da luci lampeggianti alternativamente che si accendono durante la fase di apertura (sollevamento) delle semibarriere",
+      "isCorrect":false,
+      "image":"luci_rosse_lampeggianti.png"
+   },
+   {
+      "question":"Il semaforo in figura può avere la luce bianca orizzontale accesa",
+      "isCorrect":true,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura può avere la luce bianca verticale accesa",
+      "isCorrect":true,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il segnale luminoso in figura indica un semaforo per i veicoli di trasporto pubblico",
+      "isCorrect":true,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura vale per i veicoli in servizio di linea per trasporto di persone",
+      "isCorrect":true,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura impone l'arresto ai veicoli in servizio di linea per trasporto di persone quando è accesa la barra bianca in alto",
+      "isCorrect":true,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura consente ai veicoli di trasporto pubblico di persone di proseguire quando in basso è accesa la barra bianca",
+      "isCorrect":true,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura è un semaforo pedonale",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura preannuncia lavori in corso",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura indica i possibili scambi dei binari tranviari",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura impone ai motocicli di rallentare quando è acceso il triangolo giallo",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura vale per i veicoli con targa militare",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura è valido solo per i veicoli che marciano su rotaie (tram, treni)",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura regola il transito dei pedoni",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura indica un passaggio a livello senza barriere",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura regola il transito nei pontili per l'imbarco sulle navi traghetto",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura indica la vicinanza di una stazione ferroviaria",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"Il semaforo in figura, con il triangolo giallo acceso, preavvisa lavori in corso",
+      "isCorrect":false,
+      "image":"semaforo_veicoli_trasporto_pubblico.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono semafori per corsie reversibili",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo in figura non consente di occupare la corsia indicata con luce rossa a forma di X",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo in figura consente di impegnare la corsia indicata dalla freccia verde",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Nei semafori in figura la luce gialla lampeggiante obbliga il conducente a spostarsi nella corsia indicata dalla freccia",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura è posto su una carreggiata con almeno tre corsie",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura consente il transito nella corsia indicata dalla freccia verde",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura, con freccia gialla lampeggiante impone al conducente di abbandonare quella corsia e di spostarsi in quella indicata",
+      "isCorrect":true,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo in figura non consente di occupare le corsie indicate dalle frecce verdi",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo in figura vale anche per i pedoni",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Nei semafori in figura, la luce rossa a forma di X impone di arrestarsi ed attendere la luce gialla",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo in figura non vale per le biciclette",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura indica la corsia per i veicoli lenti",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura indica la corsia per la sosta di emergenza",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura indica la corsia riservata al sorpasso",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"Il semaforo di corsie reversibili in figura è posto solo su carreggiate a senso unico di circolazione",
+      "isCorrect":false,
+      "image":"semaforo_corsie_reversibili.png"
+   },
+   {
+      "question":"La luce verde accesa del semaforo in figura permette ai pedoni l'attraversamento",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"La luce verde accesa del semaforo in figura consente ai pedoni di attraversare la strada",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"La luce verde accesa del semaforo in figura consente ai pedoni di impegnare la carreggiata per attraversarla",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura regola il passaggio dei pedoni negli incroci",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il segnale luminoso in figura è un semaforo per i pedoni",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura, con luce gialla fissa accesa, impone ai pedoni che hanno già occupato l'attraversamento pedonale di liberarlo rapidamente",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura, con luce rossa accesa impone ai pedoni di non attraversare",
+      "isCorrect":true,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura indica una scala mobile in funzione",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"La luce verde accesa del semaforo in figura consente il passaggio solo dei veicoli",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"La luce verde accesa del semaforo in figura obbliga i pedoni a dare la precedenza ai veicoli che svoltano",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura segnala un ascensore pubblico",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura segnala la presenza di una scuola elementare, per cui bisogna rallentare",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"La luce verde del semaforo in figura è sempre accesa durante l'uscita degli studenti dalla scuola",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il segnale luminoso in figura indica la presenza di una scuola",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura indica lo svolgimento di una gara podistica",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Nelle aree di servizio autostradali il semaforo in figura indica i sottopassaggi pedonali",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura si trova all'ingresso della metropolitana",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura indica i cancelli di imbarco nelle aree portuali",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura indica l'entrata di una struttura sportiva",
+      "isCorrect":false,
+      "image":"semaforo_pedoni.png"
+   },
+   {
+      "question":"Il semaforo in figura si trova all'uscita di una pista ciclabile, per regolare l'attraversamento della strada",
+      "isCorrect":true,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il segnale luminoso in figura è un semaforo riservato ai conducenti di biciclette",
+      "isCorrect":true,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura, con luce rossa accesa, impone l'arresto alle biciclette",
+      "isCorrect":true,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura, con luce gialla fissa accesa, impone ai conducenti di biciclette di liberare velocemente l'incrocio se lo hanno già impegnato",
+      "isCorrect":true,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura, con luce verde accesa, consente soltanto ai conducenti di biciclette di attraversare l'incrocio",
+      "isCorrect":true,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura indica una corsia riservata alle biciclette e ai ciclomotori",
+      "isCorrect":false,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura indica lo svolgimento di una gara ciclistica",
+      "isCorrect":false,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura indica che ci sono lavori in corso per la costruzione di una pista ciclabile",
+      "isCorrect":false,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura indica una corsia riservata ai motocicli",
+      "isCorrect":false,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura indica il divieto di transito per le biciclette",
+      "isCorrect":false,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"Il semaforo in figura vale per tutti i veicoli a due ruote",
+      "isCorrect":false,
+      "image":"semaforo_biciclette.png"
+   },
+   {
+      "question":"I segnali luminosi in figura sono semafori di onda verde",
+      "isCorrect":true,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura consiglia la velocità da mantenere, per trovare la luce verde al semaforo successivo",
+      "isCorrect":true,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo di onda verde in figura si trova su strade con più incroci dove vi sono semafori sincronizzati (temporizzati)",
+      "isCorrect":true,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura segnala la velocità consigliata per poter usufruire dell'onda verde",
+      "isCorrect":true,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Delle tre luci del semaforo in figura se ne accende soltanto una, mentre le altre sono spente",
+      "isCorrect":true,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura obbliga a mantenere la velocità indicata",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura non consente di superare la velocità indicata",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura impone al conducente di mantenere dal veicolo che lo precede la distanza indicata",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura indica di procedere con prudenza",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo in figura, anche se spento, indica la velocità obbligatoria",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo di onda verde in figura viene posto anche sulle autostrade",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo di onda verde in figura riporta i limiti massimi di velocità delle autovetture, motocicli e autocarri",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo di onda verde in figura indica le velocità che devono obbligatoriamente rispettare alcuni veicoli",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo di onda verde in figura è un semaforo per lavori in corso",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Il semaforo di onda verde in figura indica la distanza dai caselli autostradali",
+      "isCorrect":false,
+      "image":"semaforo_onda_verde.png"
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, la carta di circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, la patente di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, il certificato di assicurazione del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli deve esibire, a richiesta degli agenti, il segnale mobile di pericolo (triangolo)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve mostrare, a richiesta degli agenti, la valigetta di pronto soccorso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, il certificato di proprietà",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, il codice fiscale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi guida autoveicoli o motocicli deve mostrare, a richiesta degli agenti, l'attestazione di pagamento della tassa di possesso (bollo)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli addetti a servizi di polizia stradale vengono riconosciuti dall'uniforme (divisa)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli addetti a servizi di polizia stradale vengono riconosciuti dalla 'paletta' bianca e rossa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli addetti a servizi di polizia stradale vengono riconosciuti dal segnale distintivo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli addetti a servizi di polizia stradale vengono riconosciuti dalla 'paletta' bianca e nera",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli addetti a servizi di polizia stradale vengono riconosciuti dai guantoni e dalle strisce rifrangenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura è vietato il passaggio",
+      "isCorrect":true,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura bisogna arrestarsi prima della striscia trasversale di arresto",
+      "isCorrect":true,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura non si può svoltare a sinistra",
+      "isCorrect":true,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura non si può attraversare l'incrocio",
+      "isCorrect":true,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura non si può svoltare a destra",
+      "isCorrect":true,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"La posizione del vigile con le braccia aperte verso la nostra direzione come in figura equivale alla luce rossa del semaforo",
+      "isCorrect":true,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura si può passare se si svolta a destra, dando però la precedenza ai pedoni che attraversano",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la direzione da cui proviene il conducente come in figura questi può procedere, ma con la massima prudenza e a velocità moderata",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura bisogna suonare il clacson, ma con moderazione, per richiamare l'attenzione del vigile",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura si può svoltare, ma non proseguire diritto",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"La posizione del vigile con le braccia aperte verso la nostra direzione come in figura equivale alla luce verde del semaforo",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone di profilo con le braccia aperte come in figura è consentito il passaggio delle correnti di traffico che scorrono parallele alle sue braccia",
+      "isCorrect":true,
+      "image":"vigile_luce_verde.png"
+   },
+   {
+      "question":"Quando il vigile si dispone di profilo con le braccia aperte come in figura si può svoltare a destra se si proviene dalla sua destra o dalla sua sinistra",
+      "isCorrect":true,
+      "image":"vigile_luce_verde.png"
+   },
+   {
+      "question":"Quando il vigile si dispone di profilo con le braccia aperte come in figura, le correnti di traffico che scorrono parallele alle sue braccia possono attraversare l'incrocio, ma usando prudenza",
+      "isCorrect":true,
+      "image":"vigile_luce_verde.png"
+   },
+   {
+      "question":"La posizione di profilo del vigile con le braccia aperte come in figura equivale alla luce verde del semaforo per le correnti di traffico che scorrono parallele alle sue braccia",
+      "isCorrect":true,
+      "image":"vigile_luce_verde.png"
+   },
+   {
+      "question":"Quando il vigile si dispone di profilo con le braccia aperte come in figura si deve obbligatoriamente proseguire diritto",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone di profilo con le braccia aperte come in figura, ci si deve arrestare prima della striscia trasversale di arresto se si proviene dalla sua sinistra",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"Quando il vigile si dispone di profilo con le braccia aperte come in figura ci si deve arrestare dopo aver superato le strisce dell'attraversamento pedonale",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"La posizione di profilo del vigile con le braccia aperte come in figura, per le correnti di traffico che scorrono parallele alle sue braccia equivale alla luce rossa del semaforo",
+      "isCorrect":false,
+      "image":"vigile_luce_rossa.png"
+   },
+   {
+      "question":"La posizione del vigile con un braccio alzato come in figura equivale alla luce gialla fissa del semaforo",
+      "isCorrect":true,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"Se il vigile ha un braccio alzato come in figura bisogna liberare velocemente l'incrocio, se già è stato impegnato",
+      "isCorrect":true,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"Se il vigile ha un braccio alzato come in figura bisogna arrestarsi prima dell'incrocio, se è possibile farlo senza creare pericolo",
+      "isCorrect":true,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"La posizione del vigile con un braccio alzato come in figura è una indicazione riservata solo ai veicoli che devono svoltare",
+      "isCorrect":false,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"Se il vigile ha un braccio alzato come in figura bisogna in ogni caso arrestarsi",
+      "isCorrect":false,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"Se il vigile ha un braccio alzato come in figura è consentito soltanto svoltare a destra",
+      "isCorrect":false,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"Se il vigile ha un braccio alzato come in figura bisogna rallentare solo se nell'incrocio vi sono binari del tram",
+      "isCorrect":false,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"La posizione del vigile con il braccio alzato come in figura equivale alla luce rossa del semaforo",
+      "isCorrect":false,
+      "image":"vigile_luce_gialla.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente la svolta a sinistra ai veicoli che arrivano dalla sua sinistra",
+      "isCorrect":true,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura ferma i veicoli che arrivano dalla sua destra",
+      "isCorrect":true,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura vieta di proseguire diritto ai veicoli che gli vengono dalle sue spalle",
+      "isCorrect":true,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente di proseguire diritto ai veicoli che arrivano dalla sua sinistra",
+      "isCorrect":true,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente di svoltare a destra ai veicoli che arrivano dalla sua sinistra",
+      "isCorrect":true,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente di svoltare a destra ai veicoli che arrivano dalla sua destra",
+      "isCorrect":false,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente la svolta a destra ai veicoli che arrivano dalle sue spalle",
+      "isCorrect":false,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente la svolta a sinistra ai veicoli che arrivano dalla sua destra",
+      "isCorrect":false,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura consente di proseguire diritto ai veicoli che arrivano dalla sua destra",
+      "isCorrect":false,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il vigile disposto con le braccia ad angolo retto come in figura vieta il passaggio ai veicoli che arrivano dalla sua sinistra",
+      "isCorrect":false,
+      "image":"vigile_angolo_retto.png"
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico significa che tutti i veicoli si devono arrestare, in condizioni di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico serve per consentire il passaggio di veicoli di soccorso in servizio di emergenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico impone a chi ha impegnato l'incrocio di liberarlo ed eventualmente di arrestarsi subito dopo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico indica che occorre arrestarsi, se non si è ancora occupato l'incrocio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico indica che occorre tornare indietro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico serve per arrestare o deviare solo i veicoli che arrivano dalla sua destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico significa che i veicoli fermi devono mettersi in marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il suono prolungato del fischietto da parte dell'agente preposto al traffico impone ai soli veicoli pesanti di arrestarsi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è necessario fermarsi sulla linea d'arresto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, non si deve accelerare per attraversare prima che si abbassi la semibarriera",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, si può passare velocemente, se non si vede sopraggiungere il treno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, bisogna accelerare per liberare rapidamente l'attraversamento",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, bisogna fermarsi in corrispondenza del terzo pannello distanziometrico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare se la linea ferroviaria è ad un solo binario",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare i binari se non si sente ancora il fischio del treno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare i binari se non vi sono altri veicoli in attesa",
+      "isCorrect":false,
+      "image":""
    },
    {
       "question":"",
-      "isCorrect":false,
-      "image":"semaforo.png"
+      "isCorrect":true,
+      "image":""
    }
 ]
