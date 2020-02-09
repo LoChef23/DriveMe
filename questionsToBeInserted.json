@@ -13408,8 +13408,403 @@
       "image":""
    },
    {
-      "question":"",
+      "question":"Il segnale raffigurato è di conferma autostradale",
       "isCorrect":true,
-      "image":""
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato riporta le località con le relative distanze in chilometri",
+      "isCorrect":true,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato se di colore blu, si trova su strade extraurbane",
+      "isCorrect":true,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto su un'autostrada",
+      "isCorrect":true,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che mancano 180 chilometri per Firenze",
+      "isCorrect":true,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica in autostrada la distanza delle località raggiungibili",
+      "isCorrect":true,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che uscendo dal primo casello autostradale è possibile raggiungere tutte le località indicate",
+      "isCorrect":false,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che per raggiungere Milano bisogna percorrere l'autostrada n. 472",
+      "isCorrect":false,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che mancano 180 chilometri per l'area di servizio di Firenze",
+      "isCorrect":false,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica, per ogni località, il numero della strada da percorrere",
+      "isCorrect":false,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica i chilometri già fatti dalle località indicate",
+      "isCorrect":false,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto sulle strade extraurbane",
+      "isCorrect":false,
+      "image":"conferma_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un itinerario di strada internazionale",
+      "isCorrect":true,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il numero della classificazione internazionale della strada",
+      "isCorrect":true,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto su strade di importanza internazionale",
+      "isCorrect":true,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'itinerario internazionale n. 55",
+      "isCorrect":true,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare all'interno di un segnale di preavviso di bivio stradale",
+      "isCorrect":true,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato identifica le strade extraurbane",
+      "isCorrect":false,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'uscita autostradale n. 55",
+      "isCorrect":false,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che mancano 55 chilometri al confine di Stato con l'estero",
+      "isCorrect":false,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la velocità massima da tenere su quella strada",
+      "isCorrect":false,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il numero del cavalcavia",
+      "isCorrect":false,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che sono stati percorsi 55 chilometri dal punto di origine dell'autostrada",
+      "isCorrect":false,
+      "image":"itinerario_internazionale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il tipo ed il numero di strada percorsa",
+      "isCorrect":true,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare all'interno di un segnale di direzione o di bivio stradale",
+      "isCorrect":true,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada su cui viaggiamo è una strada statale",
+      "isCorrect":true,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che stiamo percorrendo la strada statale n. 2",
+      "isCorrect":true,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il numero di piazzole di sosta",
+      "isCorrect":false,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada sdrucciolevole per 2 chilometri",
+      "isCorrect":false,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada stretta per 2 chilometri",
+      "isCorrect":false,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada senza uscita a 2 chilometri",
+      "isCorrect":false,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada senza segnaletica per 2 chilometri",
+      "isCorrect":false,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada sterrata",
+      "isCorrect":false,
+      "image":"strada_statale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare all'inizio di una strada comunale",
+      "isCorrect":true,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare a completamento dei segnali di direzione",
+      "isCorrect":true,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato identifica una strada comunale",
+      "isCorrect":true,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare lungo la strada comunale n. 19",
+      "isCorrect":true,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova a diciannove chilometri dalla più vicina Stazione dei Carabinieri",
+      "isCorrect":false,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova all'inizio di una strada di campagna",
+      "isCorrect":false,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova dove la strada è percorribile solo con catene da neve",
+      "isCorrect":false,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova su strade dove la sosta è consentita dopo le ore 19.00",
+      "isCorrect":false,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica, su strada urbana, il numero del cavalcavia",
+      "isCorrect":false,
+      "image":"strada_comunale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la vicinanza di un'area per campeggio",
+      "isCorrect":true,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area da campeggio con tende e sosta per caravan ed autocaravan",
+      "isCorrect":true,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una zona destinata alla sosta di caravan ed autocaravan ed al campeggio",
+      "isCorrect":true,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito il campeggio e la sosta di caravan ed autocaravan",
+      "isCorrect":true,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un divieto di sosta per caravan e per i veicoli da campeggio",
+      "isCorrect":false,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una zona panoramica",
+      "isCorrect":false,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'officina di riparazione veicoli da campeggio nelle vicinanze",
+      "isCorrect":false,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una postazione mobile di Polizia nelle vicinanze",
+      "isCorrect":false,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un posto mobile di pronto soccorso nelle vicinanze",
+      "isCorrect":false,
+      "image":"area_campeggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'indirizzo ed i numeri telefonici del più vicino comando della polizia stradale",
+      "isCorrect":true,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la località ed i numeri di telefono del più vicino comando di polizia stradale",
+      "isCorrect":true,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la sede ed il numero telefonico del più vicino comando di polizia stradale",
+      "isCorrect":true,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato riporta alcuni dati (località, via, telefoni) del più vicino comando di polizia stradale",
+      "isCorrect":true,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un posto di blocco della polizia",
+      "isCorrect":false,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada interrotta per incidente stradale",
+      "isCorrect":false,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una zona riservata al parcheggio dei veicoli della polizia",
+      "isCorrect":false,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la possibilità di incrociare una colonna di veicoli della polizia",
+      "isCorrect":false,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un tratto di strada riservato alla polizia",
+      "isCorrect":false,
+      "image":"comando_polizia_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un senso unico frontale",
+      "isCorrect":true,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la circolazione su quel tratto di strada è a senso unico",
+      "isCorrect":true,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che dopo di esso è vietata l'inversione di marcia",
+      "isCorrect":true,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio di una strada a senso unico",
+      "isCorrect":true,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di proseguire diritto",
+      "isCorrect":false,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il divieto di svoltare a destra o a sinistra",
+      "isCorrect":false,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica di circolare su una sola corsia",
+      "isCorrect":false,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un restringimento della carreggiata",
+      "isCorrect":false,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si viaggia per file parallele",
+      "isCorrect":false,
+      "image":"senso_unico_frontale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada su cui è posto è a senso unico",
+      "isCorrect":true,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale A di figura indica che svoltando a sinistra la strada è a senso unico",
+      "isCorrect":true,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che svoltando nel senso della freccia non si incrociano veicoli provenienti dal senso opposto",
+      "isCorrect":true,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che una volta svoltato nel senso della freccia è vietata l'inversione di marcia",
+      "isCorrect":true,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che nel tratto di strada in cui è posto si deve sorpassare a destra",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale A di figura indica che è obbligatorio svoltare a sinistra",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è vietato proseguire diritto",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si deve marciare per file parallele",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che svoltando nel senso della freccia la sosta è consentita solo a sinistra",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un parcheggio libero nel senso della freccia",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
+   },
+   {
+      "question":"",
+      "isCorrect":false,
+      "image":"strada_senso_unico.png"
    }
 ]
