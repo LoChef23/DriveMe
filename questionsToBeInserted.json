@@ -13803,8 +13803,803 @@
       "image":"strada_senso_unico.png"
    },
    {
-      "question":"",
+      "question":"Il segnale raffigurato indica la distanza dallo svincolo d'uscita per la località indicata",
+      "isCorrect":true,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto lungo un'autostrada",
+      "isCorrect":true,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica a sinistra la distanza progressiva e a destra quella dal casello d'uscita per Piacenza",
+      "isCorrect":true,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato nella parte sinistra indica la distanza progressiva dal luogo di origine dell'autostrada",
+      "isCorrect":true,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che mancano 4 chilometri dal casello d'uscita per Piacenza",
+      "isCorrect":true,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato fa parte dei segnali di indicazione",
+      "isCorrect":true,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica cha mancano 54 chilometri dallo svincolo d'uscita per Piacenza",
       "isCorrect":false,
-      "image":"strada_senso_unico.png"
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si sta percorrendo l'autostrada n. 54",
+      "isCorrect":false,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica a sinistra la velocità consigliata",
+      "isCorrect":false,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che sono stati già percorsi 4 chilometri da Piacenza",
+      "isCorrect":false,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'inizio di un centro abitato",
+      "isCorrect":false,
+      "image":"progresiva_distanziometrica_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di sosta per i taxi in servizio",
+      "isCorrect":true,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area di sosta ad uso esclusivo dei taxi in servizio",
+      "isCorrect":true,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un parcheggio riservato ai taxi in servizio",
+      "isCorrect":true,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'area contrassegnata da strisce gialle con la scritta TAXI",
+      "isCorrect":true,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un divieto di sorpasso ai taxi",
+      "isCorrect":false,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada vietata ai taxi",
+      "isCorrect":false,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la presenza nelle vicinanze di un apparecchio per chiamare un taxi",
+      "isCorrect":false,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la presenza di una stazione radio per taxi",
+      "isCorrect":false,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la presenza di una stazione radio per taxi",
+      "isCorrect":false,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un garage riservato ai taxi",
+      "isCorrect":false,
+      "image":"area_sosta_taxi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un posto di telefono pubblico nelle vicinanze",
+      "isCorrect":true,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che siamo in vicinanza di un apparecchio telefonico pubblico",
+      "isCorrect":true,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la possibilità, a breve distanza, di poter telefonare da un telefono pubblico",
+      "isCorrect":true,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un apparecchio telefonico pubblico posto su strade extraurbane",
+      "isCorrect":true,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la vicinanza di un negozio di telefonia mobile",
+      "isCorrect":false,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un posto di pronto soccorso raggiungibile per telefono",
+      "isCorrect":false,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la possibilità di ricaricare i telefoni cellulari",
+      "isCorrect":false,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è vietato usare i telefoni cellulari",
+      "isCorrect":false,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una zona sufficientemente coperta dal segnale per telefonia mobile",
+      "isCorrect":false,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che è consentito telefonare solo con cellulari a viva voce",
+      "isCorrect":false,
+      "image":"telefono_pubblico.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un posto di rifornimento carburante",
+      "isCorrect":true,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che nelle vicinanze vi è un posto di distribuzione carburante",
+      "isCorrect":true,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la possibilità di rifornimento carburante a breve distanza",
+      "isCorrect":true,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che a breve distanza vi è una stazione di rifornimento carburante",
+      "isCorrect":true,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che lungo la strada, a breve distanza, vi è un distributore di carburante",
+      "isCorrect":true,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un'officina di assistenza meccanica nelle vicinanze",
+      "isCorrect":false,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un posto telefonico pubblico nelle vicinanze",
+      "isCorrect":false,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che nelle vicinanze vi è un'area di sosta per autoveicoli",
+      "isCorrect":false,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un distributore di carburante riservato solo ai veicoli alimentati a GPL",
+      "isCorrect":false,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una raffineria",
+      "isCorrect":false,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai veicoli che trasportano carburante",
+      "isCorrect":false,
+      "image":"area_rifornimento_carburante.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un preavviso di deviazione temporanea",
+      "isCorrect":true,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa l'interruzione di una strada per lavori in corso",
+      "isCorrect":true,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato fa parte dei segnali temporanei per lavori sulla strada",
+      "isCorrect":true,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica nella parte inferiore la lunghezza della deviazione",
+      "isCorrect":true,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è assolutamente possibile raggiungere Novara",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a tornare indietro",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una piazzola di sosta",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la distanza da un'area di servizio",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un cantiere di lavoro lungo 2 chilometri",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la deviazione si trova a 2 chilometri di distanza dal segnale",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto a 2 chilometri dal segnale di lavori in corso",
+      "isCorrect":false,
+      "image":"preavviso_deviazione_temporanea.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio urbano",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato riporta i nomi dei luoghi raggiungibili dall'incrocio urbano",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa la svolta a destra per raggiungere la stazione ferroviaria",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa la svolta a destra per raggiungere il centro della città",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica di proseguire diritto per raggiungere Sora",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di proseguire diritto per raggiungere Napoli",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova su strade extraurbane",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica di svoltare a destra per uscire dal centro abitato",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che per raggiungere il centro della città bisogna tornare indietro",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un'area di sosta a destra",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa a destra un passaggio a livello senza barriere",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_urbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa due incroci vicini",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è possibile svoltare a sinistra al primo incrocio",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a sinistra per l'ospedale al secondo incrocio",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a destra per via Gemona al primo incrocio",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a destra per il centro della città al secondo incrocio",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a destra in direzione Trieste al secondo incrocio",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che bisogna svoltare a sinistra al secondo incrocio per raggiungere l'Austria",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica due incroci vicini su strada urbana",
+      "isCorrect":true,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova su strade extraurbane",
+      "isCorrect":false,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica come lasciare in sosta i veicoli",
+      "isCorrect":false,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica ai veicoli diretti in Austria di tornare indietro",
+      "isCorrect":false,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente di svoltare a sinistra al primo incrocio",
+      "isCorrect":false,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica come uscire da un centro commerciale",
+      "isCorrect":false,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia le direzioni per l'ingresso in autostrada",
+      "isCorrect":false,
+      "image":"incroci_ravvicinati_urbani.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un preavviso di incrocio urbano con circolazione rotatoria",
+      "isCorrect":true,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare alla prima traversa a destra per andare a Forlì",
+      "isCorrect":true,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare alla seconda traversa per raggiungere la tangenziale",
+      "isCorrect":true,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato contiene lo schema della rotatoria",
+      "isCorrect":true,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato riporta i nomi delle località raggiungibili",
+      "isCorrect":true,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada interrotta",
+      "isCorrect":false,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un'area pedonale con verde pubblico",
+      "isCorrect":false,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un divieto di transito agli autoveicoli",
+      "isCorrect":false,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova su strade extraurbane",
+      "isCorrect":false,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato vale solo nelle ore notturne",
+      "isCorrect":false,
+      "image":"incrocio_urbano_circolazione_rotatoria.png"
+   },
+   {
+      "question":"Il segnale raffigurato è un preavviso di incrocio urbano",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta agli autocarri di massa a pieno carico superiore a 3,5 tonnellate di proseguire diritto per Avezzano",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente alle autovetture di proseguire diritto per Pescara",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a sinistra per raggiungere l'autostrada Roma-L'Aquila",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta agli autocarri di massa a pieno carico superiore a 3,5 tonnellate di continuare diritto per raggiungere il centro urbano",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta anche agli autobus di raggiungere Avezzano",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova solo su strade a senso unico di circolazione",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova all'ingresso di un'autostrada",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la corsia centrale è chiusa",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato fa parte dei segnali di precedenza",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_limitazione_autocarri.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio su strada extraurbana",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la presenza di un passaggio a livello svoltando a destra",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di proseguire diritto per raggiungere Porto Torres",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a sinistra per una località turistica",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa di svoltare a destra per S. Giovanni",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preannuncia un pericolo per chi svolta a destra per il possibile attraversamento di treni",
+      "isCorrect":true,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova dopo un incrocio",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una stazione balneare a sinistra",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato fa parte dei segnali di obbligo",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è possibile raggiungere S. Giovanni",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio urbano con zona residenziale a sinistra",
+      "isCorrect":false,
+      "image":"preavviso_incrocio_extraurbano.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto su strade extraurbane suddivise in due corsie",
+      "isCorrect":true,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa una zona di preselezione con due destinazioni",
+      "isCorrect":true,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica al conducente diretto a Bari di spostarsi sulla corsia di sinistra",
+      "isCorrect":true,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica al conducente diretto a Pescara di spostarsi sulla corsia di destra",
+      "isCorrect":true,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto dove è ancora possibile cambiare la corsia di canalizzazione",
+      "isCorrect":true,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'obbligo di sorpassare a destra",
+      "isCorrect":false,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada per Bari è interrotta",
+      "isCorrect":false,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa a destra un lungo rettilineo",
+      "isCorrect":false,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa a sinistra una curva pericolosa",
+      "isCorrect":false,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un obbligo di invertire il senso di marcia",
+      "isCorrect":false,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa a sinistra un cavalcavia",
+      "isCorrect":false,
+      "image":"preselezione_extraurbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto su strade urbane",
+      "isCorrect":true,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato nelle strade urbane a più corsie consente di immettersi nelle corsie di canalizzazione",
+      "isCorrect":true,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica ai conducenti diretti alla località turistica di immettersi nella corsia di mezzo",
+      "isCorrect":true,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica ai conducenti diretti a Terni di mettersi nella corsia di sinistra",
+      "isCorrect":true,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica ai conducenti diretti al centro della città di occupare la corsia di destra",
+      "isCorrect":true,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio autostradale",
+      "isCorrect":false,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica come raggiungere un parcheggio",
+      "isCorrect":false,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che Terni si trova 500 metri dopo aver effettuato la svolta",
+      "isCorrect":false,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica nelle corsie laterali di invertire il senso di marcia",
+      "isCorrect":false,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada per Terni è interrotta",
+      "isCorrect":false,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che non è più possibile cambiare corsia",
+      "isCorrect":false,
+      "image":"preselezione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'ingresso di un ospedale",
+      "isCorrect":true,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato, che indica la vicinanza di un ospedale, invita a non fare rumori molesti nelle sue vicinanze",
+      "isCorrect":true,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la direzione per entrare nell'ospedale",
+      "isCorrect":true,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto in corrispondenza di un ospedale",
+      "isCorrect":true,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la vicinanza di un hotel",
+      "isCorrect":false,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la vicinanza di una stazione ferroviaria con vagoni letto",
+      "isCorrect":false,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un parcheggio riservato ai medici",
+      "isCorrect":false,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un dormitorio pubblico",
+      "isCorrect":false,
+      "image":"ingresso_ospedale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che per raggiungere Bologna bisogna proseguire diritto",
+      "isCorrect":true,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa due determinate destinazioni",
+      "isCorrect":true,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa uno svincolo con svolta a sinistra per l'aeroporto di Linate",
+      "isCorrect":true,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa uno svincolo autostradale",
+      "isCorrect":true,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa uno svincolo in cui si deve proseguire diritto per andare a Bologna",
+      "isCorrect":true,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova su strade extraurbane",
+      "isCorrect":false,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la svolta a sinistra",
+      "isCorrect":false,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che manca un chilometro per arrivare a Bologna",
+      "isCorrect":false,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga a cambiare corsia per raggiungere Bologna",
+      "isCorrect":false,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato è posto all'ingresso di un aeroporto",
+      "isCorrect":false,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica un parco giochi sulla sinistra",
+      "isCorrect":false,
+      "image":"diramazione_autostradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che per raggiungere Milano bisogna proseguire diritto",
+      "isCorrect":true,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica due determinate destinazioni",
+      "isCorrect":true,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio con svolta a destra per il centro cittadino",
+      "isCorrect":true,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare su strade urbane",
+      "isCorrect":true,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio in cui si deve proseguire diritto per andare a Milano",
+      "isCorrect":true,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato si trova solo su strade a senso unico",
+      "isCorrect":false,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un incrocio per il poligono di tiro a segno",
+      "isCorrect":false,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che svoltando a destra si incontra una strada secondaria",
+      "isCorrect":false,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa la fine del doppio senso di circolazione e l'inizio del senso unico",
+      "isCorrect":false,
+      "image":"preavviso_diramazione_urbana.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica di svoltare a destra per raggiungere un centro commerciale",
+      "isCorrect":false,
+      "image":"preavviso_diramazione_urbana.png"
    }
 ]
