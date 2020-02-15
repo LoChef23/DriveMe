@@ -16903,8 +16903,483 @@
       "image":"uso_corsie_disponibili.png"
    },
    {
-      "question":"",
+      "question":"Il segnale raffigurato, posto in presenza di lavori stradali, indica alle categorie di veicoli quali corsie possono occupare",
       "isCorrect":true,
       "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato viene utilizzato per indicare l'uso delle corsie",
+      "isCorrect":true,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica ai veicoli su quali corsie debbono circolare",
+      "isCorrect":true,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica agli autocarri di massa complessiva superiore a 3,5 tonnellate quale corsia debbono percorrere",
+      "isCorrect":true,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che gli autocarri di massa complessiva superiore a 3,5 tonnellate possono percorrere solo la corsia di destra",
+      "isCorrect":true,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'avvicinarsi di un casello autostradale",
+      "isCorrect":false,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato obbliga gli autocarri a circolare per file parallele",
+      "isCorrect":false,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che gli autocarri debbono solo sorpassare a destra",
+      "isCorrect":false,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta ai motocicli di circolare sulla corsia di sinistra",
+      "isCorrect":false,
+      "image":"uso_corsie_disponibili.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono usati ai lati della carreggiata di strade a senso unico",
+      "isCorrect":true,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono dei segnali complementari",
+      "isCorrect":true,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti ai margini di una strada o di una carreggiata a senso unico",
+      "isCorrect":true,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati servono a visualizzare meglio l'andamento della strada",
+      "isCorrect":true,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti su strada a doppio senso",
+      "isCorrect":false,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati si trovano prima di un attraversamento pedonale",
+      "isCorrect":false,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti al centro della carreggiata",
+      "isCorrect":false,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati dividono la carreggiata in corsie",
+      "isCorrect":false,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti per indicare un'area di sosta riservata",
+      "isCorrect":false,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono visibili solo di notte",
+      "isCorrect":false,
+      "image":"delineatori_senso_unico.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono utili soprattutto nei casi di scarsa visibilità",
+      "isCorrect":true,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono dei segnali complementari",
+      "isCorrect":true,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti ai margini di una strada a doppio senso",
+      "isCorrect":true,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati servono a visualizzare meglio l'andamento della strada",
+      "isCorrect":true,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono utili solo nelle ore notturne",
+      "isCorrect":false,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati vengono posti a distanza di almeno 100 metri l’uno dall’altro",
+      "isCorrect":false,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti al centro della carreggiata",
+      "isCorrect":false,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati dividono la carreggiata in corsie",
+      "isCorrect":false,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"I delineatori raffigurati sono posti ai lati della carreggiata nelle strade a senso unico",
+      "isCorrect":false,
+      "image":"delineatori_margine.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto ai lati delle gallerie a senso unico",
+      "isCorrect":true,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è un segnale complementare posto nelle gallerie a senso unico",
+      "isCorrect":true,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si può trovare anche per evidenziare deviazioni o strettoie della carreggiata",
+      "isCorrect":true,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è un segnale complementare",
+      "isCorrect":true,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è usato per indicare un incrocio a senso unico",
+      "isCorrect":false,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica una strada chiusa",
+      "isCorrect":false,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto al centro della carreggiata per indicare un ostacolo",
+      "isCorrect":false,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato divide la carreggiata in corsie",
+      "isCorrect":false,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è un pannello distanziometrico posto vicino ad un passaggio a livello",
+      "isCorrect":false,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato ha luce propria",
+      "isCorrect":false,
+      "image":"delineatori_gallerie.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto ai lati della carreggiata nelle strade di montagna soggette ad innevamento",
+      "isCorrect":true,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è un segnale complementare",
+      "isCorrect":true,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto ai lati della carreggiata su strade di montagna",
+      "isCorrect":true,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato viene utilizzato per rendere meglio visibili i bordi della carreggiata di una strada innevata",
+      "isCorrect":true,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto alla fermata degli autobus",
+      "isCorrect":false,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto al centro della carreggiata",
+      "isCorrect":false,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si trova in vicinanza di un attraversamento pedonale",
+      "isCorrect":false,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è usato come paletto di ancoraggio per lasciare in sosta le biciclette",
+      "isCorrect":false,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è usato sulle strade sprovviste di barriere laterali (guardrails)",
+      "isCorrect":false,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica un divieto di sosta",
+      "isCorrect":false,
+      "image":"delineatore_montagna.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto nelle curve strette e con mancanza di visibilità",
+      "isCorrect":true,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si trova, di norma, dopo il segnale CURVA PERICOLOSA A SINISTRA",
+      "isCorrect":true,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato, se di colore bianco e rosso, indica una curva provvisoria a sinistra",
+      "isCorrect":true,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è usato per segnalare una curva pericolosa",
+      "isCorrect":true,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato invita il conducente a fare attenzione nel percorrere una curva",
+      "isCorrect":true,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica un cantiere stradale",
+      "isCorrect":false,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato segnala una strada dove si trovano salite e discese",
+      "isCorrect":false,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica gli ostacoli sporgenti sulla carreggiata",
+      "isCorrect":false,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato segnala una curva pericolosa a destra",
+      "isCorrect":false,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica che si è vicini ad un passaggio a livello",
+      "isCorrect":false,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato viene posto solo su strade extraurbane principali",
+      "isCorrect":false,
+      "image":"delineatore_curva_stretta.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica di svoltare a destra o a sinistra",
+      "isCorrect":true,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato ha le punte delle frecce che segnalano le direzioni possibili",
+      "isCorrect":true,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è installato ad un incrocio a forma di 'T'",
+      "isCorrect":true,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto in un incrocio dove non è possibile proseguire diritto",
+      "isCorrect":true,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica un passaggio a livello",
+      "isCorrect":false,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica un ponte mobile",
+      "isCorrect":false,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica una strada chiusa per lavori in corso",
+      "isCorrect":false,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica un aumento del numero di corsie della strada",
+      "isCorrect":false,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica una curva a senso unico",
+      "isCorrect":false,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica l'ingresso di una galleria",
+      "isCorrect":false,
+      "image":"delineatore_incrocio_t.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si trova in serie di più elementi per evidenziare una curva pericolosa",
+      "isCorrect":true,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è un segnale complementare",
+      "isCorrect":true,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è usato per migliorare la visibilità delle curve",
+      "isCorrect":true,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica una curva pericolosa a destra",
+      "isCorrect":true,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato indica una curva pericolosa a sinistra",
+      "isCorrect":false,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si trova 150 metri prima di una curva",
+      "isCorrect":false,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto all'ingresso di una galleria",
+      "isCorrect":false,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato viene usato nei passaggi a livello, quando le barriere sono guaste",
+      "isCorrect":false,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si trova solo se la curva è su strada a senso unico",
+      "isCorrect":false,
+      "image":"delineatore_modulare_curva.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un impianto semaforico in presenza di un cantiere stradale",
+      "isCorrect":true,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il segnale raffigurato si può trovare sia su strade urbane che extraurbane",
+      "isCorrect":true,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il segnale raffigurato può essere posto prima del restringimento di carreggiata per lavori in corso",
+      "isCorrect":true,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Nel segnale raffigurato il disco al centro è a luce gialla lampeggiante",
+      "isCorrect":true,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un semaforo che regola il traffico in transito su ponti mobili o girevoli",
+      "isCorrect":false,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa la presenza di un segnale di STOP",
+      "isCorrect":false,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa l'accesso al pontile d'imbarco delle navi traghetto",
+      "isCorrect":false,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il segnale raffigurato preavvisa un attraversamento ferroviario senza barriere",
+      "isCorrect":false,
+      "image":"preavviso_semaforo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato viene utilizzato per segnalare un ostacolo",
+      "isCorrect":true,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato viene posto all'interno della carreggiata, in presenza di un ostacolo",
+      "isCorrect":true,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è rifrangente, per una migliore visibilità nelle ore notturne",
+      "isCorrect":true,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato può segnalare l'inizio di un'isola di traffico",
+      "isCorrect":true,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è dotato di luce propria",
+      "isCorrect":false,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato è posto ai lati della strada",
+      "isCorrect":false,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato divide la carreggiata da una pista ciclabile",
+      "isCorrect":false,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato presegnala una corsia riservata agli autobus o taxi",
+      "isCorrect":false,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"Il delineatore raffigurato si trova fuori della carreggiata",
+      "isCorrect":false,
+      "image":"delineatore_ostacolo.png"
+   },
+   {
+      "question":"",
+      "isCorrect":true,
+      "image":"delineatore_ostacolo.png"
    }
 ]
