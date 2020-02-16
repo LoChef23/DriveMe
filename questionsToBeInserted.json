@@ -19318,8 +19318,1333 @@
       "image":""
    },
    {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di pericolo, indica la distanza tra il segnale ed il punto d'inizio del pericolo",
+      "isCorrect":true,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato può essere posto sotto i segnali per completarne il significato",
+      "isCorrect":true,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di indicazione, serve a precisare la distanza che manca per raggiungere il punto indicato dal segnale",
+      "isCorrect":true,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di obbligo o divieto, indica la distanza dalla quale inizia la prescrizione",
+      "isCorrect":true,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo mostrato in figura A indica i metri di strada già fatta",
+      "isCorrect":false,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la pendenza di una strada",
+      "isCorrect":false,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo mostrato in figura A indica la distanza di sicurezza da mantenere dal veicolo che sta davanti",
+      "isCorrect":false,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la larghezza di una strada",
+      "isCorrect":false,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto il segnale di pericolo, indica la lunghezza del tratto di strada pericoloso",
+      "isCorrect":false,
+      "image":"panelli_integrativi_distanza.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di pericolo, indica la lunghezza del tratto di strada pericoloso",
+      "isCorrect":true,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di obbligo, indica la lunghezza del tratto stradale nel quale vale la prescrizione del segnale",
+      "isCorrect":true,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato può essere posto sotto un segnale di divieto",
+      "isCorrect":true,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato in figura B, posto sotto ad un segnale di pericolo, indica, in chilometri, la lunghezza del tratto di strada pericoloso",
+      "isCorrect":true,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la lunghezza di un tratto stradale con curve pericolose in successione",
+      "isCorrect":true,
+      "image":"estensioen_doppia_curva.png"
+   },
+   {
+      "question":"Il pannello integrativo rappresentato in figura A obbliga a proseguire diritto per 380 metri",
+      "isCorrect":false,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il pannello integrativo rappresentato in figura A indica la distanza di sicurezza da mantenere in caso di pioggia",
+      "isCorrect":false,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la distanza tra il segnale e il punto d'inizio del pericolo",
+      "isCorrect":false,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato in figura A indica l’altezza di un viadotto",
+      "isCorrect":false,
+      "image":"pannello_integrativo_estensione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la distanza tra il segnale e l'inizio della strada in cattivo stato",
+      "isCorrect":false,
+      "image":"estensione_strada_deformata.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta dalle ore 7.30 alle ore 19.00",
+      "isCorrect":true,
+      "image":"divieto_sosta_fascia_oraria.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito dalle ore 7.30 alle 19.00",
+      "isCorrect":true,
+      "image":"divieto_transito_fascia_oraria.png"
+   },
+   {
+      "question":"Il pannello integrativo (A), posto sotto il segnale (B), vieta il transito ai pedoni nelle sole ore indicate",
+      "isCorrect":true,
+      "image":"divieto_transito_pedoni_fascia_oraria.png"
+   },
+   {
+      "question":"Il pannello integrativo rappresentato in figura B indica le ore di tutti i giorni nelle quali vale il segnale",
+      "isCorrect":true,
+      "image":"panello_integrativo_fascia_oraria.png"
+   },
+   {
+      "question":"Il pannello integrativo rappresentato in figura B indica in quali ore si può circolare a fari spenti",
+      "isCorrect":false,
+      "image":"panello_integrativo_fascia_oraria.png"
+   },
+   {
+      "question":"Il pannello integrativo rappresentato in figura B indica le fasce orarie durante le quali si circola a targhe alterne",
+      "isCorrect":false,
+      "image":"panello_integrativo_fascia_oraria.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito ai motocicli nelle sole ore indicate",
+      "isCorrect":false,
+      "image":"divieto_motocicli_fascia_oraria.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che il clacson può essere usato dalle ore 7.30 alle ore 19.00",
+      "isCorrect":false,
+      "image":"divieto_clacson_fascia_oraria.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l’orario di apertura di una zona a traffico limitato",
+      "isCorrect":false,
+      "image":"percorso_pedonale_fascia_oraria.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato limita la validità del segnale sotto cui è posto ai giorni festivi e alla fascia oraria indicata",
+      "isCorrect":true,
+      "image":"giorni_festivi.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di prescrizione, precisa che il segnale vale solo nei giorni festivi e nelle fasce orarie indicate",
+      "isCorrect":true,
+      "image":"giorni_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito nei giorni festivi e nelle fasce orarie indicate ai soli pedoni",
+      "isCorrect":true,
+      "image":"percorso_pedonale_giorni_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta nella fascia oraria indicata, dei giorni festivi",
+      "isCorrect":true,
+      "image":"divieto_sosta_giorni_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito dalle ore 8.00 alle ore 20.00 dei giorni festivi ai soli ciclisti",
+      "isCorrect":true,
+      "image":"percorso_ciclabile_giorni_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito dalle ore 8.00 alle ore 20.00 dei giorni festivi",
+      "isCorrect":true,
+      "image":"divieto_transito_giorni_festivi.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica l'orario d'ingresso nel cimitero",
+      "isCorrect":false,
+      "image":"giorni_festivi.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica l'orario di apertura delle chiese",
+      "isCorrect":false,
+      "image":"giorni_festivi.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica l'orario di celebrazione delle funzioni religiose",
+      "isCorrect":false,
+      "image":"giorni_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che si può parcheggiare tutti i giorni nella fascia oraria indicata",
+      "isCorrect":false,
+      "image":"parcheggio_giorni_festivi.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato vale nei giorni lavorativi",
+      "isCorrect":false,
+      "image":"giorni_festivi.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente il transito dei motocicli la domenica dalle ore 8.00 alle ore 20.00",
+      "isCorrect":false,
+      "image":"divieto_motocicli_giorni_festivi.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale, ne limita la validità nei giorni lavorativi e alle fasce orarie indicate",
+      "isCorrect":true,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito nella fascia oraria indicata, dei giorni lavorativi",
+      "isCorrect":true,
+      "image":"divieto_transito_giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la fascia oraria dei giorni lavorativi durante la quale vale la prescrizione del segnale sotto cui è posto",
+      "isCorrect":true,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta nella fascia oraria indicata dei giorni lavorativi",
+      "isCorrect":true,
+      "image":"divieto_sosta_giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto un segnale di obbligo, indica che esso vale dalle ore 8.00 alle ore 20.00 dei giorni lavorativi",
+      "isCorrect":true,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito agli autocarri di massa complessiva superiore a 3,5 t. nell'orario indicato, dei giorni lavorativi",
+      "isCorrect":true,
+      "image":"divieto_autocarri_giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che il segnale al quale è abbinato vale tutti i giorni, ma solo nelle ore indicate",
+      "isCorrect":false,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica gli orari di apertura di un museo di attrezzi da lavoro",
+      "isCorrect":false,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la fascia oraria di apertura delle officine di soccorso stradale",
+      "isCorrect":false,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"",
+      "isCorrect":false,
+      "image":"parcheggio_giorni_feriali.png"
+   },
+   {
+      "question":"Il segnale raffigurato è riservato ai veicoli per il soccorso stradale",
+      "isCorrect":false,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che il segnale al quale è abbinato vale nei giorni festivi",
+      "isCorrect":false,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto il segnale PARCHEGGIO, indica che si può parcheggiare nei giorni festivi dalle ore 8.00 alle ore 20.00",
+      "isCorrect":false,
+      "image":"giorni_feriali.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta il transito ai soli veicoli indicati",
+      "isCorrect":true,
+      "image":"divieto_transito_limitazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta ai veicoli indicati",
+      "isCorrect":true,
+      "image":"divieto_fermata_limitazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato vieta la sosta agli autoarticolati",
+      "isCorrect":true,
+      "image":"divieto_sosta_limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che il segnale al quale è abbinato vale solo per i veicoli rappresentati",
+      "isCorrect":true,
+      "image":"limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato può essere abbinato ad un segnale di obbligo",
+      "isCorrect":true,
+      "image":"limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato può essere abbinato ad un segnale di divieto",
+      "isCorrect":true,
+      "image":"limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un'officina meccanica per autotreni",
+      "isCorrect":false,
+      "image":"limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una stazione di rifornimento per soli mezzi pesanti",
+      "isCorrect":false,
+      "image":"limitazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato consente la sosta agli autoarticolati",
+      "isCorrect":false,
+      "image":"divieto_sosta_limitazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato prescrive che possono transitare gli autoarticolati",
+      "isCorrect":false,
+      "image":"divieto_transito_limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sotto il segnale PARCHEGGIO, indica che possono parcheggiare tutti i veicoli pesanti",
+      "isCorrect":false,
+      "image":"limitazione.png"
+   },
+   {
+      "question":"Il pannello integrativo (A), posto sotto un segnale di divieto, evidenzia il punto d'inizio della prescrizione",
+      "isCorrect":true,
+      "image":"pannello_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che il divieto di sosta ha inizio in quel punto",
+      "isCorrect":true,
+      "image":"divieto_sosta_pannello_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato evidenzia l'inizio dell'area dove è possibile parcheggiare",
+      "isCorrect":true,
+      "image":"parcheggio_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato evidenzia il punto d'inizio del divieto di fermata",
+      "isCorrect":true,
+      "image":"divieto_fermata_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato evidenzia il punto d'inizio del viale pedonale",
+      "isCorrect":true,
+      "image":"percorso_pedonale_inizio.png"
+   },
+   {
+      "question":"Il pannello raffigurato (A) indica una strada in salita",
+      "isCorrect":false,
+      "image":"pannello_inizio.png"
+   },
+   {
+      "question":"Il pannello raffigurato (A) indica l'obbligo di proseguire diritto",
+      "isCorrect":false,
+      "image":"pannello_inizio.png"
+   },
+   {
+      "question":"Il pannello raffigurato (A) indica la fine di una strada a senso unico",
+      "isCorrect":false,
+      "image":"pannello_inizio.png"
+   },
+   {
+      "question":"Il pannello raffigurato (B) indica la corsia riservata agli autobus urbani",
+      "isCorrect":false,
+      "image":"pannello_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato evidenzia il punto in cui finisce l'area destinata al parcheggio",
+      "isCorrect":false,
+      "image":"parcheggio_inizio_sinistra.png"
+   },
+   {
+      "question":"Il pannello raffigurato (A), posto sotto un segnale di pericolo, evidenzia il punto dove finisce il pericolo",
+      "isCorrect":false,
+      "image":"pannello_inizio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che il divieto di sosta continua",
+      "isCorrect":true,
+      "image":"divieto_sosta_continuazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato conferma la continuazione del divieto di sorpasso",
+      "isCorrect":true,
+      "image":"divieto_sorpasso_continuazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la continuazione del limite massimo di velocità",
+      "isCorrect":true,
+      "image":"limite_velocita_continuazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la continuazione del tratto di strada sdrucciolevole",
+      "isCorrect":true,
+      "image":"strada_sdrucciolevole_continuazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la fermata è vietata sia prima che dopo il segnale",
+      "isCorrect":true,
+      "image":"divieto_fermata_continuazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A), posto sotto un segnale di pericolo, ne indica la continuazione",
+      "isCorrect":true,
+      "image":"pannello_continuazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica di tornare indietro",
+      "isCorrect":false,
+      "image":"pannello_continuazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine della zona destinata al parcheggio",
+      "isCorrect":false,
+      "image":"parcheggio_continuazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica un senso unico alternato",
+      "isCorrect":false,
+      "image":"pannello_continuazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A), posto sotto un segnale di pericolo, ne indica la fine",
+      "isCorrect":false,
+      "image":"pannello_continuazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica le due direzioni consentite",
+      "isCorrect":false,
+      "image":"pannello_continuazione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica una strada a doppio senso di circolazione",
+      "isCorrect":false,
+      "image":"pannello_continuazione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il punto nel quale termina il divieto di sosta",
+      "isCorrect":true,
+      "image":"fine_divieto_sosta.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica il punto dove termina il divieto di fermata",
+      "isCorrect":true,
+      "image":"divieto_fermata_fine.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine del cantiere stradale",
+      "isCorrect":true,
+      "image":"fine_cantiere_stradale.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine dell'area destinata al parcheggio",
+      "isCorrect":true,
+      "image":"fine_parcheggio.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine della strada deformata",
+      "isCorrect":true,
+      "image":"fine_strada_deformata.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la fine della strada sdrucciolevole",
+      "isCorrect":true,
+      "image":"fine_strada_sdrucciolevole.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica una strada in discesa",
+      "isCorrect":false,
+      "image":"pannello_fine.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (B), posto sotto il segnale PARCHEGGIO, indica l'inizio della zona destinata al parcheggio",
+      "isCorrect":false,
+      "image":"pannello_fine.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A), posto sotto un segnale di divieto, indica l'inizio del divieto",
+      "isCorrect":false,
+      "image":"pannello_fine.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica una strada chiusa al traffico",
+      "isCorrect":false,
+      "image":"pannello_fine.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato (A) indica l'unica direzione consentita",
+      "isCorrect":false,
+      "image":"pannello_fine.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la continuazione del divieto di sorpasso",
+      "isCorrect":false,
+      "image":"fine_divieto_di_sorpasso.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato preavvisa che temporaneamente manca la segnaletica orizzontale sulla carreggiata",
+      "isCorrect":true,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada sul quale non è temporaneamente presente la segnaletica orizzontale",
+      "isCorrect":true,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che si stanno svolgendo i lavori per rifare la segnaletica orizzontale",
+      "isCorrect":true,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato viene posto sotto il segnale ALTRI PERICOLI",
+      "isCorrect":true,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica una strada chiusa",
+      "isCorrect":false,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una strada innevata",
+      "isCorrect":false,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la vicinanza di un attraversamento pedonale",
+      "isCorrect":false,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato preavvisa l'inizio di un tratto di strada a senso unico",
+      "isCorrect":false,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che non è consentito superare la linea continua",
+      "isCorrect":false,
+      "image":"segni_orizzontali_rifacimento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita a rallentare a causa di un incidente",
+      "isCorrect":true,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica veicoli incidentati sulla carreggiata",
+      "isCorrect":true,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato segnala che la carreggiata è occupata da veicoli incidentati",
+      "isCorrect":true,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato segnala un incidente stradale e che quindi occorre diminuire la velocità",
+      "isCorrect":true,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una strada sdrucciolevole",
+      "isCorrect":false,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di fermarsi e dare la precedenza a destra",
+      "isCorrect":false,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato si trova solo se l'incidente è avvenuto in autostrada",
+      "isCorrect":false,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un divieto di sosta",
+      "isCorrect":false,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato preavvisa la presenza di un garage per veicoli incidentati",
+      "isCorrect":false,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di accendere le luci per evitare incidenti",
+      "isCorrect":false,
+      "image":"pannello_incidente.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza di binari di manovra",
+      "isCorrect":true,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica l'attraversamento di binari di manovra",
+      "isCorrect":true,
+      "image":"altri_pericoli_binari_manovra.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato preavvisa la presenza di binari di manovra o di raccordo in prossimità di scali merci",
+      "isCorrect":true,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il segnale raffigurato invita a diminuire la velocità",
+      "isCorrect":true,
+      "image":"altri_pericoli_binari_manovra.png"
+   },
+   {
+      "question":"Il pannello integrativo è abbinato al segnale ALTRI PERICOLI",
+      "isCorrect":true,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il pannello integrativo indica un'area attrezzata per gare di modellismo",
+      "isCorrect":false,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di fare attenzione perché la strada può essere attraversata dai tram",
+      "isCorrect":false,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato va rispettato dai conducenti dei treni",
+      "isCorrect":false,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un passaggio a livello con due binari",
+      "isCorrect":false,
+      "image":"pannello_attraversamenti_binari.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza di macchine sgombraneve al lavoro sulla strada",
+      "isCorrect":true,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato è abbinato al segnale ALTRI PERICOLI",
+      "isCorrect":true,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita a diminuire la velocità per la presenza di macchine sgombraneve in funzione",
+      "isCorrect":true,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita a mantenere una distanza di almeno 20 metri dalle macchine sgombraneve in funzione",
+      "isCorrect":true,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di prestare attenzione a macchine sgombraneve sulla strada",
+      "isCorrect":true,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato è posto su strade innevate per segnalare la presenza di macchine sgombraneve",
+      "isCorrect":true,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la costruzione di un parco giochi nelle vicinanze",
+      "isCorrect":false,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica il divieto di transito alle macchine sgombraneve",
+      "isCorrect":false,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica l'obbligo di montare le catene",
+      "isCorrect":false,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato obbliga a stare distanti 100 metri dallo sgombraneve in funzione",
+      "isCorrect":false,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che la strada è percorribile solo dopo che sia passato lo sgombraneve",
+      "isCorrect":false,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che sulla strada è possibile incrociare il veicolo per la raccolta della spazzatura",
+      "isCorrect":false,
+      "image":"sgombraneve_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una strada che in caso di forte pioggia si può allagare",
+      "isCorrect":true,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che stiamo percorrendo un tratto di strada che può allagarsi in caso di forte pioggia",
+      "isCorrect":true,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che la strada si può allagare in caso di forte pioggia",
+      "isCorrect":true,
+      "image":"cunetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica il pericolo di allagamento della carreggiata in caso di pioggia o forte mareggiata",
+      "isCorrect":true,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una piscina nelle vicinanze",
+      "isCorrect":false,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada coperto di neve",
+      "isCorrect":false,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato preavvisa una banchina cedevole",
+      "isCorrect":false,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato vieta il transito ai veicoli che trasportano prodotti che potrebbero inquinare l'acqua",
+      "isCorrect":false,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada dove è possibile trovare nebbia",
+      "isCorrect":false,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato preavvisa la presenza di cordoli trasversali di rallentamento (dossi artificiali)",
+      "isCorrect":false,
+      "image":"zona_soggetta_allagamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la possibilità di trovare traffico intenso, con formazione di colonne di veicoli",
+      "isCorrect":true,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la possibilità di trovare veicoli fermi in colonna",
+      "isCorrect":true,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato si può trovare all'ingresso delle autostrade, per indicare che vi sono veicoli in lento movimento",
+      "isCorrect":true,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita ad usare prudenza, per non tamponare veicoli fermi per intasamento del traffico",
+      "isCorrect":true,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato, posto sull'autostrada, può consigliare di uscire per evitare probabili rallentamenti o code",
+      "isCorrect":true,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello raffigurato indica un'area di parcheggio per autovetture",
+      "isCorrect":false,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che la corsia di sinistra è riservata ai veicoli che pagano il pedaggio autostradale tramite telepass",
+      "isCorrect":false,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una strada a senso unico",
+      "isCorrect":false,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica l'obbligo di sorpassare a sinistra",
+      "isCorrect":false,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di diminuire la distanza di sicurezza",
+      "isCorrect":false,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato obbliga i veicoli a circolare a passo d'uomo",
+      "isCorrect":false,
+      "image":"presenza_code.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la possibile presenza di macchine operatrici in movimento",
+      "isCorrect":true,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che sulla corsia possono esserci pale meccaniche al lavoro",
+      "isCorrect":true,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che sulla strada possono esserci escavatori in movimento",
+      "isCorrect":true,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita ad usare particolare prudenza per la presenza di pale meccaniche in movimento",
+      "isCorrect":true,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza di cantieri stradali con escavatori e pale meccaniche in azione",
+      "isCorrect":true,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza di veicoli militari",
+      "isCorrect":false,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un'area per lo scarico della spazzatura",
+      "isCorrect":false,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato si trova prima di un ponte, per vietare il transito alle macchine operatrici",
+      "isCorrect":false,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una strada riservata alle sole macchine operatrici",
+      "isCorrect":false,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica divieto di transito a tutti i veicoli con i cingoli",
+      "isCorrect":false,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un'area di parcheggio riservata alle macchine operatrici",
+      "isCorrect":false,
+      "image":"mezzi_lavoro_azione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica la possibilità di trovare un tratto di strada sdrucciolevole a causa di ghiaccio",
+      "isCorrect":true,
+      "image":"strada_sdrucciolevole_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la possibilità di trovare tratti di strada ghiacciati",
+      "isCorrect":true,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica, in caso di bassa temperatura, la presenza di tratti pericolosi per ghiaccio",
+      "isCorrect":true,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica, su strade coperte di neve, il pericolo di formazione di ghiaccio",
+      "isCorrect":true,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita ad usare particolare prudenza, perché la strada può essere ghiacciata",
+      "isCorrect":true,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica strada sdrucciolevole per ghiaccio, in caso di bassa temperatura",
+      "isCorrect":true,
+      "image":"strada_sdrucciolevole_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza nelle vicinanze di impianti di risalita",
+      "isCorrect":false,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la strada da prendere per raggiungere le alpi",
+      "isCorrect":false,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza nelle vicinanze di una stazione sciistica",
+      "isCorrect":false,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita ad usare le luci di emergenza durante la sosta",
+      "isCorrect":false,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita a non usare i fari abbaglianti",
+      "isCorrect":false,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una zona dove nevica spesso",
+      "isCorrect":false,
+      "image":"pannello_strada_ghiacciata.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada pericoloso in caso di pioggia",
+      "isCorrect":true,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita, in caso di pioggia, ad aumentare la distanza di sicurezza",
+      "isCorrect":true,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che quando piove la strada può diventare sdrucciolevole",
+      "isCorrect":true,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che in caso di pioggia si può trovare del fango sulla strada",
+      "isCorrect":true,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato segnala un tratto di strada sdrucciolevole in caso di pioggia",
+      "isCorrect":true,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato invita a diminuire la velocità in caso di pioggia, perché la strada diventa sdrucciolevole",
+      "isCorrect":true,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un autolavaggio nelle vicinanze",
+      "isCorrect":false,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza di una stazione meteorologica nelle vicinanze",
+      "isCorrect":false,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di fare attenzione agli autocarri in transito, per la possibile perdita del carico trasportato",
+      "isCorrect":false,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada con probabile formazione di nuvole di polvere",
+      "isCorrect":false,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello raffigurato indica una zona dove piove spesso",
+      "isCorrect":false,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica caduta di pietre sulla strada",
+      "isCorrect":false,
+      "image":"pannello_pioggia.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada in salita con probabile presenza di autocarri che marciano a bassa velocità",
+      "isCorrect":true,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada in ripida salita che costringe gli autocarri a rallentare",
+      "isCorrect":true,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di fare attenzione per la probabile presenza di veicoli pesanti in lento movimento",
+      "isCorrect":true,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
       "question":"",
       "isCorrect":true,
-      "image":""
+      "image":"salita_ripida_autocarri_rallentamento.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato il conducente deve moderare la velocità per la possibile presenza di autocarri in lento movimento",
+      "isCorrect":true,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di circolare ad una velocità prudenziale, per evitare incidenti con gli autocarri che potrebbero stare davanti",
+      "isCorrect":true,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un tratto di strada chiuso a causa di un tamponamento",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che è vietato sorpassare gli autocarri",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato si trova nei pontili d'imbarco delle navi traghetto",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di diminuire la distanza di sicurezza",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica di proseguire con le luci accese",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che bisogna suonare il clacson ogni qualvolta si sorpassa un autocarro",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato segnala la possibilità di poter essere trainati",
+      "isCorrect":false,
+      "image":"autocarri_rallentamento.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che il veicolo lasciato in sosta può essere portato via dal carro-attrezzi",
+      "isCorrect":true,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il segnale raffigurato indica che il veicolo può essere spostato in una depositeria comunale",
+      "isCorrect":true,
+      "image":"divieto_sosta_zona_rimozione.png"
+   },
+   {
+      "question":"In presenza del segnale raffigurato i veicoli al servizio di persone diversamente abili, muniti di apposito contrassegno, non possono essere portati nella depositeria comunale, né bloccati con le ganasce",
+      "isCorrect":true,
+      "image":"divieto_sosta_zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una zona di divieto di sosta con rimozione del veicolo",
+      "isCorrect":true,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il segnale raffigurato prevede lo spostamento del veicolo o il suo blocco tramite ganasce",
+      "isCorrect":true,
+      "image":"divieto_sosta_zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica la presenza di officine attrezzate per il soccorso stradale",
+      "isCorrect":false,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica l'imbarco delle autovetture sui treni merce",
+      "isCorrect":false,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica un'officina meccanica attrezzata per il cambio d'olio",
+      "isCorrect":false,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che possono sostare i veicoli per il soccorso stradale",
+      "isCorrect":false,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica che dopo tre ore il veicolo lasciato in sosta viene rimosso o bloccato",
+      "isCorrect":false,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo raffigurato indica una strada chiusa per incidente",
+      "isCorrect":false,
+      "image":"zona_rimozione.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura, posto in alto sulla carreggiata insieme ad un segnale indicante una località, segnala la corsia da prendere per raggiungere detta località",
+      "isCorrect":true,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura, posto in alto sulla carreggiata insieme ad un segnale, specifica a quale corsia si riferisce il segnale",
+      "isCorrect":true,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica che il segnale posto sopra vale per la sola corsia indicata dalla freccia",
+      "isCorrect":true,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura è posto per indicare la fermata degli autobus",
+      "isCorrect":false,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica che hanno la precedenza i veicoli che vengono di fronte",
+      "isCorrect":false,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica la fine di una prescrizione",
+      "isCorrect":false,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica la fine del segnale LIMITE MASSIMO DI VELOCITA'",
+      "isCorrect":false,
+      "image":"segnale_corsia.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura (A) indica la vicinanza di una o più curve strette",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura (B) indica la vicinanza di una o più curve particolarmente pericolose",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura (A) può indicare uno o più tornanti",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura (B) si può trovare sotto il segnale di CURVA o DOPPIA CURVA",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"La presenza di uno dei due pannelli integrativi in figura indica la vicinanza di una o più curve strette",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"La presenza di uno dei due pannelli integrativi in figura indica la vicinanza di una o più curve particolarmente pericolose",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"La presenza di uno dei due pannelli integrativi in figura può indicare uno o più tornanti",
+      "isCorrect":true,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo di figura B indica il numero di corsie di cui è composta la strada",
+      "isCorrect":false,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo di figura B indica quanti veicoli contemporaneamente possono percorrere la curva",
+      "isCorrect":false,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo di figura B indica quanti chilometri mancano per poter trovare un cavalcavia che consente di invertire il senso di marcia",
+      "isCorrect":false,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo di figura B indica il numero degli svincoli autostradali",
+      "isCorrect":false,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"La presenza di uno dei due pannelli integrativi in figura indica l’incrocio con una strada dalla quale si immettono autocarri provenienti da una discarica",
+      "isCorrect":false,
+      "image":"presenza_tornanti.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura, posto sotto il segnale DIVIETO DI SOSTA, indica che la sosta è vietata solo in determinate ore dei giorni indicati",
+      "isCorrect":true,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura è posto nei tratti di strada dove vengono effettuate operazioni di pulizia delle strade con autospazzatrici",
+      "isCorrect":true,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica i giorni e le ore in cui si effettuano operazioni di pulizia della strada con autospazzatrici",
+      "isCorrect":true,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura, posto sotto il segnale DIVIETO DI SOSTA, indica che la sosta è vietata solo in alcune ore dei giorni indicati",
+      "isCorrect":true,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica l'orario per il deposito della spazzatura",
+      "isCorrect":false,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura indica i giorni di apertura degli autolavaggi",
+      "isCorrect":false,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura obbliga a dare la precedenza agli autocarri",
+      "isCorrect":false,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura, posto sotto il segnale DIVIETO DI SOSTA, indica che non possono sostare i veicoli rappresentati",
+      "isCorrect":false,
+      "image":"pulizia_strade.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura vengono posti sotto i segnali di diritto di precedenza",
+      "isCorrect":true,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura indicano una intersezione, distinguendo la strada principale dalle strade secondarie",
+      "isCorrect":true,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura posti in vicinanza di una intersezione, indicano l'andamento della strada principale",
+      "isCorrect":true,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura possono trovarsi sotto il segnale INTERSEZIONE CON DIRITTO DI PRECEDENZA",
+      "isCorrect":true,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli in figura (B) e (C) indicano una curva pericolosa",
+      "isCorrect":false,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura indicano come lasciare il veicolo in sosta",
+      "isCorrect":false,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura vengono posti anche sulle autostrade",
+      "isCorrect":false,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura indicano strade senza uscita",
+      "isCorrect":false,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura indicano la presenza di sottopassaggi",
+      "isCorrect":false,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"I pannelli integrativi in figura indicano che le strade che si incrociano sono momentaneamente interrotte",
+      "isCorrect":false,
+      "image":"andamento_strada.png"
+   },
+   {
+      "question":"Il segnale in figura consente l'accesso solo agli autobus",
+      "isCorrect":true,
+      "image":"accesso_vietato_eccetto.png"
+   },
+   {
+      "question":"Il segnale in figura permette di transitare solo agli autobus",
+      "isCorrect":true,
+      "image":"accesso_vietato_eccetto.png"
+   },
+   {
+      "question":"Il segnale in figura indica che possono parcheggiare tutti i veicoli tranne gli autobus",
+      "isCorrect":true,
+      "image":"parcheggio_eccetto.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura può essere abbinato ad un segnale di obbligo",
+      "isCorrect":true,
+      "image":"eccetto.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura può essere abbinato ad un segnale di divieto",
+      "isCorrect":true,
+      "image":"eccetto.png"
+   },
+   {
+      "question":"Il segnale in figura vieta l'accesso agli autobus",
+      "isCorrect":false,
+      "image":"accesso_vietato_eccetto.png"
+   },
+   {
+      "question":"Il segnale in figura vieta il transito agli autobus",
+      "isCorrect":false,
+      "image":"accesso_vietato_eccetto.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura può trovarsi da solo",
+      "isCorrect":false,
+      "image":"eccetto.png"
+   },
+   {
+      "question":"Il pannello integrativo in figura vale solo per gli autobus urbani",
+      "isCorrect":false,
+      "image":"eccetto.png"
+   },
+   {
+      "question":"",
+      "isCorrect":false,
+      "image":"accesso_vietato_eccetto.png"
    }
 ]  
