@@ -20643,8 +20643,1958 @@
       "image":"eccetto.png"
    },
    {
-      "question":"",
+      "question":"Il conducente deve regolare la velocità in relazione alle caratteristiche del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione allo stato del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione al carico del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alle caratteristiche della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alle condizioni della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alle condizioni del traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in modo da non costituire pericolo di danno alle cose",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in modo da non costituire pericolo per le persone",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in modo da non costituire disordine per la circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità entro i limiti massimi consentiti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in modo da rispettare le limitazioni imposte",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alle condizioni atmosferiche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità tenendo conto esclusivamente dei limiti massimi",
       "isCorrect":false,
-      "image":"accesso_vietato_eccetto.png"
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alla propria abilità alla guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alla marca dei pneumatici",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve regolare la velocità in relazione alla distanza del luogo da raggiungere",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve sempre mantenere il controllo del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve sempre essere in grado di arrestare il veicolo in condizioni di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve poter arrestare il veicolo nel campo di visibilità e in condizioni di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nelle curve",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei tratti di strada a visibilità limitata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità in prossimità delle intersezioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità in prossimità delle scuole",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità in prossimità di luoghi frequentati dai bambini",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nelle forti discese",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei passaggi stretti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei passaggi ingombrati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nelle ore notturne",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nell'attraversamento di abitati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei tratti di strada fiancheggiati da edifici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità quando sia difficoltoso l'incrocio con altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità in caso di nebbia o foschia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei tratti di strada coperti da neve",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei tratti di strada coperti da ghiaccio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità su strada a senso unico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità fuori dai centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità nelle strade provinciali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nelle ore diurne ma non in quelle notturne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità nei rettilinei e non in curva",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità nelle strade in salita",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità in presenza di qualunque segnale stradale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità solo in presenza degli agenti del traffico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio regolare la velocità sulle strade extraurbane secondarie, ma non in quelle principali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità solo se l'autovettura è scarica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità in prossimità degli autovelox",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando riesce malagevole l'incrocio con altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in prossimità degli attraversamenti pedonali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando i pedoni, che sono sul percorso, tardano a scansarsi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando i pedoni, che sono sul percorso, danno segni d'incertezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando gli animali che si trovano sulla strada danno segni di spavento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando si rimane abbagliati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in corrispondenza dei passi carrabili",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in prossimità delle fermate degli autobus",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi ogni volta che si percorre un cavalcavia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in prossimità degli autovelox",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in corrispondenza di qualunque segnale stradale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi all'uscita dei centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura sulle autostrade è ordinariamente di 130 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura sulle strade extraurbane principali è ordinariamente di 110 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura sulle strade extraurbane secondarie è di 90 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura nei centri abitati è ordinariamente di 50 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate sulle autostrade è ordinariamente di 130 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un autocarro fino a 3,5 tonnellate sulle strade extraurbane principali è di 110 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate sulle strade extraurbane secondarie è di 90 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un motociclo nei centri abitati, è ordinariamente di 50 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura, in presenza di apposito segnale in tratti di autostrade con particolari caratteristiche, è di 150 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura in presenza di segnali su una strada urbana con particolari caratteristiche è di 70 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura in caso di precipitazioni atmosferiche sulle autostrade è di 110 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura in caso di precipitazioni atmosferiche su strade extraurbane principali è di 90 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per i ciclomotori è di 45 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per i quadricicli non leggeri, fuori dai centri urbani, è di 80 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per una macchina agricola gommata è di 40 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per una macchina operatrice gommata è di 40 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura su una qualsiasi autostrada è di 150 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura su una strada extraurbana principale è di 90 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura su una strada extraurbana secondaria è di 70 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura nei centri abitati è sempre di 70 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un'autovettura nei centri abitati è sempre di 50 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità dei quadricicli fuori dai centri abitati è di 70 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità degli autocarri nei centri abitati è di 40 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un autocarro di massa complessiva fino a 3,5 tonnellate sulle autostrade è di 120 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate sulle strade extraurbane principali è di 80 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate nei centri abitati è di 40 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per qualsiasi veicolo nei centri abitati è di 60 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per una macchina agricola con pneumatici è di 50 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità per una macchina operatrice gommata è di 50 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite di velocità sulle autostrade per coloro che hanno conseguito la patente da meno di 3 anni è di 100 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite di velocità sulle strade extraurbane principali per coloro che hanno conseguito la patente da meno di 3 anni è di 90 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Viaggiare ad alta velocità incide sul consumo di carburante e sull'inquinamento ambientale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Brusche variazioni di velocità comportano maggior consumo di carburante",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità in curva incide sulla tenuta di strada del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'eccessiva velocità in curva può determinare il ribaltamento del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I tratti di strada in curva debbono essere percorsi con il pedale della frizione abbassato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite di velocità sulle autostrade per coloro che hanno conseguito la patente da meno di tre anni è di 110 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite di velocità sulle strade extraurbane principali per coloro che hanno conseguito la patente da meno di 3 anni è di 110 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è ordinariamente di 130 km/h per le autovetture con carrello appendice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 80 km/h per le autovetture con rimorchio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è ordinariamente di 130 km/h per i motocicli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è ordinariamente di 130 km/h per autocaravan di massa complessiva fino a 3,5 tonnellate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 80 km/h per l'autovettura che traina un caravan",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane principali è ordinariamente di 110 km/h per i motocicli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane principali è di 110 km/h per autovetture con carrello appendice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane principali è di 70 km/h per autovetture con rimorchio per trasporto imbarcazioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane secondarie è di 90 km/h per i motocicli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per autovettura che traina un caravan con massa complessiva di 900 chilogrammi.",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 130 km/h per le autovetture con rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 90 km/h per i motocicli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 90 km/h per autocaravan",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 70 km/h per autovettura che traina un caravan",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle autostrade è di 120 km/h per autovettura con carrello appendice in caso di pioggia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane principali è di 100 km/h per i motocicli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane principali è di 80 km/h per autovetture con rimorchio per trasporto di imbarcazioni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane secondarie è di 70 km/h per i motocicli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La velocità dei veicoli deve essere regolata in modo da non causare intralcio alla circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi negli incroci, per far passare i veicoli cui spetti la precedenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio ridurre la velocità e all'occorrenza fermarsi da mezz'ora prima del tramonto a mezz'ora dopo il sorgere del sole",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si è tenuti a regolare la velocità in funzione del tipo di alimentazione del motore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si è tenuti a regolare la velocità in funzione della velocità dei veicoli che seguono",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si è tenuti a regolare la velocità in funzione del tipo di cambio di velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere moderata nei tratti di strada a visuale non libera",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve tenere una velocità che non costituisca pericolo per la sicurezza della circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve tenere una velocità che consenta di intervenire con sicurezza in caso di imprevisti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve tenere una velocità adeguata alle proprie condizioni psicofisiche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligo del conducente regolare la velocità in relazione al carico del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve tenere una velocità regolata in funzione del tempo che abbiamo a disposizione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere moderata fuori dai centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di apposito segnale, il limite massimo di velocità consentito può essere di 150 km/h su tratti di autostrade con particolari caratteristiche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito è di 130 km/h sulle autostrade",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito è di 50 km/h nei centri abitati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, per i ciclomotori il limite massimo di velocità consentito è di 45 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito per macchine agricole e macchine operatrici con pneumatici è di 40 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito sulle autostrade è di 110 km/h in caso di pioggia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito su strade extraurbane principali è di 90 km/h in caso di grandine",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di appositi segnali, il limite massimo di velocità consentito nei centri abitati su strade con particolari caratteristiche è di 70 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito sulle strade extraurbane principali è di 110 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 110 km/h per le autovetture",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 70 km/h per autovettura che traina caravan da 900 chilogrammi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 110 km/h per autoveicoli fino a 3,5t",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 70 km/h per autotreni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito sulle strade urbane è di 80 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità consentito per i quadricicli non leggeri è di 70 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità consentito su qualsiasi autostrada è di 150 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per autocarri di massa complessiva fino a 3,5 t",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per autocaravan di massa complessiva fino a 3,5 t",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 80 km/h per autovetture con rimorchio leggero",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per motocicli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per le autovetture con carrello appendice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per motocicli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per autovetture con carrello appendice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per autovetture con rimorchio per trasporto di imbarcazioni o simili",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per autocaravan di massa complessiva fino a 3,5t",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per autocarri di massa complessiva fino a 3,5t",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per autotreni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per i ciclomotori",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per i quadricicli non leggeri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 80 km/h per motocicli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 100 km/h per le autovetture",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 80 km/h per autovettura che traina caravan da 750 chilogrammi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità su strade extraurbane secondarie è di 100 km/h per autoveicoli fino a 3,5 tonnellate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade extraurbane secondarie il limite massimo di velocità è di 80 km/h per autovetture con carrello appendice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I contrassegni rappresentati in figura sono applicati sulla parte posteriore di alcune categorie di veicoli",
+      "isCorrect":true,
+      "image":"contrassegni_velocita.png"
+   },
+   {
+      "question":"I contrassegni rappresentati in figura indicano le velocità massime consentite al veicolo sul quale sono applicati",
+      "isCorrect":true,
+      "image":"contrassegni_velocita.png"
+   },
+   {
+      "question":"I contrassegni rappresentati in figura sono applicati ad alcuni autobus",
+      "isCorrect":true,
+      "image":"contrassegni_velocita.png"
+   },
+   {
+      "question":"La velocità deve essere diminuita in caso di traffico misto (presenza di veicoli lenti e veloci o di animali e pedoni che occupano la strada)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve regolare la velocità in base alle condizioni del fondo stradale (presenza di buche, sconnessioni, fogliame bagnato.)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I contrassegni rappresentati in figura sono applicati su autocarri di massa complessiva fino a 3,5 tonnellate",
+      "isCorrect":false,
+      "image":"contrassegni_velocita.png"
+   },
+   {
+      "question":"I contrassegni rappresentati in figura sono applicati su autocaravan di massa totale fino a 3,5 tonnellate",
+      "isCorrect":false,
+      "image":"contrassegni_velocita.png"
+   },
+   {
+      "question":"I contrassegni rappresentati in figura sono applicati sui motocicli di cilindrata superiore a 150 cm3",
+      "isCorrect":false,
+      "image":"contrassegni_velocita.png"
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata in prossimità di un incrocio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata nelle strettoie",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata quando risulta difficoltoso l'incrocio con altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata nei tratti di strada in cui manca la visibilità (curve, dossi)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata quando, in mancanza di marciapiedi, i pedoni occupano la carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve diminuire la velocità quando la strada è viscida, a causa di acqua, neve, ghiaccio, foglie o fango",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata subito dopo il tramonto del sole",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere particolarmente moderata subito dopo un incrocio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si deve regolare la velocità in base alla fretta del conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si deve tenere una velocità adeguata solo alle nostre condizioni di salute",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si deve tenere una velocità adeguata solo alle nostre condizioni di salute",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si deve diminuire la velocità quando si è seguiti da un autobus di linea",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si deve regolare la velocità in base allo stato di manutenzione e pulizia della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità deve essere diminuita in caso di forte vento laterale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La velocità va diminuita in caso di abbagliamento dovuto al sole",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali, in caso di nebbia fitta, con visibilità inferiore a 100 m, possono essere imposti limiti massimi temporanei di velocità, non superiori a 50 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità sulle strade extraurbane principali è di 100 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione, il limite massimo di velocità nei centri abitati è di 60 km/h, valido fino ad un chilometro dopo l'uscita del paese",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si deve diminuire la velocità ogni qualvolta si incontra un segnale stradale di indicazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade, il limite massimo di velocità è di 80 km/h per le autovetture che trainano un rimorchio per il trasporto di cavalli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane secondarie è di 70 km/h per le autovetture che trainano un rimorchio per il trasporto di motocicli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve, in particolare, regolare la velocità in presenza di lavori in corso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si deve, in particolare, regolare la velocità se si incontra sulla strada il segnale di veicolo fermo (triangolo mobile di pericolo)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si viaggia per file parallele, è possibile che nella corsia di destra si circoli ad una velocità superiore a quella di sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lungo le corsie di canalizzazione, è possibile che nella corsia di destra si circoli ad una velocità superiore a quella di sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando il traffico risulta canalizzato, è possibile che nella corsia di destra si circoli ad una velocità superiore a quella di sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade a quattro corsie è consentito viaggiare fino a 170 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade è consentito superare, nelle ore notturne, la velocità di 130 km/h, purché si usino i proiettori a luce abbagliante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In autostrada, nella corsia riservata al sorpasso, non è consentito superare la velocità di 110 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle autostrade, il limite massimo di velocità è di 150 km/h nelle ore diurne e di 130 km/h in quelle notturne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle strade extraurbane principali, che abbiano particolari caratteristiche costruttive e di sicurezza, è possibile che il limite massimo di velocità sia di 130 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle strade extraurbane principali è consentito superare la velocità di 110 km/h, ma solo nei tratti di strada in discesa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il limite massimo di velocità sulle strade extraurbane secondarie è di 90 km/h per le autovetture che trainano un rimorchio per il trasporto di gommoni o alianti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle strade extraurbane secondarie il limite massimo di velocità per le macchine agricole e le macchine operatrici è di 70 km/h, se hanno in funzione il dispositivo a luce gialla lampeggiante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si attraversa ad alta velocità un incrocio avendo diritto di precedenza, in caso di incidente, non può escludersi un concorso di colpa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I limiti massimi di velocità vigenti sulle autostrade e sulle strade extraurbane non sono identici in tutti gli stati d'Europa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si attraversa un incrocio a forte velocità avendo il diritto di precedenza, in caso di incidente si è completamente privi di responsabilità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si attraversa ad alta velocità un incrocio in cui si ha precedenza, in caso di incidente la responsabilità sarà solo del conducente del veicolo proveniente dalla strada senza diritto di precedenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si attraversa un incrocio con diritto di precedenza, non si ha alcun obbligo di rallentare",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si attraversa ad alta velocità un incrocio con precedenza, in caso di incidente la responsabilità sarà del conducente del veicolo che ha impegnato per primo l'incrocio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di arresto forzato di un veicolo sui binari di un passaggio a livello, bisogna spostarlo, spingendolo quanto prima fuori dai binari",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di arresto forzato di un veicolo sui binari di un passaggio a livello, se non è possibile spostarlo subito dai binari, bisogna far scendere immediatamente tutte le persone che si trovano a bordo, e avvisare la stazione ferroviaria",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di arresto forzato del veicolo sui binari ferroviari di un passaggio a livello, bisogna fare in modo che i conducenti dei veicoli su rotaie siano avvisati in tempo utile del pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa difficoltoso muovere lo sterzo se il veicolo è dotato di servosterzo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa difficoltoso frenare se il veicolo è dotato di servofreno",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di servofreno, se si percorre una lunga discesa con il cambio in folle e a motore spento, aumenta il rischio di provocare incidenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di servosterzo, se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa difficoltoso girare rapidamente lo sterzo per schivare un ostacolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di servofreno, se si percorre una lunga discesa con il cambio in folle e a motore spento, aumenta pericolosamente lo spazio di frenatura",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di servofreno, se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa sempre più difficoltoso arrestare il veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si percorre una lunga discesa con il cambio in folle e a motore spento, si ha un sovraccarico di corrente elettrica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si percorre una lunga discesa con il cambio in folle e a motore spento, si può avere un'anomalia al differenziale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per una maggiore sicurezza, è conveniente percorrere le lunghe discese con il cambio in folle e a motore spento, risparmiando così anche carburante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si percorre una lunga discesa con il cambio in folle e a motore spento, conviene estrarre la chiave di accensione del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di servofreno a depressione, se si percorre una lunga discesa con il cambio in folle e a motore spento, si ottiene la stessa forza frenante che si ha con il motore acceso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna diminuire subito la velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna rallentare per potersi fermare, se necessario",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna prevedere anche il possibile attraversamento della strada da parte di un bambino",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna rallentare progressivamente, per evitare di essere tamponati dal veicolo che segue",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna sterzare bruscamente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In una strada a doppio senso di circolazione, se si vede un pallone rotolare sulla carreggiata, bisogna scansarlo, anche invadendo la corsia opposta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, non occorre rallentare, per evitare di essere tamponati dal veicolo che segue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna azionare immediatamente la segnalazione luminosa di pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, può essere pericoloso, per la possibile apertura imprudente delle portiere",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Può essere pericoloso circolare troppo vicino alle auto parcheggiate, perché potrebbero impedire la vista di un disabile in carrozzella o di un pedone che spinge un passeggino per bambini, che sono in procinto di attraversare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, non rappresenta un grave pericolo se avviene a bassa velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, è pericoloso solo se una delle portiere risulta già aperta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, è pericoloso solo se il conducente ed alcuni passeggeri sono già scesi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, può essere pericoloso, solo se si viaggia ad alta velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, occorre mantenere la calma e sgomberare in qualunque modo la sede ferroviaria",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, occorre sgomberare in qualunque modo la sede ferroviaria, se necessario anche sfondando le barriere",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, per un guasto al veicolo, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre adoperarsi per rimuovere il veicolo al più presto, ad esempio facendosi trainare da altri utenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, per un guasto alla propria autovettura, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre adoperarsi per rimuovere il veicolo al più presto, ad esempio facendosi aiutare da altri utenti a spingere il veicolo fuori dalla linea ferroviaria",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Ai passaggi a livello occorre usare la massima prudenza e moderare la velocità, per evitare situazioni di pericolo che comportino il danneggiamento delle attrezzature",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Ai passaggi a livello occorre usare la massima prudenza e moderare la velocità, per evitare situazioni di pericolo che comportino la collisione con le barriere del passaggio stesso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Attraversare un passaggio a livello senza rispettare tutte le norme previste, può mettere in pericolo l’incolumità di molte persone che viaggino su un treno in transito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Attraversare un passaggio a livello con manovra azzardata per guadagnare tempo, può essere un pericolo per molti individui, oltre che per il conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui un veicolo rimanga fermo tra le barriere chiuse del passaggio a livello occorre adoperarsi in ogni modo per presegnalare il pericolo a eventuali treni in transito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, occorre scendere e abbandonare rapidamente il veicolo per mettersi in salvo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, se si sta trainando un rimorchio occorre sganciarlo rapidamente e abbandonarlo sui binari per salvare almeno la motrice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, per un guasto al veicolo, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre scaricare rapidamente il veicolo per salvare almeno il carico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui, per un guasto alla propria autovettura, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre svuotare rapidamente il serbatoio per evitare incendi in caso di collisione col treno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I passaggi a livello vanno affrontati a velocità molto elevata per evitare di rimanere bloccati sulla linea ferroviaria",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I passaggi a livello vanno affrontati a velocità molto elevata per essere in grado di sfondare le barriere se non si è in grado di fermarsi per tempo a barriere abbassate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Attraversare un passaggio a livello senza rispettare tutte le norme previste, comporta esclusivamente una lieve sanzione amministrativa in quanto non comporta reali pericoli per gli altri utenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Attraversare un passaggio a livello con manovra azzardata per guadagnare tempo, può essere pericoloso solo nelle ore notturne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui un veicolo rimanga fermo tra le barriere chiuse del passaggio a livello, unico obbligo del conducente è quello di spegnere il motore e invitare eventuali passeggeri a scendere dal veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui un veicolo rimanga fermo tra le barriere chiuse del passaggio a livello occorre allontanarsi di almeno cento metri il prima possibile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di tamponamento tra veicoli in corrispondenza di un passaggio a livello, non si devono spostare i veicoli dai binari qualora vi siano stati feriti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rispetto della distanza di sicurezza evita la collisione con il veicolo che precede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve valutare la distanza di sicurezza anche sulla base della velocità del veicolo di cui è alla guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve commisurare la distanza di sicurezza anche in base alla propria prontezza di riflessi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base alle condizioni del traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base all’andamento planoaltimetrico della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base alle condizioni atmosferiche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base al tipo di veicolo di cui si è alla guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base allo stato di efficienza del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base all’entità del carico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 20 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza da mantenere da una macchina spanditrice di sale in azione è di 20 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve valutare la distanza di sicurezza con riferimento anche alla velocità del veicolo che lo precede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base all’efficienza dei freni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base alla condizione dei pneumatici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strada extraurbana a una corsia per senso di marcia, la distanza fra veicoli adibiti al trasporto di merci di massa complessiva superiore a 3,5 tonnellate, cui sia stato imposto il divieto di sorpasso, deve essere di almeno 100 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base al tipo di alimentazione del motore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base alla cilindrata del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base alla potenza del motore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base all’ampiezza della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve stabilire il valore della distanza di sicurezza anche in base alla larghezza del veicolo di cui è alla guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente ha l’obbligo di controllare che il veicolo che lo segue rispetti la distanza di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 10 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza da mantenere da una macchina spanditrice di sale in azione è di 15 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza fra autotreni, in presenza di segnali di divieto di sorpasso fra di loro, deve essere pari ad almeno 10 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle strade extraurbane, il valore della distanza di sicurezza è sempre pari a 70 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere almeno pari a quello della distanza di frenatura",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere almeno pari a quello della distanza di visibilità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza non deve essere rispettata a velocità di marcia inferiori ai 50 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il valore della distanza di sicurezza deve essere stabilito anche in base alla marcia innestata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è commisurata anche alle condizioni psicofisiche del conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza va rispettata per non tamponare il veicolo che ci precede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere determinata in relazione alla larghezza del veicolo che precede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è commisurata anche al numero di corsie della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è commisurata anche alla presenza del servosterzo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è commisurata anche al tipo di veicolo che segue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è commisurata anche al limite di velocità riportato sul retro del veicolo che ci precede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è una distanza fissa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza si deve rispettare al di sopra di una certa velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza è commisurata anche all'aderenza degli pneumatici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dallo spazio percorso nel tempo di reazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere di almeno 100 metri nelle forti discese",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere di almeno 100 metri in caso di nevicata in atto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dall'efficienza del freno di stazionamento",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere maggiore se si percorre la corsia d'emergenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere uguale allo spazio di frenatura aumentato di 20 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio percorso nel tempo di reazione è quello percorso dal momento della percezione di una situazione di pericolo a quello di inizio della frenata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere mantenuta per evitare il tamponamento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza può essere maggiore dello spazio percorso nel tempo di reazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere mantenuta per evitare lo scontro frontale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere mantenuta per evitare lo scontro laterale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza può essere inferiore allo spazio percorso nel tempo di reazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 30 km/h è di circa 9 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 50 km/h deve essere di circa 14 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 100 km/h deve essere di circa 28 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 150 km/h deve essere di circa 42 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 130 km/h deve essere di circa 36 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 30 km/h deve essere di circa 2 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 50 km/h deve essere di circa 5 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 100 km/h deve essere di circa 15 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 130 km/h deve essere di circa 20 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza minima di sicurezza se si viaggia a 150 km/h deve essere di circa 25 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distrazione del conducente può essere causa di incidenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distrazione del conducente può essere causata dall'accensione del cellulare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distrazione del conducente può essere causata dalla accensione di una sigaretta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distrazione del conducente può essere causata dalla ricerca dei comandi della radio o di altri apparecchi elettronici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distrazione del conducente non è determinata dall'uso del 'cellulare'",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distrazione del conducente non rappresenta un pericolo se si limita a pochi secondi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 14 se si viaggia a 50 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 28 se si viaggia a 100 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 36 se si viaggia a 130 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 42 se si viaggia a 150 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 20 se si viaggia a 150 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 4 se si viaggia a 50 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 10 se si viaggia a 100 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In un secondo, si percorrono circa m 15 se si viaggia a 130 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura è quello percorso dall'inizio della frenata all'arresto del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura si quadruplica se la velocità si raddoppia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diventa nove volte maggiore se la velocità si triplica",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diventa sedici volte maggiore se la velocità si quadruplica",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura è indipendente dalla velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura si raddoppia se la velocità si raddoppia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura aumenta se l'aderenza tra pneumatico e asfalto è bassa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura aumenta se la strada è innevata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura aumenta se la strada è bagnata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura aumenta se la strada è in discesa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diminuisce se la strada è in salita",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diminuisce se il conducente ha i riflessi pronti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diminuisce se le ruote si bloccano",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diminuisce sul tratto in discesa di un dosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura aumenta se la strada è in salita",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio di frenatura diminuisce se la strada è in discesa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione più quello percorso durante la frenata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto dipende dalla velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto dipende dall'usura dei pneumatici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto dipende dalle condizioni dell'asfalto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto è indipendente dall'usura dei pneumatici",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto è indipendente dalle condizioni dell'asfalto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto è pari allo spazio percorso durante la frenata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto non dipende dalla velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se aumenta la velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se la strada è innevata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se la strada è coperta di fango",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se i pneumatici sono usurati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se i pneumatici non sono usurati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se diminuisce la velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio totale di arresto aumenta se l'asfalto è ruvido",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce la concentrazione del conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce la velocità a cui si viaggia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce il carico trasportato dal veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influiscono l'aderenza e le condizioni dei pneumatici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce l'efficienza del freno di servizio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce il numero di corsie della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce la dimensione del veicolo che precede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce il numero di marce del cambio di velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza influisce il numero di ruote del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulla distanza di sicurezza da mantenere dal veicolo che precede influisce il tipo di servosterzo utilizzato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza non dipende dal tipo di alimentazione del motore (benzina, gasolio, GPL)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dalle condizioni di salute del conducente ",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dall'attenzione e concentrazione del conducente durante la guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si marcia in colonna, conviene aumentare la distanza di sicurezza, per evitare tamponamenti a catena",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dalla potenza del veicolo che precede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dall'efficienza del freno a mano",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza dipende dalla presenza di veicoli che seguono",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere mantenuta solo dai quadricicli a motore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza va sempre mantenuta, anche prima di iniziare un sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere aumentata qualora sia difficile valutare il comportamento del conducente che precede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere tale da riuscire a fermare in tempo il veicolo, in caso di pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere almeno uguale ai metri che il veicolo percorre durante il tempo di reazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere sempre uguale allo spazio di frenatura del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere aumentata quando il veicolo che precede trasporta un carico sporgente, poco stabile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza deve essere di almeno 100 metri, in caso di forte pioggia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza può essere diminuita nelle gallerie",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si circola in autostrada, è possibile diminuire la distanza di sicurezza, in quanto non ci si aspetta una frenata improvvisa dal veicolo che precede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se il veicolo che precede è un autocarro, si deve diminuire la distanza di sicurezza, in quanto i veicoli pesanti hanno uno spazio di frenatura molto più lungo rispetto agli altri veicoli",
+      "isCorrect":false,
+      "image":""
    }
 ]  
