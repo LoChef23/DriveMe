@@ -24206,272 +24206,4355 @@
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve effettuare la manovra senza creare pericolo o intralcio agli altri utenti della strada",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve tenere conto della posizione, distanza, direzione degli altri utenti della strada",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve evitare di creare pericolo ai conducenti di veicoli a due ruote sopraggiungenti",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve segnalare con sufficiente anticipo la sua intenzione di effettuare tale manovra",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve evitare brusche frenate, per garantire la sicurezza degli altri utenti della strada",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve evitare brusche frenate, per garantire la sicurezza degli altri utenti della strada",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata deve segnalare con sufficiente anticipo azionando la segnalazione luminosa di pericolo(quattro frecce lampeggianti simultaneamente)",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Il conducente che intende fermarsi sul margine destro della carreggiata può evitare di segnalare la sua intenzione di effettuare tale manovra se il traffico è scarso",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Il mancato rispetto delle norme prescritte per immettersi nel flusso della circolazione comporta, tra l'altro, la perdita di punti dalla patente",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il mancato rispetto delle norme prescritte per immettersi nel flusso della circolazione non comporta la sottrazione di punti dalla patente, ma sanzione pecuniaria",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"In caso di fermata sul margine destro della carreggiata senza segnalare con sufficiente anticipo l'intenzione di effettuare tale manovra, è disposta la sottrazione di 4 punti dalla patente del conducente",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli specchi retrovisori contribuiscono alla visione panoramica del conducente",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore centrale di un autoveicolo deve essere regolato in modo da garantire una buona visione posteriore",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Gli specchi retrovisori centrali e laterali di un autoveicolo, devono essere regolati dopo che è stata regolata la posizione del sedile di guida",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore centrale di un autoveicolo deve essere regolato in modo da garantire la visione dell’intero lunotto posteriore",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore centrale di un autoveicolo deve essere posizionato in modo da rientrare nel campo visivo del conducente",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore centrale di un autoveicolo è in genere realizzato in modo da ridurre al minimo la distorsione della distanza dei veicoli che seguono",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Gli specchi retrovisori devono essere utilizzati dal conducente per controllare, prima di svoltare, che non sopraggiungano veicoli da dietro",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore centrale di un autoveicolo ha una posizione antiriflesso da utilizzare nelle ore notturne",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"La posizione antiriflesso dello specchio retrovisore centrale di un autoveicolo serve a ridurre il fastidio agli occhi causato dai proiettori accesi dei veicoli che seguono",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Gli specchi retrovisori devono essere utilizzati per un controllo della strada dietro al veicolo, prima di iniziare una manovra di parcheggio in retromarcia",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Gli specchi retrovisori devono essere utilizzati per un controllo della strada dietro al veicolo, prima di iniziare una manovra di sorpasso",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il controllo degli specchi retrovisori permette di completare in sicurezza la manovra di sorpasso",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"La posizione antiriflesso dello specchio retrovisore centrale di un autoveicolo non deve essere utilizzata di notte",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"La posizione antiriflesso dello specchio retrovisore centrale di un autoveicolo non può essere utilizzata quando si circola su autostrada",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli specchi retrovisori devono essere utilizzati per un controllo della strada dietro al veicolo, ogni volta che a un incrocio si intende proseguire diritto",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"L’illuminazione interna dello specchio retrovisore si accende con l’accensione delle luci di posizione del veicolo",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Le dimensioni degli specchi retrovisori sono proporzionali alla cilindrata del veicolo",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Lo specchio retrovisore centrale di un autoveicolo può essere rimosso se il veicolo è dotato di specchio laterale sinistro",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Durante una manovra di parcheggio in retromarcia, non è necessario utilizzare gli specchi retrovisori se il veicolo è dotato di sensori di parcheggio",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli specchi retrovisori, nel loro complesso, consentono al conducente di vedere l’intera area di strada dietro e intorno al veicolo",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli autocaravan possono non essere dotati di specchi retrovisori se li rendono troppo ingombranti in larghezza",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"La regolazione degli specchi retrovisori deve di norma essere effettuata con il veicolo in marcia",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli specchi retrovisori esterni degli autoveicoli possono essere sostituiti con altri di tipo differente, purché di superficie maggiore",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Si può circolare con un autoveicolo in cui mancano temporaneamente gli specchi retrovisori, purché a velocità non superiore a 50 km/h e tenendo in azione la segnalazione luminosa di pericolo",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere regolato in modo da scorgere, nel suo terzo di destra, la coda del veicolo",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere regolato in modo da poter osservare, prevalentemente, la porzione di strada a fianco del veicolo",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro falsa la percezione della distanza e della velocità dei veicoli sopraggiungenti",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere utilizzato prima di iniziare una manovra di cambio corsia verso sinistra",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere utilizzato prima di iniziare una manovra di sorpasso",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere utilizzato prima di iniziare una manovra di svolta a sinistra",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro ha un angolo cieco molto ampio",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Il controllo dello specchio retrovisore laterale sinistro deve essere integrato con un rapido controllo visivo laterale diretto, prima di iniziare un sorpasso",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Prima di immettere il veicolo nel flusso della circolazione, è necessario controllare lo specchio retrovisore laterale sinistro nonché verificare con un controllo visivo diretto che la strada sia sufficientemente libera dietro e a fianco del veicolo",
-      "isCorrect":true,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":true
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere regolato in modo da poter controllare il comportamento di eventuali bambini seduti nella parte posteriore del veicolo",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Lo specchio retrovisore laterale sinistro deve essere chiuso quando si circola su strade strette di montagna",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Nei centri abitati non è necessario utilizzare gli specchi retrovisori",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Se durante una manovra di inserimento nella circolazione si utilizza lo specchio retrovisore è bene non controllare anche con uno sguardo diretto per non distrarre l’attenzione dalla guida",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli specchi retrovisori dei veicoli a due ruote sono fissi e senza possibilità di regolazione a causa delle vibrazioni del veicolo che tendono a spostarli dalla posizione originale",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"La regolazione degli specchi retrovisori va effettuata, di media, ogni mille chilometri circa",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Gli autoveicoli dotati di poggiatesta posteriori non sono muniti di specchio retrovisore centrale perché inutilizzabile",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
       "question":"Lo specchio retrovisore centrale può essere utilizzato come schermo per il navigatore satellitare",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "isCorrect":false
    },
    {
-      "question":"",
-      "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "question":"Il conducente che intende sorpassare deve accertarsi che la visibilità sia tale da consentire la manovra",
+      "isCorrect":true,
+      "image":""
    },
    {
-      "question":"",
+      "question":"Il conducente che intende sorpassare deve accertarsi che la manovra possa compiersi senza costituire intralcio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve accertarsi che il conducente che lo precede nella stessa corsia non abbia segnalato di voler compiere analoga manovra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve accertarsi che il conducente che lo segue sulla stessa carreggiata non abbia iniziato il sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve accertarsi che la strada sia libera per consentire la completa esecuzione del sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve valutare lo spazio necessario per la manovra anche in relazione alla differenza di velocità tra il proprio veicolo e quello da sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve tener conto di eventuali veicoli che provengono dalla direzione opposta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve valutare lo spazio necessario in relazione alla lunghezza del proprio veicolo e di quello da sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve accertarsi che la larghezza della carreggiata consenta la manovra in condizioni di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve accertarsi che nessun segnale verticale vieti la manovra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve accertarsi semplicemente che nessun veicolo provenga dalla direzione opposta",
       "isCorrect":false,
-      "image":"manovra_retromarcia.png"
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare ha come unico obbligo quello di azionare l'indicatore di direzione (frecce)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve unicamente accertarsi che non vi sia nessun segnale di divieto di sorpasso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare una manovra di sorpasso occorre azionare l'indicatore di direzione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso si effettua, di norma, a sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso si effettua tenendo una adeguata distanza laterale dal veicolo che si sorpassa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Dopo aver effettuato una manovra di sorpasso il conducente del veicolo deve riportarsi a destra appena possibile senza creare pericolo o intralcio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo che viene sorpassato deve agevolare la manovra di sorpasso e non accelerare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo che viene sorpassato, nelle strade ad una corsia per senso di marcia, deve tenersi il più vicino possibile al margine destro",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso non va effettuata se lo spazio visibile risulta insufficiente per completarla in sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso non va effettuata se la carreggiata non è sufficientemente larga",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende effettuare il sorpasso ha l'obbligo di azionare il segnale acustico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende iniziare una manovra di sorpasso non ha l'obbligo di azionare l'indicatore di direzione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo il sorpasso il veicolo può immediatamente spostarsi a destra se taglia la strada a quello sorpassato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo sorpassato può gareggiare in velocità con il conducente del veicolo che lo sta sorpassando",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso si effettua anche se lo spazio visibile risulta insufficiente per completarla in sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo aver eseguito una prima manovra di sorpasso, in strade ad almeno due corsie per senso di marcia, è possibile eseguirne un' altra senza rientrare a destra, se non si crea intralcio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso deve essere eseguita a destra se il conducente del veicolo da sorpassare ha segnalato l'intenzione di voler svoltare a sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso deve essere eseguita a destra se, su strada a senso unico, il conducente del veicolo da sorpassare ha segnalato l'intenzione di voler accostare a sinistra   ",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso del tram può effettuarsi su ambo i lati se la strada è a senso unico e la larghezza della carreggiata lo consente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se il tram o il filobus sono fermi la manovra di sorpasso può effettuarsi a destra se esiste il salvagente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se il tram o il filobus sono fermi la manovra di sorpasso non può effettuarsi a destra se manca il salvagente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se il tram o il filobus sono fermi per la salita e la discesa dei passeggeri, la manovra di sorpasso può sempre effettuarsi a destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' sempre vietato effettuare la manovra di sorpasso a destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso può, di norma, effettuarsi a destra sulle autostrade",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La manovra di sorpasso può effettuarsi a sinistra soltanto se il veicolo da sorpassare sta svoltando a destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' vietato effettuare un secondo sorpasso senza prima essersi riportati a destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato in prossimità delle curve su strade a due corsie a doppio senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato in prossimità dei dossi su strade a due corsie a doppio senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato in caso di scarsa visibilità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è consentito in curva se la strada è a due carreggiate separate con almeno due corsie per ogni senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è consentito su dossi se la strada è a due carreggiate separate e a due corsie per senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di un veicolo che ne stia superando un altro se ciò impone di spostarsi sul lato riservato all'altro senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di veicoli fermi ai passaggi a livello, se bisogna impegnare la semicarreggiata opposta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di veicoli in lento movimento ai passaggi a livello quando, a tal fine è necessario spostarsi sul lato riservato all'altro senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di veicoli fermi ai semafori quando, a tal fine è necessario spostarsi sul lato riservato all'altro senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di veicoli in lento movimento a causa di congestione della circolazione quando, a tal fine è necessario spostarsi sul lato riservato all'altro senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso in prossimità o in corrispondenza delle intersezioni se regolate dai semafori",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E’ consentito il sorpasso a destra nelle intersezioni regolate da semaforo, se il veicolo da sorpassare ha indicato di voler svoltare a sinistra ed ha iniziato la manovra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso nelle intersezioni se la strada è a precedenza purché a due carreggiate separate e le corsie siano delimitate dall'apposita segnaletica orizzontale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso in corrispondenza delle intersezioni se si supera un veicolo a due ruote non a motore e non si invade il lato riservato al senso opposto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso nelle intersezioni regolate da agenti del traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso in prossimità o in corrispondenza di passaggi a livello senza barriere se la circolazione è regolata da semafori",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di un veicolo che si sia arrestato in corrispondenza di un passaggio pedonale per consentire l'attraversamento di pedoni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di un veicolo che abbia rallentato in corrispondenza di un passaggio pedonale per consentire l'attraversamento dei pedoni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato sorpassare sulle corsie di accelerazione o di decelerazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso se si deve valicare la striscia longitudinale bianca continua semplice o doppia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio necessario al sorpasso aumenta se il veicolo da sorpassare accelera",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio necessario al sorpasso aumenta in relazione alla maggiore lunghezza del veicolo da sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio necessario alla manovra di sorpasso aumenta in relazione alla maggiore lunghezza del veicolo che sorpassa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo spazio necessario al sorpasso è maggiore se vi è poca differenza di velocità tra i veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distanza di sicurezza va rispettata anche quando si inizia la manovra di sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso sul tratto discendente di un dosso in una strada a due corsie a doppio senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio accertarsi prima di effettuare il sorpasso che non vi siano segnali che lo vietino",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso nasce dalla possibilità di urtare altri veicoli che, davanti o dietro, intendano compiere la stessa manovra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso se il veicolo da superare si è fermato per dare precedenza ai pedoni, anche fuori dagli attraversamenti pedonali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' pericoloso effettuare il rientro dopo il sorpasso se la manovra costringe i veicoli sorpassati a frenare bruscamente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di rientrare nella corsia di destra dopo il sorpasso, occorre controllare la posizione del veicolo sorpassato attraverso gli specchietti retrovisori",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è consentito in caso di scarsa visibilità purché si lampeggi durante la manovra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato in curva anche se la strada è a due carreggiate separate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato in curva anche se la strada è ad almeno due corsie per senso di marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso di veicoli fermi ai passaggi a livello senza barriere se il treno è distante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso di veicoli in lento movimento ai passaggi a livello senza barriere se il treno è distante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso sulle intersezioni purché non provenga nessuno dalla destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso sulle corsie d'accelerazione purché la manovra venga effettuata con attenzione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' sempre consentito superare un veicolo a due ruote",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso nelle strade a senso unico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di veicoli della polizia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In autostrada si può sorpassare indifferentemente a destra e a sinistra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso tra motocicli si può effettuare sia a destra che a sinistra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio necessario per il sorpasso aumenta se il veicolo da sorpassare rallenta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo spazio necessario per il sorpasso è indipendente dalla lunghezza dei veicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' vietato il sorpasso di un autobus fermo per la salita e la discesa dei passeggeri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato sulle curve e sui dossi delle strade a senso unico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato se si è costretti a superare la linea longitudinale tratteggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito il sorpasso a destra dei motocicli se vi è spazio sufficiente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di intenso traffico è consentito ai motociclisti utilizzare per il sorpasso le corsie riservate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si inizia il sorpasso è consentito segnalare la manovra ai veicoli che precedono lampeggiando con i proiettori abbaglianti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nell'eseguire la manovra di sorpasso occorre regolare la velocità in relazione a quella del veicolo da sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per eseguire la manovra di sorpasso nei centri urbani si possono momentaneamente superare i limiti di velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nell'eseguire la manovra di sorpasso bisogna mantenere strettamente la destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nell'eseguire la manovra di sorpasso non bisogna accelerare",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo il sorpasso bisogna rientrare immediatamente a destra, rallentando",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato il sorpasso degli autobus in servizio pubblico di linea",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato il sorpasso quando il veicolo che precede ha azionato l'indicatore di direzione destro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato il sorpasso se nevica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato il sorpasso in corrispondenza dei passi carrabili",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato il sorpasso in prossimità degli ospedali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato il sorpasso in prossimità delle stazioni di servizio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in prossimità di un dosso è consentito sulle strade a senso unico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in prossimità di un dosso è consentito sulle carreggiate a senso unico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in prossimità di un dosso è consentito sulle strade a due corsie per senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in prossimità di un dosso è consentito sulle strade a due carreggiate separate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E'vietato sorpassare accodandosi ad un'ambulanza in servizio di emergenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su carreggiate a due corsie e a doppio senso in prossimità di un dosso, è consentito sorpassare veicoli a trazione animale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su carreggiate a due corsie a doppio senso di marcia in prossimità di un dosso, è consentito sorpassare nella scia del veicolo che precede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In prossimità di un dosso è consentito invadere l'opposta semicarreggiata, per sorpassare autobus di linea fermi per la salita e discesa dei passeggeri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non si può sorpassare in corrispondenza dei dossi su carreggiata a senso unico a due corsie",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non si può sorpassare un veicolo che abbia segnalato l'intenzione di accostarsi al margine destro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non si può sorpassare in corrispondenza dell'uscita di un pubblico parcheggio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ vietato il sorpasso se alla sinistra del veicolo si trova una linea bianca discontinua affiancata da una continua",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non si può sorpassare sulla destra il tram che marcia al centro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nella fase di sorpasso, il conducente è tenuto a evitare di stringere o di tagliare la strada al veicolo sorpassato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso è determinata dal rischio di urtare altri veicoli che manifestano l'intenzione di compiere la stessa manovra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso è determinata dal rischio di collisione, in fase di avvicinamento, con il veicolo da sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso è determinata dal rischio di collisione, in fase di rientro in corsia, con il veicolo sorpassato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso è determinata dal rischio di urto frontale con un veicolo che provenga dal senso contrario",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso è determinata dalla ridotta larghezza della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nella fase di sorpasso, il conducente è tenuto a mantenersi il più a lungo possibile nella corsia di sorpasso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nella fase di sorpasso, il conducente è tenuto a segnalare continuamente con l'avvisatore acustico l'effettuazione della manovra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nella fase di sorpasso, il conducente è tenuto a mantenere una velocità almeno doppia di quella del veicolo sorpassato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La pericolosità del sorpasso è determinata dalla presenza, sulla strada, di delineatori normali di margine",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato di notte, nei centri urbani con pubblica illuminazione insufficiente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato quando sulla carreggiata è tracciata la linea tratteggiata di mezzeria",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso è vietato quando sulle strade di montagna si è preceduti da un autobus di linea",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nella fase di rientro dal sorpasso in autostrada, il conducente deve distanziarsi di almeno 100 m dal veicolo sorpassato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nella fase di rientro dal sorpasso il conducente deve segnalare acusticamente la manovra al veicolo sorpassato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso a destra è consentito quando il filobus è fermo per la salita e la discesa dei passeggeri, anche se non esiste salvagente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso a destra è consentito quando si percorre una strada extraurbana a senso unico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende sorpassare deve assicurarsi che la potenza del motore del proprio veicolo sia maggiore di quella del veicolo da sorpassare",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di non gareggiare in velocità con il veicolo sorpassante",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di non accelerare la propria andatura",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di fermarsi appena possibile per far defluire il traffico se guida un veicolo molto lento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di tenersi il più possibile vicino al margine destro su strade ad unica corsia per senso di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di portarsi al centro della carreggiata per evitare sorpassi in scia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di azionare la segnalazione luminosa di pericolo(lampeggio simultaneo di tutte le frecce) per segnalare che la strada è sgombra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di ridurre sempre la propria velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente del veicolo da sorpassare ha l'obbligo di inserire le marce più basse per facilitare il sorpasso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per effettuare il sorpasso bisogna considerare che un veicolo trainante un caravan non può mai essere superato in una discesa a forte pendenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito sorpassare un'auto della Polizia, se non è in servizio di emergenza e non vi sono altri tipi di impedimenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, è consigliabile ridurre la velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, occorre spostarsi il più vicino possibile al margine destro della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si viene sorpassati ed avviene un incidente, si può avere una parte di responsabilità, se non si è fatto il possibile per facilitare la manovra di sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato sorpassare un'auto della Polizia, non in servizio di emergenza, per non ostacolarne la marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade a tre corsie per senso di marcia è consentito sorpassare un'auto della polizia, anche se in servizio di emergenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, occorre tenere accesi i proiettori abbaglianti, come segnale di pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, si ha l'obbligo di mantenere la stessa velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, occorre azionare l'indicatore di direzione destro, come segnale di pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante un sorpasso in autostrada, la scarsa attenzione posta ai veicoli che seguono può essere causa di incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante un sorpasso in autostrada, l'insufficiente distanza di sicurezza può essere causa di incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante un sorpasso in autostrada, può essere causa di incidente l'improvviso spostamento sulla corsia di sorpasso di uno dei veicoli che precedono",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante un sorpasso in autostrada, mantenersi troppo a lungo sulla corsia di sorpasso può essere motivo di intralcio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in autostrada può essere motivo di incidente, se viene effettuato accodandosi ad un veicolo che sta sorpassando",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in autostrada può essere motivo di incidente, se il forte vento laterale compromette la stabilità dei veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in autostrada può essere motivo di incidente, se viene effettuato in vicinanza di una piazzola di sosta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il sorpasso in autostrada può essere motivo di incidente, se si viaggia con le luci anabbaglianti sempre accese",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si parcheggia in una zona regolamentata con parchimetro, occorre esporre l'apposito tagliando, in modo che sia ben visibile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per parcheggiare in una zona regolamentata mediante disco orario, bisogna esporre in modo ben visibile l'orario di arrivo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In una zona in cui la sosta è regolamentata con parchimetro, non occorre utilizzarlo se ci si ferma soltanto per far salire o scendere un passeggero",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle aree di parcheggio a tempo limitato, i veicoli al servizio di persone diversamente abili non sono obbligati a rispettare il limite di tempo stabilito per la sosta.",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per parcheggiare in una zona regolamentata mediante disco orario, bisogna indicare sul disco l'orario di fine della sosta, oppure trascriverlo su un foglio di carta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In una zona in cui la sosta è regolamentata mediante disco orario, prima che scada il tempo di validità della sosta è consentito aggiornare l'orario, senza che il veicolo venga spostato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In una zona in cui la sosta è regolamentata con parchimetro, non occorre utilizzare il parchimetro se si effettua una breve sosta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si parcheggia in una zona regolamentata mediante disco orario, bisogna trascrivere su un foglio di carta l'ora di arrivo, senza indicare i minuti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un autoveicolo in sosta sul lato destro di una strada urbana, prima di aprire la portiera, deve fare particolare attenzione ai veicoli che sopraggiungono",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un autoveicolo in sosta su una strada stretta, prima di scendere deve controllare che non sopraggiungano veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' opportuno che il conducente di un autoveicolo in sosta sul lato sinistro in una strada urbana a senso unico, ricordi al passeggero di prestare particolare attenzione ai veicoli che sopraggiungono, prima di aprire la portiera",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' opportuno che il conducente di un autoveicolo, in sosta sul lato destro di una strada urbana, ricordi al passeggero che apre la portiera di destra di fare attenzione ai pedoni in transito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un autoveicolo può lasciare il motore acceso se sosta per poco tempo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un autoveicolo in sosta su una strada stretta, prima di scendere deve preoccuparsi dei veicoli che sopraggiungono da dietro, ma non di quelli di fronte",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un autoveicolo è opportuno regolare il sedile e il poggiatesta, secondo la propria statura",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un autoveicolo è opportuno regolare gli specchi retrovisori interni ed esterni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un motociclo è opportuno regolare gli specchi secondo la propria statura",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si guida un veicolo a motore, bisogna avere con sé tutti i documenti necessari per la guida (carta di circolazione, certificato di assicurazione, patente ecc.), e in corso di validità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo a motore bisogna essere certi che la categoria di patente posseduta ne consenta la guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo, bisogna essere certi del perfetto stato di efficienza del mezzo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo bisogna accertarsi che gli oggetti trasportati siano sistemati in modo da evitarne la caduta o dispersione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo, bisogna controllare che non sia compromessa la visibilità posteriore e laterale, per la presenza di passeggeri o per il carico mal posizionato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un autoveicolo, bisogna individuare i comandi (leve e pulsanti) necessari per la guida e comprenderne bene il funzionamento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un’autovettura, bisogna controllare che i passeggeri abbiano regolarmente allacciato le cinture di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo a motore bisogna regolare il contachilometri parziale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo a motore bisogna disinserire l'airbag del lato conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un autoveicolo, bisogna verificare che le cinture di sicurezza siano dotate di pretensionatore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a guidare un veicolo, bisogna verificarne lo stato di efficienza solo se si deve intraprendere un lungo viaggio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'arresto è l'interruzione della marcia del veicolo dovuta ad esigenze della circolazione, come ad esempio ad un semaforo rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata di un veicolo è la temporanea sospensione della marcia per consentire la salita o la discesa delle persone",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata di un veicolo è la temporanea sospensione della marcia per esigenze di brevissima durata, come ad esempio per chiedere informazioni agli agenti del traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata di un veicolo è la temporanea sospensione della marcia per esigenze di brevissima durata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'arresto è la temporanea sospensione della marcia per esigenze del conducente o dei passeggeri di un veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è l'interruzione della marcia del veicolo dovuta ad esigenze della circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata per esigenze del conducente può avere la durata massima di dieci minuti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata di un veicolo è vietata se i passeggeri che scendono sono più di uno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata non deve arrecare intralcio alla circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la fermata il conducente non deve impedire con il proprio autoveicolo il normale flusso del traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la fermata il conducente deve comportarsi in modo da non costituire pericolo agli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la fermata il conducente deve essere sempre presente e pronto a riprendere la marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la fermata il conducente deve sempre adottare le opportune cautele atte ad evitare incidenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Non è consentito fermarsi per chiedere informazioni agli agenti del traffico, quando ciò possa causare intralcio o rallentamento alla circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la fermata il conducente può allontanarsi per brevissimo tempo prima di riprendere la marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata di un veicolo è sempre consentita per chiedere informazioni agli agenti del traffico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la fermata il conducente, se si allontana, deve lasciare il veicolo con il motore acceso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di fermata, ove non esista marciapiede rialzato, il conducente deve lasciare uno spazio non inferiore ad un metro per il transito dei pedoni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, il conducente, in caso di fermata, deve collocare, se possibile, il veicolo fuori della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, il conducente, in caso di fermata, deve collocare il veicolo fuori della carreggiata, ma non sulle piste ciclabili",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, se non è possibile collocare il veicolo fuori della carreggiata, il conducente deve effettuare la fermata il più vicino possibile al margine destro della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di fermata su strada urbana in cui non esiste il marciapiede rialzato, il conducente deve collocare il veicolo il più vicino possibile al margine destro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, il conducente, in caso di fermata ha l'obbligo di collocare il veicolo fuori della carreggiata, eventualmente su una pista ciclabile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata in corrispondenza o in prossimità dei passaggi a livello",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata sui binari di linee ferroviarie o tranviarie o così vicino ad essi da intralciare la marcia dei veicoli su rotaia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata nelle gallerie, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata sui doss",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dai centri abitati e sulle strade urbane di scorrimento la fermata è vietata in prossimità dei dossi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata nelle curve e, fuori dei centri abitati e sulle strade urbane di scorrimento, anche in loro prossimità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata sul margine destro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata lungo il margine sinistro di una carreggiata a senso unico di circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata di breve durata è consentita anche in curva",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata allo sbocco dei passi carrabili",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata sulle aree destinate al mercato o al carico e allo scarico delle merci",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata in prossimità e in corrispondenza di segnali stradali verticali in modo da occultarne la vista",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata in corrispondenza dei segnali orizzontali di preselezione e lungo le corsie di canalizzazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, la fermata è vietata in corrispondenza e in prossimità delle aree di intersezione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei centri abitati, la fermata e la sosta sono vietate in corrispondenza delle aree di intersezione e in prossimità di esse a meno di 5 metri, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata limitatamente alle ore di esercizio, in corrispondenza dei distributori di carburante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata dopo il segnale DIVIETO DI SOSTA",
+      "isCorrect":false,
+      "image":"divieto_sosta.png"
+   },
+   {
+      "question":"La fermata è vietata in prossimità dei segnali stradali, anche se il veicolo non ne occulta la vista",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata lungo le autostrade, anche in caso di emergenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei centri abitati la fermata è vietata in prossimità delle aree di intersezione, a più di 5 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è consentita sulle corsie di accelerazione, purché brevissima",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono sempre vietate sugli attraversamenti pedonali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono vietate in ogni caso sulle piste ciclabili e agli sbocchi di esse",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono vietate sui marciapiedi, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è consentita allo sbocco dei passi carrabili",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è consentita davanti ai cassonetti dei rifiuti urbani",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La fermata è consentita sugli attraversamenti pedonali per far scendere un passeggero",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata per esigenze di brevissima durata è vietata sulle piste ciclabili ma non agli sbocchi di esse",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata allo sbocco dei passi carrabili",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è sempre vietata in seconda fila",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La fermata è vietata in ogni caso nelle ore notturne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è la sospensione della marcia del veicolo protratta nel tempo, con possibilità del conducente di allontanarsi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente può allontanarsi dal veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente deve adottare le opportune cautele atte ad evitare incidenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente deve impedire l'uso del veicolo senza il suo consenso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta è opportuno che il conducente azioni il freno di stazionamento ed inserisca il rapporto più basso del cambio di velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente deve adottare accorgimenti atti a garantire l'immobilità del veicolo, indipendentemente dal grado di pendenza della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta nelle strade a forte pendenza, è opportuno che il conducente azioni il freno di stazionamento, inserisca il rapporto più basso del cambio di velocità e lasci il veicolo con le ruote sterzate verso il marciapiede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente deve lasciare il veicolo con il motore spento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta nelle ore notturne il conducente deve lasciare in ogni caso accese le luci di posizione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente non può allontanarsi dal veicolo per più di tre ore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente che lascia il veicolo su strada in salita, deve avere cura di inserire la quarta marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la sosta il conducente deve posizionare il cambio di velocità dell'autovettura in folle",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Salvo diversa segnalazione il conducente, in caso di sosta nei centri abitati, deve collocare il veicolo il più vicino possibile al margine destro della carreggiata, parallelamente ad esso e secondo il senso di marcia, purché esista il marciapiede rialzato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di sosta ove non esista marciapiede rialzato, il conducente deve lasciare uno spazio non inferiore ad un metro per il transito dei pedoni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, il conducente che deve sostare ha l'obbligo di collocare il veicolo, ove possibile, fuori della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, il conducente che deve sostare ha l'obbligo di collocare il veicolo fuori della carreggiata, ma non sulle piste ciclabili",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati il conducente deve collocare il veicolo in sosta fuori della carreggiata, ma non sulle banchine, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, in caso di impossibilità a collocare il veicolo fuori della carreggiata, il conducente deve sostare il più vicino possibile al margine destro della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di sosta in un centro abitato, il conducente deve collocare il veicolo il più vicino possibile al margine destro della carreggiata, anche dove non esiste il marciapiede rialzato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, il conducente in caso di sosta deve collocare il veicolo fuori della carreggiata, eventualmente anche sulle piste ciclabili",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, in caso di impossibilità di collocare il veicolo fuori della carreggiata, il conducente non deve effettuare la sosta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle strade urbane a senso unico di marcia, la sosta è consentita anche lungo il margine sinistro della carreggiata, purché rimanga uno spazio sufficiente al transito almeno di una fila di veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle strade urbane a senso unico di marcia, la sosta è consentita anche lungo il margine sinistro della carreggiata, purché rimanga uno spazio non inferiore a tre metri di larghezza per il transito dei veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle zone predisposte per la sosta, il conducente deve collocare il veicolo nel modo prescritto dalla segnaletica",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle zone nelle quali gli spazi di sosta sono delimitati da segnaletica orizzontale, il conducente deve sempre sistemare il proprio veicolo entro uno degli appositi spazi(stalli), senza invadere quelli contigui",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle strade urbane a senso unico di marcia, la sosta è sempre consentita anche lungo il margine sinistro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' vietato sostare con autoveicoli o motocicli nei centri abitati, quando non esistano le apposite strisce",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle zone nelle quali gli spazi di sosta sono delimitati da segnaletica orizzontale, il conducente può sistemare il proprio veicolo anche fuori dall'apposito spazio (stallo) ad esso destinato, a condizione che la sosta sia di brevissima durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In una zona in cui la sosta è regolata con parchimetro, non occorre utilizzarlo se la sosta è di breve durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata in corrispondenza o in prossimità dei passaggi a livello",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata sui binari di linee ferroviarie o tranviarie o così vicino ad essi da intralciare la marcia dei veicoli su rotaia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata nelle gallerie, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata sui dossi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dai centri abitati e sulle strade urbane di scorrimento, la sosta è vietata in prossimità dei dossi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata in corrispondenza dei passaggi a livello ma non in loro prossimità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata sui binari delle linee ferroviarie ma non di quelle tranviarie",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è consentita nelle gallerie illuminate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta, ma non la fermata, è vietata nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati e sulle strade urbane di scorrimento, è consentita la sosta in prossimità dei dossi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono vietate nelle curve e, fuori dei centri abitati e sulle strade urbane di scorrimento, anche in loro prossimità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono vietate in prossimità e in corrispondenza di segnali stradali verticali in modo da occultarne la vista",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono vietate in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta e la fermata sono vietate in corrispondenza dei segnali orizzontali di preselezione e lungo le corsie di canalizzazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, la sosta e la fermata sono vietate in corrispondenza e in prossimità delle aree di intersezione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata allo sbocco dei passi carrabili",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata nelle curve ma, fuori dei centri abitati e sulle strade di scorrimento, non è vietata in loro prossimità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta, ma non la fermata, è vietata in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata in corrispondenza dei segnali orizzontali di preselezione ma non lungo le corsie di canalizzazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, la sosta è vietata in corrispondenza delle aree di intersezione ma non in loro prossimità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta ma non la fermata è vietata sugli attraversamenti pedonali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata sulle piste ciclabili, ma non agli sbocchi di esse nel caso sia di breve durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è consentita sui marciapiedi, solo se di breve durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata se si impedisce l’accesso ad altro veicolo già regolarmente in sosta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata dovunque venga impedito lo spostamento di veicoli in sosta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata in seconda fila, salvo che si tratti di veicoli a due ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata negli spazi riservati allo stazionamento e alla fermata degli autobus, dei filobus e dei veicoli circolanti su rotaia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata a meno di 15 metri dal segnale di fermata di autobus, filobus e veicoli circolanti su rotaia, qualora gli spazi di stazionamento non siano delimitati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta degli autoveicoli in doppia fila è consentita per pochi minuti, azionando le luci di emergenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta degli autoveicoli in doppia fila è consentita purché rimanga spazio sufficiente per la circolazione di due file di veicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è consentita negli spazi riservati allo stazionamento e alla fermata degli autobus, dei filobus e dei veicoli circolanti su rotaia purché sia di breve durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata negli spazi riservati allo stazionamento dei veicoli in servizio di piazza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata sulle aree destinate al mercato e ai veicoli per il carico e lo scarico di cose, nelle ore stabilite",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata sulle banchine, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata negli spazi riservati alla fermata o alla sosta dei veicoli per persone invalide",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata in corrispondenza degli scivoli o dei raccordi tra i marciapiedi e la carreggiata utilizzati dai veicoli per persone invalide",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è consentita negli spazi riservati allo stazionamento dei taxi solo se non si protrae per lungo tempo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è consentita sulle aree destinate ai veicoli per il carico e lo scarico di cose, nelle ore stabilite, soltanto se di breve durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è consentita negli spazi riservati alla fermata o alla sosta dei veicoli per persone invalide purché di breve durata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata nelle corsie o carreggiate riservate ai mezzi pubblici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata nelle aree pedonali urbane",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata nelle zone a traffico limitato per i veicoli non autorizzati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata negli spazi destinati a servizi di emergenza o di igiene pubblica indicati dalla apposita segnaletica",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata davanti ai cassonetti dei rifiuti urbani",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Brevi soste sono consentite nelle aree pedonali urbane",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta, ed anche la fermata, sono vietate negli spazi destinati a servizi di emergenza o di igiene pubblica indicati dalla apposita segnaletica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta così come la fermata sono vietate davanti ai cassonetti dei rifiuti urbani",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata, limitatamente alle ore di esercizio, in corrispondenza dei distributori di carburante, e in loro prossimità sino a 5 metri prima e dopo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei centri abitati il conducente non deve lasciare in sosta un rimorchio staccato dalla motrice, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui la sosta è espressamente vietata da una norma del codice stradale, l'osservanza di tale divieto non è condizionata dalla presenza di cartelli segnaletici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta è vietata in corrispondenza dei distributori di carburante, sino a 5 metri prima e dopo, anche quando i distributori sono chiusi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui la sosta è espressamente vietata da una norma del codice della strada, l'osservanza di tale divieto è comunque condizionata dalla presenza di cartelli segnaletici",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta negli spazi riservati allo stazionamento e alla fermata di autobus, filobus e veicoli circolanti su rotaia comporta, tra l'altro, la sottrazione di punti dalla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta, a meno di 15 metri dal segnale di fermata degli autobus, qualora gli spazi di fermata non siano delimitati, comporta tra l'altro, la sottrazione di punti dalla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta negli spazi riservati alla fermata e alla sosta dei veicoli per persone invalide, comporta, tra l'altro, la sottrazione di punti dalla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta in corrispondenza degli scivoli o dei raccordi tra i marciapiedi e la carreggiata utilizzati dai veicoli per persone invalide comporta, tra l'altro, la sottrazione di punti dalla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta nelle corsie o carreggiate riservate ai mezzi pubblici comporta, tra l'altro, la sottrazione di punti dalla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta negli spazi riservati allo stazionamento e alla fermata di autobus, filobus e veicoli circolanti su rotaia, è consentita se si utilizza il disco orario",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta a meno di 15 metri dal segnale di fermata autobus, qualora gli spazi di stazionamento non siano delimitati, è consentita azionando la segnalazione luminosa di pericolo (quattro frecce lampeggianti simultaneamente)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta negli spazi riservati alla fermata e alla sosta dei veicoli per persone invalide comporta una sanzione pecuniaria, ma non la sottrazione di punti dalla patente del conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta in corrispondenza degli scivoli o dei raccordi tra i marciapiedi e la carreggiata utilizzati dai veicoli per persone invalide, comporta la sospensione della patente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta nelle corsie o carreggiate riservate ai mezzi pubblici, è consentita, nei centri abitati, dalle ore 22.00 alle ore 8.00",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta di emergenza è l'interruzione della marcia nel caso in cui il veicolo è inutilizzabile per avaria",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta di emergenza è l'interruzione della marcia nel caso in cui il veicolo deve arrestarsi per malessere fisico del conducente o di un passeggero",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La sosta di emergenza è l'interruzione della marcia dovuta ad esigenze della circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta di emergenza è la temporanea sospensione della marcia per consentire la discesa di persona invalida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sosta di emergenza è la temporanea sospensione della marcia per consentire ad una persona invalida di salire sul veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si aprono le porte di un veicolo, bisogna assicurarsi che ciò non costituisca pericolo o intralcio per gli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di aprire lo sportello di un veicolo dal lato rivolto verso il centro della strada bisogna assicurarsi che non sopraggiungano altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di aprire lo sportello di un veicolo dal lato rivolto verso il marciapiede bisogna assicurarsi che non sopraggiungano pedoni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si scende da un veicolo bisogna assicurarsi che ciò non costituisca pericolo o intralcio per gli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Allorché si accinge a scendere dall'autoveicolo, il conducente deve assicurarsi, anche mediante lo specchietto retrovisore, che non sopraggiungano altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di scendere dal veicolo in sosta, il conducente deve assicurarsi di avere spento il motore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'apertura di uno sportello del veicolo dal lato del marciapiede comporta l'obbligo di attivare l'indicatore di direzione da quel lato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'apertura degli sportelli del veicolo dal lato rivolto verso il centro della strada è vietato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente può lasciare il veicolo in sosta con il motore acceso per consentire il funzionamento dell'aria condizionata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di scendere dal veicolo in sosta, il conducente deve azionare il freno a mano del veicolo, su tutte le strade in discesa ma non in quelle in salita",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve provvedere a rimuovere il carico, se possibile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strada extraurbana, nel caso di ingombro della carreggiata per caduta accidentale del carico, il conducente deve presegnalare l'ostacolo mediante il segnale di veicolo fermo (triangolo)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve rendere sollecitamente libero, per quanto possibile, il transito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve presegnalare l'ostacolo mediante il segnale di STOP",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve restare a bordo del veicolo in attesa dei soccorsi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di ingombro della carreggiata per avaria del veicolo, il conducente deve sollecitamente rendere libero il transito per il traffico sopraggiungente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di ingombro della carreggiata per avaria del veicolo, il conducente deve spingere il veicolo stesso fuori della carreggiata o, se ciò non è possibile, collocarlo sul margine destro della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di ingombro della carreggiata per caduta del carico o per qualsiasi altra causa, il conducente deve rimuovere l'ingombro, per quanto possibile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strada extraurbana, nel caso di incidente che provochi l'ingombro della carreggiata per la presenza di veicoli danneggiati che non è possibile rimuovere, il conducente o i passeggeri devono presegnalare la zona mediante il segnale triangolare mobile di pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di ingombro della carreggiata per avaria del veicolo, il conducente non è tenuto a spostarlo, in attesa dei soccorsi, se il traffico è scarso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve evitare di spostarlo per consentire la ricostruzione corretta dell'accaduto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per avaria del veicolo che non è possibile spostare, il conducente deve informare l'organo di polizia, senza dover opportunamente presegnalare la zona",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso di ingombro della carreggiata per caduta del carico non removibile, il conducente può evitare di informare un organo di polizia se presegnala la zona con efficaci segnali manuali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o comunque pericolose, deve, tra l'altro, presegnalare la zona con il segnale mobile di pericolo anche in mezzo alla carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chiunque non abbia potuto evitare la caduta o lo spargimento di materie pericolose, deve, tra l'altro, eseguire segnali manuali per impedire il transito dei veicoli dalla parte dove non è stato posto il segnale mobile di pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o pericolose, deve, tra l'altro, rimuoverle o spargere sul terreno, se possibile, sabbia, terra, segatura o altro materiale idoneo a ripristinare l'aderenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strada extraurbana, chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o comunque pericolose deve, tra l'altro, presegnalare la zona con il segnale mobile di pericolo posto anche in mezzo alla carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un autoveicolo che non abbia potuto evitare lo spargimento di materie pericolose, può evitare di presegnalare la zona con il segnale mobile di pericolo se esegue segnali sonori per allontanare gli altri veicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chiunque non abbia potuto evitare la caduta di materie viscide, deve deviare il traffico in attesa che l'ente proprietario della strada intervenga per ripristinare le condizioni ottimali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chiunque non abbia potuto evitare la caduta o lo spargimento di materie pericolose deve, tra l'altro, eseguire segnali manuali atti a segnalare il pericolo, solo dalla parte dove è stato posto il segnale triangolare mobile di pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, di notte, quando mancano o sono insufficienti le luci posteriori di posizione o di emergenza, è obbligatorio presegnalare il veicolo, fermo sulla carreggiata, con il segnale triangolare mobile di pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, di notte, è obbligatorio presegnalare con il segnale triangolare mobile di pericolo ogni carico caduto accidentalmente dal veicolo sulla carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, è obbligatorio anche di giorno presegnalare un veicolo fermo sulla carreggiata mediante il segnale triangolare di pericolo quando non può essere visto nettamente a 100 metri di distanza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati è obbligatorio, anche di giorno, presegnalare un carico accidentalmente caduto sulla carreggiata mediante il segnale triangolare mobile di pericolo, quando l’ingombro non può essere visto nettamente a 100 metri di distanza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo fa parte dell'equipaggiamento obbligatorio degli autoveicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto dietro al veicolo o all'ostacolo da segnalare, ad almeno 50 metri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso di intersezione a distanza inferiore a 50 metri, il segnale mobile triangolare di pericolo deve essere posto dietro al veicolo nella posizione più idonea ad essere avvistato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata in modo che sia visibile ad una distanza di almeno 100 metri dai veicoli sopraggiungenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, di notte, quando mancano o sono insufficienti le luci posteriori di posizione o di emergenza, è consigliabile presegnalare il veicolo fermo sulla carreggiata, con il segnale triangolare mobile di pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo per avaria di notte, se l'ostacolo non è visibile ad almeno 150 metri di distanza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, è facoltativo presegnalare, anche di giorno, un carico accidentalmente caduto sulla carreggiata mediante il segnale di pericolo, quando non può essere visto nettamente a 100 metri di distanza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Di notte, quando mancano o sono insufficienti le luci posteriori di posizione o di emergenza, è obbligatorio presegnalare il veicolo fermo con il segnale triangolare mobile di pericolo anche nei centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Di notte, quando mancano o sono insufficienti le luci posteriori di posizione, è obbligatorio presegnalare velocipedi, ciclomotori e motocicli fermi con il segnale triangolare mobile di pericolo anche nei centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto sul carico accidentalmente caduto sulla carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata in modo che sia visibile ad una distanza di almeno 50 metri dai veicoli sopraggiungenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto sulla corsia occupata dal veicolo fermo o dal carico caduto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata ad almeno un metro dal bordo esterno di essa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso di carreggiata a più corsie, il segnale mobile triangolare di pericolo deve essere posto sulla corsia immediatamente a sinistra del veicolo fermo o del carico caduto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata ad almeno un metro dalla striscia di separazione dei sensi di marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante le operazioni di presegnalazione con il segnale mobile di pericolo il conducente deve rendersi visibile indossando il giubbotto o le bretelle retroriflettenti ad alta visibilità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il giubbotto o le bretelle retroriflettenti ad alta visibilità da usare durante le operazioni di presegnalazione con il segnale mobile di pericolo devono essere di tipo approvato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante le operazioni di presegnalazione con il segnale mobile di pericolo il conducente deve indossare il giubbotto ad alta visibilità anche se si trova sulle corsie di emergenza o sulle piazzole di sosta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per effettuare le operazioni di presegnalazione con il segnale mobile di pericolo è vietato al conducente scendere dal veicolo e circolare sulla strada senza indossare il giubbotto ad alta visibilità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante le operazioni di presegnalazione con il segnale mobile di pericolo è facoltativo l'uso del giubbotto o delle bretelle retroriflettenti ad alta visibilità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante le operazioni di presegnalazione con il segnale mobile di pericolo il conducente non deve indossare il giubbotto ad alta visibilità se si trova sulle corsie di emergenza o sulle piazzole di sosta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve indossare il giubbotto ad alta visibilità di notte, anche nei centri abitati, qualora debba fermarsi sulla carreggiata perché il suo veicolo ha un guasto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di velocipedi, ciclomotori, motocicli di cilindrata inferiore a 150 cm3",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di autovetture che non sono in grado di sviluppare per costruzione la velocità in piano di almeno 80 km/h",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di macchine agricole",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli con carico disordinato e non solidamente assicurato o sporgente oltre i limiti consentiti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli a tenuta non stagna e con carico scoperto, se trasportano materiali che possono disperdersi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli le cui condizioni di uso, equipaggiamento e gommatura possono costituire pericolo per la circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di autobus per trasporto di studenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è consigliabile evitare la circolazione di veicoli a tenuta non stagna e con carico scoperto, se trasportano materiali che possono disperdersi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli che trasportano animali vivi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sono ammessi a circolare su autostrade e strade extraurbane principali i ciclomotori che sviluppano una velocità di almeno 50 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sono ammesse a circolare su autostrade e strade extraurbane principali le macchine agricole, non trainanti un rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sono ammessi a circolare su autostrade e strade extraurbane principali i veicoli non muniti di pneumatici, se assicurati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di pedoni e animali, ad eccezione delle aree di servizio e delle aree di sosta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle aree di servizio e nelle aree di sosta delle autostrade e delle strade extraurbane principali gli animali possono circolare solo se debitamente custoditi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lungo le corsie di emergenza delle autostrade i pedoni possono transitare solo per raggiungere i punti per le richieste di soccorso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In autostrada, il traino di veicoli in avaria su carreggiate, rampe, svincoli, aree di servizio o di parcheggio è consentito solo ai veicoli di soccorso autorizzati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali è vietata la circolazione di pedoni e animali, anche nelle aree di servizio e nelle aree di sosta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle aree di servizio e nelle aree di sosta delle autostrade e delle strade extraurbane principali gli animali non possono circolare neppure se debitamente custoditi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe, sugli svincoli, sulle aree di servizio o di parcheggio e in ogni altra pertinenza autostradale è vietato richiedere o concedere passaggi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle aree di servizio o di parcheggio delle autostrade e in ogni altra pertinenza autostradale è possibile svolgere attività commerciali solo se autorizzate dall'ente proprietario della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe, sugli svincoli, sulle aree di servizio o di parcheggio e in ogni altra pertinenza autostradale è consentito campeggiare, solo nelle aree a ciò destinate e per il periodo stabilito dall'ente proprietario della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle aree di servizio delle autostrade, il conducente non deve lasciare in sosta il veicolo per più di 24 ore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle autostrade è consentito concedere passaggi a persone invalide",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle aree di servizio delle autostrade o di parcheggio è consentito chiedere e concedere passaggi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle aree di servizio o di parcheggio delle autostrade e delle strade extraurbane principali è consentito campeggiare",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle aree di servizio e di parcheggio delle autostrade la durata massima per la sosta di un veicolo è di tre ore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia sulle autostrade e strade extraurbane principali è obbligatorio l'uso dei proiettori anabbaglianti anche di giorno",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia sulle autostrade e strade extraurbane principali l'uso dei proiettori anabbaglianti è facoltativo in condizioni di perfetta visibilità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali è vietato invertire il senso di marcia e attraversare lo spartitraffico, anche all'altezza dei varchi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali è vietato percorrere la carreggiata o parte di essa nel senso di marcia opposto a quello consentito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali è vietato effettuare la retromarcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' consentito circolare sulle corsie per la sosta di emergenza delle autostrade e strade extraurbane principali per arrestarsi per avaria del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle corsie per le soste di emergenza delle autostrade è vietato effettuare la retromarcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali il conducente può invertire il senso di marcia adottando tutti gli accorgimenti necessari",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali il conducente può invertire il senso di marcia in casi di particolare emergenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali il conducente può procedere in senso contrario al normale flusso del traffico, per brevi tratti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e strade extraurbane principali il conducente può utilizzare la corsia di emergenza se il traffico è intenso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali il conducente che percorre la corsia di accelerazione deve dare la precedenza ai veicoli in circolazione sulle corsie di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali, per uscire dalla carreggiata il conducente deve impegnare per tempo la corsia di destra, e quindi immettersi nella corsia di decelerazione dal suo inizio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali il conducente deve segnalare tempestivamente il cambiamento di corsia servendosi degli indicatori di direzione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di ingorgo su strade extraurbane principali o autostrade, se la corsia di emergenza manca o non è sufficiente alla circolazione dei veicoli di polizia o di soccorso, il conducente del veicolo che occupa la prima corsia di destra deve disporsi il più vicino possibile alla striscia di sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di ingorgo il conducente può transitare sulla corsia per la sosta di emergenza solo per uscire dall'autostrada, a partire dal cartello di preavviso di uscita posto a 500 metri dallo svincolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali, per uscire dalla carreggiata il conducente può immettersi nella corsia di decelerazione anche nel tratto successivo al suo inizio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali se il traffico non è intenso il conducente non ha l'obbligo di servirsi degli indicatori di direzione per segnalare il cambiamento di corsia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle autostrade e sulle strade extraurbane principali è consentita la marcia per file parallele anche in assenza di traffico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade è consentito sostare solo in situazioni di emergenza dovute a malessere del conducente o dei passeggeri oppure ad inefficienza del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade è consentito, nel caso di malessere di un passeggero, fermarsi sulla corsia per la sosta di emergenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade la sosta di emergenza non deve superare il tempo strettamente necessario e non deve protrarsi comunque oltre tre ore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di malessere di un passeggero durante la circolazione sulla carreggiata autostradale, è consentito fermarsi sulla corsia per la sosta di emergenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade è vietato sostare o fermarsi, in caso di malessere dei passeggeri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade la sosta di emergenza non deve superare il tempo strettamente necessario e può protrarsi fino a 24 ore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In autostrada è vietato dare un passaggio ad un automobilista fermo per avaria del veicolo sulla corsia di emergenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Qualora il conducente veda un automobilista fermo con veicolo in avaria in autostrada, lo deve accompagnare fino alla stazione di servizio più vicina",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Qualora il conducente veda un automobilista fermo per avaria del veicolo in autostrada, si deve fermare a prestare soccorso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Qualora il conducente veda un automobilista fermo per avaria del veicolo in autostrada, se lo ha superato può retrocedere con prudenza per soccorrerlo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Qualora il conducente veda un automobilista fermo in autostrada per avaria del veicolo può trainare prudentemente il veicolo, fino al primo casello di uscita",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Tutti i passeggeri dei veicoli a motore devono prendere posto in modo da non limitare la libertà del conducente e da non impedirgli la visibilità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il numero massimo di posti sulle autovetture è indicato sulla carta di circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sui veicoli è consentito il trasporto di un animale domestico, comunque in condizione da non costituire impedimento o pericolo per la guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sui veicoli è consentito il trasporto di animali domestici anche in numero superiore ad uno, purché custoditi in gabbia o nel vano posteriore, appositamente diviso da rete",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il numero delle persone trasportabili sulle autovetture indicato sulla carta di circolazione non comprende il conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il numero delle persone trasportabili sulle autovetture può raggiungere il massimo di dieci",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sui veicoli è consentito il trasporto di cani anche in numero superiore ad uno, purché adeguatamente trattenuti al guinzaglio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sui motocicli è vietato il trasporto di minori di anni 5",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato ai conducenti di motocicli trainare e farsi trainare da altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sui motocicli è vietato trasportare oggetti che non siano solidamente assicurati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sui motocicli è vietato trasportare oggetti che impediscano o limitino la visibilità al conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sui motocicli è possibile trasportare un passeggero solo se quest'ultimo è maggiorenne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito ai motocicli farsi trainare, ma solo da autovetture",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sui motocicli è vietato trasportare oggetti che sporgano longitudinalmente rispetto alla sagoma del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il carico dei veicoli deve essere sistemato in modo da evitarne la caduta o la dispersione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico dei veicoli deve essere sistemato in modo da non diminuire la visibilità al conducente né impedirgli la libertà dei movimenti nella guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico dei veicoli deve essere sistemato in modo da non compromettere la stabilità del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico dei veicoli deve essere sistemato in modo da non mascherare dispositivi di illuminazione e di segnalazione visiva né le targhe di riconoscimento e i segnali fatti col braccio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico del veicolo deve essere sistemato in modo da evitarne la caduta o la dispersione solo se il conducente deve condurre il veicolo su strada extraurbana",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il carico dei veicoli deve essere sistemato in modo da non mascherare dispositivi di illuminazione e di segnalazione visiva soltanto durante la circolazione notturna",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il carico non deve superare il limite di sagoma stabilito per ogni tipo di veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sugli autoveicoli, il carico non può sporgere longitudinalmente dalla parte anteriore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico può sporgere longitudinalmente dalla parte posteriore, se costituito da cose indivisibili, fino ai 3/10 della lunghezza dell'autoveicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sugli autoveicoli possono essere trasportate cose che sporgono lateralmente fuori della loro sagoma non più di 30 centimetri dalle luci di posizione anteriori e posteriori (comunque entro i limiti massimi di sagoma)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' vietato trasportare o trainare cose che strisciano sul terreno, anche se in parte sostenute da ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se il carico sporge oltre la sagoma del veicolo, il conducente deve adottare tutte le cautele idonee ad evitare pericolo agli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico deve essere sistemato sul veicolo in modo da segnalarne la sporgenza posteriore con il pannello retroriflettente in figura",
+      "isCorrect":false,
+      "image":"pannello_veicoli.png"
+   },
+   {
+      "question":"Il carico può sporgere lateralmente, se costituito da cose indivisibili, fino ai 3/10 della larghezza del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito trasportare o trainare cose che strisciano sul terreno se in parte sostenute da ruote",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La sporgenza longitudinale del carico, fino ai 3/10 della lunghezza del veicolo, deve essere segnalata mediante uno o due pannelli quadrangolari in figura",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello in figura deve essere applicato in ogni caso in cui il carico sporge posteriormente, anche se di poco",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello in figura segnala carichi indivisibili che sporgono dalla parte posteriore del veicolo",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Se il carico sporge longitudinalmente per l'intera larghezza della parte posteriore del veicolo, i pannelli in figura devono essere due, posti trasversalmente alle due estremità del carico",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"La sporgenza longitudinale del carico, fino ai 3/10 della lunghezza del veicolo, deve essere segnalata mediante uno o due pannelli in figura",
+      "isCorrect":false,
+      "image":"pannello_veicoli.png"
+   },
+   {
+      "question":"Il pannello in figura segnala carichi indivisibili che sporgono dalla parte posteriore destra",
+      "isCorrect":false,
+      "image":"passaggio_obbligatorio_veicoli_operativi.png"
+   },
+   {
+      "question":"Se il carico sporge longitudinalmente per l'intera larghezza della parte posteriore del veicolo, si devono applicare due pannelli retroriflettenti in figura",
+      "isCorrect":false,
+      "image":"pannello_retroriflettente.gif"
+   },
+   {
+      "question":"Il pannello arancione retroriflettente in figura segnala veicoli che stanno trasportando merci pericolose",
+      "isCorrect":true,
+      "image":"merci_pericolose.gif"
+   },
+   {
+      "question":"Il pannello in figura facilita l'individuazione dalla parte posteriore di autocarri con massa a pieno carico superiore a 3,5 tonnellate",
+      "isCorrect":true,
+      "image":"pannello_veicoli.png"
+   },
+   {
+      "question":"Il pannello giallo in figura posto nella parte posteriore del rimorchio individua un autotreno o un autoarticolato",
+      "isCorrect":true,
+      "image":"pannello_retroriflettente.gif"
+   },
+   {
+      "question":"Il pannello arancione retroriflettente riprodotto in figura è collocato posteriormente per segnalare carichi sporgenti pericolosi",
+      "isCorrect":false,
+      "image":"merci_pericolose.gif"
+   },
+   {
+      "question":"I pannelli in figura sono posti sulla carreggiata per segnalare un ostacolo",
+      "isCorrect":false,
+      "image":"pannello_veicoli.png"
+   },
+   {
+      "question":"Il pannello in figura deve essere applicato posteriormente agli autobus di massa totale superiore a 3,5 tonnellate",
+      "isCorrect":false,
+      "image":"pannello_retroriflettente.gif"
+   },
+   {
+      "question":"Nessun veicolo può trainare o essere trainato da più di un veicolo (salvo il caso di trasporti eccezionali)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un autoveicolo può trainare un veicolo che non sia un rimorchio se questo non può più circolare per avaria o per mancanza di organi essenziali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il traino per situazione di emergenza di un veicolo da parte di un altro deve avvenire attraverso un solido collegamento, come fune, catena, cavo, barra rigida, purché idoneamente segnalati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il traino per incombente situazione di emergenza di un veicolo in avaria deve avvenire attraverso un solido collegamento, purché idoneamente segnalato per rendere i veicoli chiaramente avvistabili dagli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Qualora, in situazione di emergenza, il conducente traini con il suo veicolo un altro veicolo senza rispettare le prescrizioni relative alla solidità del collegamento è punito con la sottrazione di 2 punti dalla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In autostrada, un autoveicolo può trainare un veicolo che non sia un rimorchio, se questo non può più circolare per qualsiasi grave motivo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il traino per incombente situazione di emergenza di un veicolo in avaria deve avvenire attraverso un solido collegamento, anche se non è possibile segnalarlo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante le operazioni di traino di un veicolo in avaria, il veicolo trainato deve mantenere accese le luci posteriori in mancanza di altra idonea segnalazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Qualora, in situazione di emergenza, il conducente traini con il suo veicolo un altro veicolo senza rispettare le prescrizioni relative alla solidità del collegamento è punito con la sottrazione di 4 punti dalla patente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un'autovettura deve considerare i rischi che, sulla strada, sono legati alla presenza di velocipedi, mezzi dotati di massa modesta e caratterizzati da basse velocità e possibili oscillazioni trasversali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un'autovettura o di un motociclo deve adattare la propria guida anche ai rischi legati alla presenza di velocipedi nel traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un'autovettura deve prestare particolare attenzione per la presenza nel traffico di velocipedi utilizzati da conducenti giovanissimi e inesperti o da anziani",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per un ciclista che si accinge ad effettuare una manovra è molto difficile valutare la velocità di avvicinamento dei veicoli a motore presenti nel traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un'autovettura deve prevedere la difficoltà di valutazione della velocità del proprio veicolo da parte di un ciclista che, trovandosi sulla stessa corsia di marcia, si accinge a svoltare a sinistra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve esercitare particolare prudenza guidando in presenza di ciclista anziano che, per ispezionare la strada alle proprie spalle, esegue con difficoltà e lentezza la torsione del busto a causa dell'età avanzata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La presenza nel traffico extraurbano di bambini in bicicletta, anche se affiancati, non rappresenta un rischio per chi guida un autoveicolo, data la loro modesta velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I ciclisti possono viaggiare in tutta sicurezza nel traffico extraurbano perché i conducenti dei veicoli a motore sono sempre capaci di prevedere eventuali loro cadute o pericolosi sbandamenti dovuti ad irregolarità del fondo stradale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La velocità di avvicinamento di un'autovettura, soprattutto su strade extraurbane, è facilmente valutabile a distanza da parte di un ciclista che procede lentamente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un'autovettura deve costantemente ricordare il rischio derivante dalla presenza nel traffico di ciclomotoristi dotati di limitata esperienza di guida a causa della giovane età",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La manovra di svolta a sinistra è particolarmente pericolosa per un ciclomotore che deve interferire con la traiettoria di una o più colonne di veicoli più veloci sopraggiungenti nella stessa direzione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di autoveicolo deve valutare con prudenza, in relazione alla propria velocità, la distanza che lo separa da un ciclomotorista che si accinge a svoltare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di autoveicolo deve prevedere manovre improvvise altrui, come il procedere a zig-zag di un ciclomotore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di autoveicolo o motoveicolo deve rispettare la distanza di sicurezza laterale da ciclisti o ciclomotoristi per evitare di metterne a repentaglio l'equilibrio nella guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di autoveicolo deve evitare deviazioni trasversali, anche modeste, del proprio veicolo soprattutto in presenza di ciclomotoristi o ciclisti per evitarne la possibile caduta a terra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di autoveicolo deve rispettare le norme della circolazione, ma non è tenuto a prevedere le possibili imprudenze del ciclomotorista che lo affianca sulla strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Risulta facile al conducente di un autoveicolo valutare la distanza che lo separa da un ciclomotorista che rallenta bruscamente per svoltare in una strada non sufficientemente segnalata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un'autovettura può superare a velocità sostenuta, pur rispettando i limiti, un ciclomotorista nonostante la scarsa distanza di sicurezza laterale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di autovettura deve conoscere i rischi derivanti dalla presenza, soprattutto su strade extraurbane, di mezzi particolarmente lenti, come ciclomotori a tre ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per un'autovettura che procede a velocità sostenuta, pur rispettando i limiti su strada extraurbana a due sole corsie, un ciclomotore a tre ruote costituisce un potenziale pericolo, soprattutto se effettua manovre improvvise",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per il conducente di un'autovettura che procede a velocità regolare su strada extraurbana, può risultare difficoltosa la valutazione della velocità di una macchina agricola che, in genere, procede lentamente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La presenza di veicoli che possono raggiungere velocità molto diverse tra loro, soprattutto su strada extraurbana, costituisce un fattore di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Risulta facile la valutazione dei tempi di avvicinamento ad un veicolo lento per un'autovettura che, specialmente su strada extraurbana, viaggia a velocità sostenuta pur rispettando i limiti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Risulta maggiormente pericolosa la collisione tra veicoli dotati di masse molto diverse tra loro",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Guidando una piccola autovettura è necessario valutare i maggiori rischi derivanti da possibili tamponamenti o collisioni con autovettura di massa superiore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un'autovettura dotata di notevole massa costituisce, nella circolazione, una garanzia di sicurezza anche per gli altri veicoli di dimensioni e di massa inferiori",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I veicoli sono tanto più sicuri, nella circolazione, quanto più le loro masse sono differenziate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le grandi differenze di prestazioni e di masse fra le autovetture facilitano una buona sicurezza stradale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un fuoristrada (Suv) deve guidare con la massima prudenza, consapevole che l'altezza e la massa del proprio veicolo costituiscono un potenziale pericolo per pedoni, ciclisti e autovetture di modeste dimensioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I conducenti dei fuoristrada (Suv) debbono considerare i gravi danni che i paraurti sporgenti e rafforzati del proprio mezzo possono determinare nel caso di impatto con veicoli più piccoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di fuoristrada (Suv) deve ricordare che la guida di tale veicolo è particolarmente impegnativa in città e che richiede particolari cautele soprattutto nelle manovre di emergenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La guida di un fuoristrada (Suv), dotato di massa notevole e di altezza superiore alle autovetture, garantisce la massima sicurezza per gli occupanti del veicolo stesso e per gli altri utenti della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel caso di collisione o di tamponamento, i paraurti sporgenti e rafforzati (bull bars) rendono i fuoristrada meno pericolosi per gli altri veicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La guida di un fuoristrada (Suv) risulta particolarmente indicata all'interno dei centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Alla guida di un'autovettura è opportuno valutare costantemente la potenziale pericolosità dei veicoli industriali e degli autobus, a causa della loro massa notevolmente maggiore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di motociclo o di autovettura deve saper valutare nella guida gli alti rischi derivanti da autocarri, autotreni o autoarticolati che non rispettano i limiti di velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Autocarri, autotreni e autoarticolati, per la loro massa notevole, non costituiscono, per un'autovettura o per un motociclo, rischi potenziali maggiori rispetto a qualsiasi altro veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nonostante le caratteristiche costruttive del veicolo rendano possibile un adeguato campo di visibilità, durante la guida il conducente deve attentamente visualizzare l'area antistante e limitrofa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per il conducente il campo di visibilità può essere ridotto sia da uno dei poggiatesta sia da elementi della carrozzeria della propria autovettura che possono impedire accidentalmente l'avvistamento di altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per consentire una adeguata visibilità è vietato applicare pellicole adesive sul parabrezza e sui vetri laterali anteriori dei veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I pedoni e soprattutto i bambini rischiano di rimanere fuori dal campo visivo del conducente di un veicolo fuoristrada (Suv) a causa delle dimensioni del mezzo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente può limitarsi ad un controllo visivo affrettato dell'area immediatamente antistante il veicolo poiché il suo mezzo dispone per costruzione di un adeguato campo di visibilità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' consentito applicare sui vetri laterali anteriori e sul parabrezza pellicole adesive, a condizione che siano di materiale rimovibile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I veicoli fuoristrada presentano un'altezza tale da permettere al conducente una adeguata visibilità di tutti i possibili ostacoli in basso (ad esempio, bambini)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Prima di riprendere la marcia, il conducente di un autocarro deve prestare particolare attenzione alla possibile presenza di un pedone o di un ciclista nella zona immediatamente antistante il proprio veicolo fermo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un autocarro fermo al semaforo deve prevedere la presenza di pedoni e ciclisti il cui avvistamento è precluso dalla sagoma del proprio veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La limitata visuale offerta dal parabrezza degli autocarri nella zona immediatamente antistante il veicolo rende pericolosa la fermata di tali mezzi in colonna, qualora siano presenti pedoni o mezzi a due ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il campo di visibilità degli autocarri permette il controllo sicuro di tutta la zona immediatamente antistante e laterale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Un pedone può attraversare la strada in tutta sicurezza passando a distanza ravvicinata rispetto alla parte frontale di un autocarro fermo in colonna che sta per ripartire, in quanto sicuramente avvistabile dal conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando stanno per riprendere la marcia dopo un arresto al semaforo, i conducenti di autocarri possono facilmente avvistare pedoni o ciclisti che affiancano e sfiorano la parte anteriore dei propri veicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il giubbotto o le bretelle retroriflettenti ad alta visibilità possono sostituire, in ogni caso, il triangolo mobile di pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il giubbotto o le bretelle retroriflettenti ad alta visibilità possono essere solo di colore giallo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il giubbotto retroriflettente ad alta visibilità protegge il conducente anche da rischi chimici, calore, fuoco ed elettricità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"All'interno del veicolo bisogna tenere giubbotti o bretelle retroriflettenti ad alta visibilità, in numero pari a quello dei posti disponibili",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'obbligo di indossare il giubbotto ad alta visibilità si ha quando si sosta fuori dai centri abitati, mentre le bretelle retroriflettenti vanno indossate nelle aree urbane",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il giubbotto retroriflettente ad alta visibilità serve per chiedere aiuto agli automobilisti in transito",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il giubbotto retroriflettente ad alta visibilità è utile solo quando si deve sostituire una ruota forata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico in pericolo di cadere, è opportuno aumentare la distanza di sicurezza, specie se si è in salita",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che ha un carico instabile, è opportuno aumentare la distanza di sicurezza e sorpassarlo appena possibile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, è opportuno avvertire il conducente del potenziale pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che ha un carico poco sicuro, conviene non stargli troppo vicino, così da riuscire a fermarsi in tempo, in caso di caduta della merce trasportata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che ha un carico instabile, bisogna stare attenti, soprattutto quando frena o svolta, per la possibile caduta della merce trasportata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che ha un carico sporgente, può risultare difficile accorgersi che intende svoltare, se gli indicatori di direzione sono nascosti dalla merce penzolante",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, conviene stringersi il più vicino possibile al margine sinistro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico poco sicuro, conviene spostarsi lungo il margine sinistro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, conviene sorpassarlo subito, anche se in curva",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, conviene arrestarsi bruscamente, ripartendo solo quando gli altri veicoli ci abbiano superato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Circolando dietro ad un veicolo che trasporta un carico instabile, bisogna diminuire la distanza di sicurezza, in modo che gli altri veicoli rinuncino al sorpasso, non essendovi spazio sufficiente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Trainare un rimorchio su strade con forti salite fa aumentare la temperatura del liquido di raffreddamento del motore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se si traina un rimorchio aumenta lo spazio di frenatura",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Trainando un rimorchio leggero, bisogna considerare che è maggiore la forza ribaltante esercitata dal vento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per una maggiore sicurezza, è consigliabile che nel rimorchio il carico venga sistemato in modo che gli oggetti pesanti si trovino il più vicino possibile al suo asse",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Alla guida di un veicolo con rimorchio, nello svoltare a destra, bisogna fare particolare attenzione a non salire con la ruota posteriore sul marciapiede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando un veicolo guasto, munito di servosterzo, viene trainato, può risultare faticoso manovrare lo sterzo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di trainare un rimorchio, è opportuno accertarsi che gli impianti di illuminazione e di segnalazione funzionino regolarmente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di iniziare a trainare un rimorchio, bisogna controllare dagli specchi retrovisori che la visibilità sia adeguata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando i rimorchi sono staccati dalla motrice, devono avere una copertura assicurativa che vale anche per il rischio statico (da fermo)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I rimorchi trainati da autovetture sono muniti, in genere, di freno ad inerzia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I rimorchi devono avere targa propria",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per garantire una maggiore sicurezza durante la guida di un veicolo con rimorchio, è consigliabile concentrare il carico massimo in corrispondenza del gancio di traino",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per poter trainare un rimorchio non occorre effettuare il collegamento elettrico fra motrice e rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per guidare un'autovettura che traina un veicolo guasto, con conducente a bordo, occorre la patente di guida della categoria E",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente a bordo di un veicolo guasto, che viene trainato, può essere privo di patente di guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un veicolo guasto viene trainato con le quattro ruote al suolo, occorre inserire la quarta marcia del cambio di velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli organi di traino di un veicolo non devono essere periodicamente lubrificati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli organi di traino di un veicolo possono non essere omologati, purché vengano trainati rimorchi di massa inferiore a 750 chilogrammi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si traina un veicolo guasto, munito di servosterzo, lo sterzo risulterà sempre bloccato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Trainando un rimorchio nelle forti discese, non occorre tener conto della forza di spinta esercitata dal rimorchio sulla motrice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per trainare un rimorchio leggero non occorre effettuare il collegamento elettrico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un veicolo guasto, occorre che la distanza fra i due veicoli sia di almeno 3 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio, bisogna considerare che nelle curve strette la fascia di ingombro è minore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il numero di persone trasportabili sui veicoli è indicato sulla carta di circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il numero massimo di posti delle autovetture è pari a nove, compreso quello del conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il numero di persone trasportabili sulle autovetture può essere al massimo di nove, compreso il conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il numero dei posti di un veicolo è indicato sulla carta di circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il numero di persone trasportabili sui motocicli è sempre di due, oltre il conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il numero di persone trasportabili sulle autovetture è al massimo di quattro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il numero di persone trasportabili sugli autocarri è sempre di cinque, compreso il conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il numero di persone trasportabili su un veicolo, riportato sulla carta di circolazione, non comprende il conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il pannello raffigurato deve essere messo all'estremità del carico che sporge dietro al veicolo",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato segnala dei carichi che sporgono dalla parte posteriore del veicolo",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato deve essere retroriflettente",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato va usato nel caso in cui il carico sporga dietro al veicolo, anche se di poco",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato può essere messo sui veicoli guasti, quando vengono trainati e non funzionano le luci di emergenza",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato deve essere sistemato all'estremità del carico sporgente dal veicolo, in modo che sia sempre ben visibile",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato invita i conducenti che stanno dietro al veicolo su cui è applicato, a circolare con particolare prudenza",
+      "isCorrect":true,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato si usa solo se il carico sporge di oltre tre decimi della lunghezza del veicolo",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato va messo anche di lato, quando il carico sporge oltre la larghezza del veicolo",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato identifica gli autocarri specializzati per il trasporto di materiali da costruzione",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato va messo sui veicoli che trasportano la spazzatura",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato va messo sui veicoli, solo se il carico sporge di almeno 50 centimetri",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato va messo dietro a tutti gli autocarri",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Il pannello raffigurato può essere sostituito da una bandiera di colore rosso, delle dimensioni di 50x50 centimetri",
+      "isCorrect":false,
+      "image":"pannello_carichi_sporgenti.gif"
+   },
+   {
+      "question":"Nei caravan, per ridurre il rischio di ribaltamento in curva, occorre sistemare il carico degli oggetti pesanti in modo da mantenere il baricentro il più basso possibile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei caravan, per ridurre il rischio di ribaltamento in curva, occorre sistemare il carico in modo il più possibile equilibrato tra lato destro e sinistro",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il caravan non è considerato un rimorchio perché può essere adibito ad alloggio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ possibile alloggiare nei caravan (roulotte) durante la circolazione, purché tutti i passeggeri allaccino le cinture di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel rimorchio è presente un dispositivo di sicurezza che, in caso di sganciamento accidentale, aziona automaticamente il freno di stazionamento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei rimorchi con freno a inerzia, dopo un prolungato periodo di inattività, i freni potrebbero aver perso efficienza a causa della ruggine",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si lascia un rimorchio in sosta occorre azionare la leva del freno di stazionamento e, in caso di strada in pendenza, è opportuno applicare dei cunei di arresto alle ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La frenatura del rimorchio dotato di freno a inerzia non avviene simultaneamente a quella della motrice, in quanto l'azionamento si ha solo dopo che il rimorchio ha esercitato una spinta sulla motrice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In un rimorchio dotato di freno a inerzia l’effetto della frenata avviene quando il rimorchio si avvicina alla motrice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Alla guida di un veicolo con rimorchio, durante una frenata in marcia rettilinea, il carico trasportato tenderà a spostarsi all’indietro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Alla guida di un veicolo con rimorchio, durante una brusca accelerazione in marcia rettilinea, il carico trasportato tenderà a spostarsi in avanti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle autovetture dotate di A.B.S. non è possibile agganciare un rimorchio privo di impianto frenante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei rimorchi dotati di freno a inerzia la frenatura del rimorchio avviene simultaneamente a quella della motrice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei rimorchi dotati di freno a inerzia il rimorchio frena circa un secondo prima della motrice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei centri abitati il conducente non deve lasciare in sosta un rimorchio staccato dalla motrice, salvo diversa segnalazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la circolazione, i rimorchi devono essere assicurati con la stessa polizza della motrice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli specchietti esterni montati sulla motrice non devono sporgere oltre 20 centimetri dalla sagoma del veicolo (motrice o rimorchio), con riferimento al punto di maggiore larghezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il rapporto di traino, entro i limiti di quello tecnicamente ammesso per il veicolo, non deve superare il valore di 1, nel caso di rimorchi muniti di freno di servizio e di massa fino a 3,5 tonnellate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il massimo rapporto di traino per un rimorchio sprovvisto di qualsiasi dispositivo di frenatura è di 0,5",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando il gancio di traino non viene utilizzato, perché non si sta trainando un rimorchio, la sua parte sporgente dalla sagoma posteriore del veicolo deve essere sfilata, smontata o ripiegata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I rimorchi T.A.T.S. sono destinati al trasporto di attrezzature che non devono costituire oggetto di commercio, ma essere impiegate solo per il tempo libero",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I conducenti di autoveicoli trainanti un rimorchio, quando la massa complessiva a pieno carico del complesso veicolare è superiore a 3,5 tonnellate, sono considerati in stato di ebbrezza qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a zero grammi per litro",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle autostrade con carreggiate a tre o più corsie, ai conducenti di complessi di veicoli di lunghezza totale superiore a 7 metri, è vietato impegnare altre corsie all’infuori delle due più vicine al bordo destro della carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la circolazione, i rimorchi con massa massima a pieno carico fino a 3,5 tonnellate, devono essere segnalati con strisce posteriori e laterali retroriflettenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' possibile trainare rimorchi non immatricolati, se di massa inferiore ai 750 chilogrammi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rimorchio si considera parte integrante del veicolo se ha una massa fino a 3,5 tonnellate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La larghezza del rimorchio non deve superare quella del veicolo trainante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rimorchio è parte integrante del veicolo a cui è stato abbinato in fase di collaudo e non può essere agganciato a un altro veicolo  ",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si trainano caravan e rimorchi T.A.T.S. non è obbligatorio che il veicolo trainante sia munito di specchietto retrovisore destro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli specchietti esterni montati sulla motrice possono sporgere fino a 50 centimetri dalla sagoma del veicolo di maggiore ingombro, qualora siano posizionati ad un’altezza da terra non superiore a 1 metro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nel rispetto della larghezza massima stabilita per i rimorchi T.A.T.S., le imbarcazioni trasportate possono sporgere fino a 50 centimetri per ogni lato rispetto ai bordi esterni delle luci di posizione posteriori",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il titolare di patente di guida della categoria BE che, successivamente, consegue la patente della categoria C, può guidare anche veicoli della categoria CE",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per i complessi di veicoli con rimorchi fino a 3,5 tonnellate di massa, non vige l'obbligo di apporre nella parte posteriore i contrassegni indicanti i limiti massimi di velocità specifici loro imposti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio per trasporto di animali vivi occorre tenere in funzione la segnalazione luminosa di pericolo per segnalare agli altri conducenti di aumentare la distanza di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio occorre staccare la targa della motrice e applicarla nella parte posteriore del rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se nella carta di circolazione manca il valore della massa rimorchiabile, ciò significa che il veicolo è atto al traino di rimorchi di qualsiasi massa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I rimorchi devono essere sottoposti a revisione periodica insieme al veicolo trainante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sui rimorchi, il carico trasportato può sporgere dalla parte anteriore fino ai 3/10 della lunghezza del complesso dei veicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sui rimorchi leggeri, il carico trasportato può sporgere posteriormente senza obbligo di specifiche segnalazioni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I rimorchi per il trasporto di cavalli (van) non possono circolare in autostrada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Alla guida di un veicolo con rimorchio, nello svoltare a destra, bisogna fare particolare attenzione a non investire, con la ruota posteriore destra, eventuali pedoni che si trovino vicino al marciapiede",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio, bisogna considerare che nelle curve la fascia di ingombro è maggiore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Trainando un rimorchio nelle forti discese, occorre tener conto della forza di spinta esercitata dal rimorchio sulla motrice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio, specie se carico, si ha una sensibile riduzione della capacità di accelerazione (ripresa) del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Prima di effettuare qualsiasi manovra con il rimorchio agganciato è bene accertarsi che non vi siano cose e/o persone nel raggio di manovra del complesso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle curve il rimorchio tende a “stringere” perché percorre una traiettoria circolare con raggio inferiore alla motrice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I movimenti del liquido che si verificano all’interno di un serbatoio vincolato ad un rimorchio durante i cambiamenti di direzione, in frenata e in accelerazione, sono le maggiori cause di instabilità dei complessi di veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Trainando un rimorchio occorre verificare che il carico gravante sul gancio non alteri l’assetto del veicolo e l’inclinazione del fascio luminoso dei fari",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nell’affrontare una curva a velocità moderata il rimorchio compie sempre lo stesso percorso fatto dalla motrice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, il rimorchio deve avere il ruotino pivottante di manovra abbassato (poggiato al suolo)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, il rimorchio deve avere il ruotino pivottante di manovra abbassato (poggiato al suolo)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di sensori di parcheggio non è possibile agganciare un rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Trainare un rimorchio non comporta un aumento dei consumi di carburante se si marcia a velocità moderata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le parti meccaniche in movimento degli organi di traino di un autoveicolo e di un rimorchio devono essere mantenute pulite e adeguatamente lubrificate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli organi di traino di un veicolo non devono presentare giochi, deformazioni o incrinature",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli organi di traino di un veicolo devono consentire sufficienti oscillazioni in senso verticale tra motrice e rimorchio, in modo da poter compensare le diverse inclinazioni dei veicoli dovute ai dislivelli stradali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio occorre verificare che il carico verticale gravante sul gancio non ecceda il limite indicato dal costruttore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il carico verticale massimo che può gravare sul gancio della motrice è indicato in un’ apposita targhetta applicata sul gancio di traino",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli organi di traino di un veicolo non necessitano di lubrificazione, ma devono essere periodicamente sgrassati con appositi detergenti o con benzina",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli organi di traino di un veicolo possono non essere di tipo omologato, se destinati solo al traino di rimorchi leggeri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per poter trainare un rimorchio leggero non occorre effettuare il collegamento elettrico fra motrice e rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di rottura degli organi di traino di un veicolo, gli stessi possono essere riparati tramite saldatura presso officina specializzata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per garantire una maggiore sicurezza durante la guida di un veicolo con rimorchio, è consigliabile concentrare il carico massimo in corrispondenza del gancio di traino",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente di un veicolo con rimorchio deve sistemare la merce trasportata in modo che, durante la marcia, non si verifichino spostamenti, rovesciamenti, cadute o sfregamenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di prolungata inattività del rimorchio è consigliabile, se non è possibile sollevarlo da terra, aumentare la pressione di gonfiaggio degli pneumatici e cambiare periodicamente la loro superficie di appoggio, in modo da evitare la loro ovalizzazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui il rimorchio rimanga inattivo per lungo tempo è consigliabile, se possibile, mantenere gli pneumatici sollevati da terra, applicando appositi sostegni sotto al telaio",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si traina un rimorchio, la pressione di gonfiaggio degli pneumatici del veicolo trainante deve essere la stessa degli pneumatici del rimorchio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale si libera dall'obbligo se risarcisce il danneggiato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può accordarsi con il danneggiato circa il valore del risarcimento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può far riparare il proprio autoveicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può farsi assistere da un consulente d'infortunistica stradale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può, in alternativa, chiedere che la propria patente di guida sia revocata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale si libera da ogni forma di responsabilità penale pagandone l'ammontare del danno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale è soggetto alle pene previste dal Codice Penale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale è tenuto al risarcimento dei danni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale qualora abbia violato norme del Codice della strada è anche soggetto alle relative sanzioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale può incorrere nella sospensione della patente di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale può incorrere nella revoca della patente di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale può incorrere nella revisione della patente di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale è sempre soggetto all'arresto preventivo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale non può continuare a guidare veicoli della stessa categoria, ma solo di categoria inferiore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale è in ogni caso assoggettato alla revoca della patente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi è penalmente e civilmente responsabile di un sinistro stradale non è assoggettato alle sanzioni del codice della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale è esclusa quando vi siano danni involontari alle sole cose",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale è esclusa quando il fatto non sia considerato un reato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale è esclusa quando il fatto dipende da causa di forza maggiore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale è esclusa quando si sia prestato soccorso alla vittima",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale è esclusa ogni qualvolta ci sia stato il risarcimento del danno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale è esclusa qualora intervenga l'impresa di assicurazione che risarcisca adeguatamente il danneggiato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge qualora esso provochi lesioni gravi a persone",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge anche in caso di omicidio colposo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge allorché vengano violate norme contemplate dal Codice Penale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge in ogni caso in cui sia violato il Codice della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge quando il veicolo vada completamente distrutto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge in tutti i casi di danni alle persone o alle cose",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità penale connessa al sinistro stradale sorge nei confronti del proprietario del veicolo se il conducente non è stato identificato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale consiste nell'obbligo di risarcire i danni causati sia alle persone che alle cose",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale grava sul proprietario e sul conducente del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale obbliga il responsabile al risarcimento del danno",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale è indipendente dalla responsabilità penale e dalla responsabilità amministrativa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale è basata sul principio che ogni danno causato deve essere risarcito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale è esclusa in caso di morte del danneggiato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale si limita al risarcimento dei danni alle sole cose",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale è esclusa per danni di lieve entità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale è aggravata dalla mancata copertura assicurativa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità civile connessa al sinistro stradale grava sull'impresa assicuratrice anche per danni superiori ai massimali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione obbligatoria RCA copre i danni subiti dai terzi trasportati se il veicolo è autorizzato al trasporto di persone",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione obbligatoria RCA copre i danni subiti da persone e/o cose che si trovano in aree pubbliche o aperte al pubblico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il risarcimento diretto nei sinistri stradali si applica se vi sono danni al veicolo e lesioni di lieve entità al conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La procedura di risarcimento diretto non è applicabile se vi sono più di due veicoli coinvolti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il risarcimento diretto è escluso se nel sinistro è coinvolto un motociclo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di sinistro con danni al veicolo, la richiesta di risarcimento diretto deve essere obbligatoriamente corredata di fotografie",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione obbligatoria copre i danni subiti solo da terzi trasportati sui taxi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità per danni connessi alla circolazione dei veicoli è a carico del conducente e del proprietario del veicolo, se si tratta di responsabilità civile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità per danni connessi alla circolazione dei veicoli è a carico del conducente del veicolo, se si tratta di responsabilità penale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità per danni connessi alla circolazione dei veicoli non è a carico del proprietario del veicolo se prova che la circolazione è avvenuta contro la sua volontà",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La responsabilità per danni connessi alla circolazione dei veicoli è a carico del proprietario del veicolo, se si tratta di responsabilità penale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La responsabilità per danni connessi alla circolazione dei veicoli è a carico solo del conducente del veicolo se ci sono stati danni alle cose",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È vietato utilizzare il veicolo privo di copertura assicurativa sulle strade pubbliche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità si incorre in una sanzione se si circola o si lascia in sosta il veicolo sulle strade pubbliche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità si può incorrere nella confisca del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità si può continuare a usare il veicolo solo per brevi tragitti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità si può utilizzare il veicolo solo sul territorio italiano",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità è possibile lasciare il veicolo in sosta sulle strade pubbliche",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità, il veicolo deve essere sottoposto a collaudo tecnico prima di essere rimesso in circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando l'assicurazione per la responsabilità civile auto è scaduta di validità è possibile continuare ad usare il veicolo, solo se si è disposti a pagare personalmente gli eventuali danni arrecati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il 'fondo di garanzia per le vittime della strada' prevede il risarcimento dei danni arrecati alle persone da veicoli non coperti da assicurazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il 'fondo di garanzia per le vittime della strada' prevede il risarcimento dei danni arrecati alle persone da veicoli non identificati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il 'fondo di garanzia per le vittime della strada' garantisce un vitalizio al conducente infortunato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il 'fondo di garanzia per le vittime della strada' è un premio per chi non ha provocato incidenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il 'fondo di garanzia per le vittime della strada' è una convenzione facoltativa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il 'fondo di garanzia per le vittime della strada' risarcisce i danni arrecati dai conducenti minorenni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le polizze assicurative stipulate di solito per coprire i danni da furto, incendio, atti vandalici, eventi naturali o danni al proprio veicolo (polizza kasko) non sono obbligatorie",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nella polizza assicurativa contro il rischio di furto o incendio, il risarcimento dovuto non può essere superiore al valore che il veicolo aveva al momento in cui è stato rubato o ha preso fuoco",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nel caso in cui il veicolo venga rubato in uno Stato estero, per poter attivare l'assicurazione bisogna ripetere la denuncia nello Stato italiano",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La polizza assicurativa contro il rischio di furto o incendio garantisce una rendita vitalizia al proprietario del veicolo, nel caso in cui venga rubato o prenda fuoco",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per poter stipulare una polizza assicurativa contro il rischio d'incendio occorre che il veicolo sia munito di apposito meccanismo staccabatteria automatico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per poter stipulare una polizza assicurativa contro il rischio di furto, occorre che il veicolo sia dotato di antifurto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le polizze assicurative contro il rischio d'incendio del veicolo coprono, normalmente, solo i danni causati da incendi dolosi (intenzionali) e non quelli provocati da incendi accidentali (casuali)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I massimali della polizza di assicurazione R.C.A. (responsabilità civile auto) sono gli importi massimi che l'impresa assicuratrice si impegna a pagare, in caso di incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La cifra minima dei massimali della polizza di assicurazione R.C.A. (responsabilità civile auto) viene stabilita dalla legge",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I massimali della polizza di assicurazione R.C.A. (responsabilità civile auto) possono essere aumentati, a scelta del cliente, pagando una maggiore somma di denaro (premio assicurativo)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I massimali della polizza di assicurazione R.C.A. (responsabilità civile auto ) sono le somme di denaro che l'impresa assicuratrice riscuote ogni anno dal proprio cliente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I massimali della polizza di assicurazione R.C.A. (responsabilità civile auto ) aumentano ogni anno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I massimali della polizza di assicurazione R.C.A. (responsabilità civile auto) vengono restituiti al cliente alla fine dell'anno, se non si causano incidenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nell'assicurazione per la responsabilità civile auto (R.C.A.), il contratto con la formula 'bonus malus' comporta una variazione annuale del premio di assicurazione, in base al numero di incidenti causati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La formula assicurativa 'bonus malus' non si applica per i motocicli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nell'assicurazione per la responsabilità civile auto (R.C.A.), il contratto con la formula 'bonus malus' viene automaticamente annullato se si provocano più di due incidenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nell'assicurazione per la responsabilità civile auto (R.C.A.), il contratto con la formula 'bonus malus' viene stabilito dal giudice",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) è valida anche per gli incidenti avvenuti nei Paesi dell'Unione Europea",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) copre anche la responsabilità penale in base al premio pagato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) copre anche le sanzioni amministrative pecuniarie, previste dal codice della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) copre ogni danno causato, anche se superiore al massimale stabilito",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) copre solo la responsabilità del conducente, ma non quella del proprietario del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) copre solo i danni arrecati alle persone, perché per i danni alle cose occorre un altro tipo di contratto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo la firma del contratto di assicurazione R.C.A. (responsabilità civile auto), l'impresa assicuratrice deve rilasciare al cliente il certificato di assicurazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.) è obbligatoria per legge",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il certificato di assicurazione obbligatoria deve essere sempre tenuto a bordo del veicolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Dopo la firma del contratto di assicurazione R.C.A. (responsabilità civile auto), l'impresa assicuratrice deve rilasciare al cliente un elenco delle autocarrozzerie convenzionate, da contattare in caso d'incidente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo la firma del contratto di assicurazione R.C.A. (responsabilità civile auto), l'impresa assicuratrice deve rilasciare al cliente un libretto sulle nozioni di pronto soccorso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo la firma del contratto di assicurazione R.C.A. (responsabilità civile auto), l'impresa assicuratrice deve rilasciare al cliente un manuale su come evitare incidenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assicurazione per la responsabilità civile auto (R.C.A.), obbligatoria per legge, comprende il risarcimento dei danni provocati dal veicolo, purché guidato dal proprietario",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente non deve mai sopravvalutare la propria abilità di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le norme di circolazione sono stabilite per garantire una maggior sicurezza di guida per tutti gli utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Concentrare la propria attenzione sulle indicazioni del navigatore satellitare può rappresentare un elemento di distrazione alla guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la guida il conducente deve prestare attenzione, sia a gli utenti che si trovano davanti al proprio veicolo, sia a coloro che si trovano ai bordi della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La presenza di passeggeri che schiamazzano a bordo del veicolo può influenzare la concentrazione del conducente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se non si è certi di attraversare in tutta sicurezza un incrocio, è necessario arrestarsi ed aspettare che transitino tutti i veicoli con cui vi può essere un pericolo di collisione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Parlare animosamente con altre persone a bordo del veicolo può influenzare negativamente il comportamento di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si può 'allenare' l'attenzione alla guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un conducente deve considerare che non sempre è in grado di valutare correttamente le proprie capacità di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si è alla guida, la capacità di attenzione può essere influenzata anche dall'ascolto di musica a volume molto alto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'ansia può ridurre la capacità di prestare attenzione ai pericoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il rispetto delle norme permette di limitare l'intralcio alla circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Utilizzare il cellulare alla guida è pericoloso perché riduce l'attenzione alla strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Impostare il navigatore satellitare mentre si guida riduce l'attenzione alla strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La distrazione durante la guida è una delle principali cause di incidenti stradali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'attenzione alla guida diminuisce quando si è affaticati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Utilizzare il cellulare alla guida, anche se con impianto viva-voce, può ridurre l'attenzione alla strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per prevenire il rischio di incidenti, il conducente dovrà valutare attentamente il comportamento degli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, la percezione di un pericolo e la conseguente reazione del conducente sono influenzate dalle condizioni ambientali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' pericoloso, durante la guida, distogliere lo sguardo dalla strada, anche per pochi millisecondi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il rispetto delle norme di circolazione permette di limitare i rischi connessi alla guida di tutti i veicoli, sia di quelli a motore, sia di quelli che ne sono privi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Distrarsi alla guida può causare incidenti stradali che possono comportare gravi conseguenze",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si attraversa un incrocio è necessario mantenere la massima concentrazione alla guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I nostri sensi non riescono a cogliere tutti gli stimoli presenti nell'ambiente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le emozioni influenzano la nostra attenzione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"A volte ci si espone a situazioni più rischiose di quelle che si è in grado di gestire",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente può distogliere lo sguardo dalla strada quando ritiene che non ci sia pericolo imminente di incidente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In prossimità di un incrocio un conducente può arrestarsi e, mentre attende il passaggio di altri veicoli, può inviare un rapido messaggio con il cellulare",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente che intende passare per primo in un incrocio deve sopraggiungervi più velocemente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, qualora il conducente ritenga non vi sia pericolo imminente, può comporre un numero di telefono con il cellulare, senza fermarsi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il comportamento degli altri utenti della strada è ininfluente per una guida sicura",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente può non tenere conto del comportamento degli altri utenti della strada, se questi ultimi non rispettano le regole del codice della strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, la percezione di un pericolo e la conseguente reazione del conducente non sono influenzate dalle condizioni ambientali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Un conducente deve sempre sottostimare le situazioni di pericolo per non farsi travolgere dall'ansia durante la guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve accogliere gli inviti dei passeggeri a guidare più velocemente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente deve concentrarsi prevalentemente sul tratto di strada non superiore a tre metri antistante il suo veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Mentre il veicolo è in marcia, il conducente può programmare il navigatore in qualsiasi momento",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo specchio retrovisore posto sul lato destro del veicolo deve essere utilizzato solo da conducenti esperti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli specchi retrovisori devono essere regolati mentre il veicolo è in movimento",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rispetto delle norme di circolazione è importante solo se la loro violazione comporta una sanzione economica elevata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rispetto delle norme di circolazione è importante per gli utenti deboli, ma non per i conducenti degli autoveicoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rispetto delle norme di circolazione è importante quando il traffico è molto intenso, ma non quando si è in condizioni di circolazione scorrevole",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il divieto di sorpasso può non essere osservato se si è in coda dietro a un veicolo lento da più di 10 minuti e si ritiene di poter sorpassare senza pericoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il rispetto della posizione sulla carreggiata è una norma secondaria che può, se del caso, non essere osservata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'attenzione alla guida è importante solo quando si compiono manovre pericolose quali, ad esempio, un sorpasso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Bere un liquore ad alta gradazione alcolica permette di migliorare l'attenzione dopo circa 10 minuti dall'ingestione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Sintonizzare manualmente l'autoradio non comporta perdita di attenzione alla strada, perché è un compito che si è abituati a svolgere",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si è stato di ebbrezza lieve, si riesce a guidare comunque in sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La quantità di attenzione che si può prestare alla strada mentre si guida è illimitata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Con 0,5 grammi per litro di alcool nel sangue si riesce a concentrarsi meglio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I nostri sensi riescono a cogliere tutti gli stimoli presenti nell'ambiente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I nostri sensi sono in grado di percepire stimoli di qualunque intensità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In condizioni di traffico intenso lo stress può aiutare il conducente a mantenersi vigile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'udito non è un senso importante quando si guida",
+      "isCorrect":false,
+      "image":""
    }
 ]  
