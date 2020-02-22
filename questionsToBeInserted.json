@@ -28556,5 +28556,2775 @@
       "question":"L'udito non è un senso importante quando si guida",
       "isCorrect":false,
       "image":""
+   },
+   {
+      "question":"E' opportuno, per il conducente che accusa segni di stanchezza, raggiungere la più vicina piazzola di sosta e riposare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' opportuno, per il conducente che accusa segni di stanchezza, avvicinarsi il più possibile al veicolo che lo precede nella marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' necessario che trascorrano alcune ore affinché un conducente che abbia assunto una quantità eccessiva di bevande alcoliche recuperi l'idoneità alla guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un conducente che ha assunto una quantità eccessiva di bevande alcoliche non può recuperare velocemente l'idoneità alla guida, specie se ha assunto anche dei farmaci",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un conducente che ha assunto una quantità eccessiva di bevande alcoliche può recuperare velocemente l'idoneità alla guida se assume cibi piuttosto salati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Un conducente che ha assunto una quantità eccessiva di bevande alcoliche può recuperare velocemente l'idoneità alla guida se assume caffè amaro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di alcuni farmaci sedativi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di farmaci antidepressivi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di allucinogeni (LSD, ecstasy, ecc.)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di bevande alcoliche",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di caffè amaro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di bevande gassate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di integratori di sali minerali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'idoneità alla guida può essere compromessa se si fa uso di integratori alimentari",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di hashish o di marijuana può compromettere la facoltà di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di eroina o di cocaina può compromettere la facoltà di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei farmaci sedativi sono presenti alcune sostanze che possono compromettere la facoltà di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di LSD o l'anfetamina non compromette la facoltà di guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di hashish o di marijuana non compromette la facoltà di guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Un'alimentazione pesante ed eccessiva è sconsigliata per chi deve guidare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'alimentazione con cibi di difficile digestione può provocare una diminuzione dell'attenzione e un aumento dei tempi di reazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di bevande superalcoliche, durante un pasto abbondante non compromette la facoltà di guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'alcool può causare uno stato di euforia, con conseguente sottovalutazione del pericolo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi guida in stato di ebbrezza alcolica rischia l'arresto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' sconsigliabile guidare quando si ha uno stato emotivo alterato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi guida un veicolo senza motore, con una concentrazione di alcool nel sangue superiore al limite stabilito, non è soggetto ad alcuna sanzione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi guida in stato di ebbrezza alcoolica ha tempi di reazione più rapidi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Soccorrere un ferito della strada è obbligatorio per legge",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Soccorrere un ferito della strada può significare salvargli la vita",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Soccorrere subito un ferito della strada può evitare che subisca ulteriori danni fisici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Soccorrere un ferito della strada non è un obbligo imposto dalla legge, ma solo un dovere morale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Bisogna soccorrere un ferito della strada solo se si considera grave l'incidente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio soccorrere un ferito della strada, per non mettere a repentaglio la propria sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Soccorrere un ferito della strada è obbligatorio solo per i medici e il personale sanitario",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio soccorrere un ferito della strada, se per farlo, si crea intralcio alla circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fine del primo soccorso è quello di cercare di mantenere in vita il ferito con semplici e immediati interventi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il fine del primo soccorso è quello di assistere il ferito, come meglio possibile, in attesa che arrivi il soccorso medico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nell'intervento di primo soccorso bisogna evitare, per quanto possibile, che il ferito subisca ulteriori danni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nelle operazioni di primo soccorso bisogna evitare che al ferito vengano praticati interventi sbagliati o dannosi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il fine del primo soccorso è quello di chiedere subito al ferito come è avvenuto l'incidente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nell'intervento di primo soccorso bisogna allontanare in ogni caso il ferito dal posto in cui si trova",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante un intervento di primo soccorso non bisogna mai toccare il ferito se non è ancora arrivata la polizia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha una ferita sanguinante la si deve coprire con materiale sterile o quanto più possibile pulito, per bloccare il sanguinamento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha una ferita sanguinante, sporca di terra, bisogna lavarla quanto prima con acqua pulita",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante un intervento di primo soccorso, se l'infortunato ha una ferita sanguinante, con presenza di corpi estranei conficcati, non bisogna toglierli dalla ferita",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha una ferita sanguinante, bisogna tamponarla con garze sterili o panni puliti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante un intervento di primo soccorso, se l'infortunato ha una ferita sanguinante, si devono togliere subito gli eventuali corpi estranei in essa presenti e, successivamente, coprire la ferita",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha una ferita sanguinante ed è incosciente, bisogna dargli da bere acqua o tè",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha una ferita sanguinante non bisogna coprirla, per facilitare l'arresto spontaneo del sangue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha una ferita sanguinante si deve versarvi sopra acqua calda, per fermare il sanguinamento",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna, bisogna tamponare la ferita e chiamare subito i soccorsi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna, si deve tamponare subito la ferita, facendo pressione con del materiale pulito o possibilmente sterile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna, bisogna cercare di arrestare la fuoriuscita del sangue",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna è opportuno, se possibile, mettere il ferito in posizione seduta o sdraiata, in attesa che arrivino i soccorsi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna, bisogna solo medicare la ferita",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna, si deve coprire la ferita e far camminare l'infortunato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha un'abbondante emorragia esterna non si può assolutamente dargli da bere acqua",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio (scheggia di vetro, legno o altro), bisogna bendarglielo, senza procedere ad altre manovre",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio, bisogna consigliargli di non toccare l'occhio danneggiato, per evitare danni maggiori",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio, bisogna bendarglielo, evitando di toccarlo fino all'intervento dello specialista",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio, bisogna cercare sempre e comunque di toglierglielo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio, bisogna costringerlo a tenere gli occhi aperti, per evitare altre lesioni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio, bisogna massaggiargli delicatamente la palpebra, per favorire la lacrimazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se ad un infortunato della strada è entrato un corpo estraneo in un occhio non bisogna mai bendargli l'occhio ferito",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta con pelle molto pallida e fredda",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta con presenza di sudore freddo alla fronte",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta con presenza di brividi, pelle molto pallida e sudorazione fredda alla fronte",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta con pelle molto pallida, sudorazione fredda, frequenti battiti del cuore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock può manifestarsi con improvvisa pronuncia di frasi e parole senza senso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta sempre con un forte aumento della temperatura corporea",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta con ampie macchie scure sulla pelle",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock si manifesta con comparsa di colorito rosso della pelle e forti vampate di calore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Un ferito in stato di shock va messo a terra e, se possibile, con le gambe sollevate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un ferito in stato di shock va coperto come meglio possibile, per evitare che si raffreddi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Un ferito in stato di shock va disteso, tenendo possibilmente le gambe sollevate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di un ferito in stato di shock, occorre farlo camminare, per riattivargli la circolazione del sangue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Un ferito in stato di shock va messo in posizione seduta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di un ferito in stato di shock, occorre dargli piccoli schiaffi su guance e gambe, per riattivargli la circolazione del sangue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di un ferito in stato di shock, occorre fargli bere piccole quantità di superalcolici",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza, bisogna verificare se respira ancora, mettendo una mano sulla parte laterale bassa del torace o sull'addome",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza, può essere mosso solo se si è certi che non abbia traumi alla colonna vertebrale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza e fa fatica a respirare, bisogna liberare subito il naso e la bocca da eventuali ostruzioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza, bisogna controllare spesso le sue condizioni di salute fino all'arrivo dell'ambulanza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza, bisogna somministrargli bevande alcooliche",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza bisogna bloccargli le mani",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza bisogna fasciargli la testa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada è in stato di incoscienza bisogna metterlo in posizione semiseduta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada è cosciente, ma ha avuto un trauma della gabbia toracica, bisogna cercare di facilitargli la respirazione mettendolo semi-seduto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada è cosciente, ma ha avuto un trauma della gabbia toracica, con ferita visibile e profonda, bisogna comprimere subito con un panno pulito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha avuto un trauma della gabbia toracica, bisogna assisterlo fino all'arrivo del soccorso medico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha avuto un trauma della gabbia toracica, bisogna fargli fare profondi respiri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha avuto un trauma della gabbia toracica, bisogna metterlo in posizione distesa, con le gambe sollevate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha avuto un trauma della gabbia toracica, bisogna farlo stare alzato, per diminuire la fuoriuscita di sangue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti non bisogna muovere gli arti fratturati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti, bisogna bloccarglieli, senza procedere ad altre manovre",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti, bisogna coprire le eventuali ferite con materiale pulito",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti, bisogna bloccarglieli e subito dopo, se necessario, attuare le normali misure anti-shock",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti, bisogna cercare di farlo camminare, per diminuire il dolore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti, bisogna chiedergli di muoverli, per valutare il tipo di lesione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti, con fuoriuscita di un osso, bisogna cercare di riposizionarlo nei tessuti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un infortunato della strada ha riportato fratture agli arti bisogna dargli da bere una bevanda superalcolica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada si è ustionato e sono ancora presenti delle residue fiamme, bisogna spegnerle, soffocandole, ad esempio, con una coperta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada si è ustionato, è consigliabile non togliere i vestiti rimasti attaccati alla pelle bruciata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Per diminuire il dolore delle ustioni si deve, se possibile, fare uso di acqua fredda",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada ha riportato delle ustioni al busto, conviene coprirle con materiale pulito, possibilmente sterile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada si è ustionato e sono ancora presenti delle residue fiamme, bisogna aspettare che si spengano da sole, prima di intervenire",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada si è ustionato, bisogna sempre togliere le parti dei vestiti che sono rimaste attaccate alla pelle",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se un ferito della strada si è ustionato, bisogna disinfettare le bruciature con l'alcool",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale, il soccorritore che interviene deve valutare bene la situazione, per proteggere gli infortunati da altri pericoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale, il soccorritore che interviene deve assistere gli infortunati al meglio delle sue possibilità, senza però prendere iniziative di specifica competenza medica",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale, il soccorritore che interviene deve prestare assistenza agli infortunati, secondo le proprie possibilità e conoscenze",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Chi è coinvolto in un incidente stradale deve allontanarsi sempre e subito dal luogo in cui si è verificato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di incidente stradale, bisogna aspettare solo l'arrivo dei soccorsi, senza fare nulla",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di incidente stradale, la prima cosa che deve fare il soccorritore è identificare l'infortunato, chiedendogli nome e cognome",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di incidente stradale, il soccorritore deve somministrare farmaci alla vittima, se la stessa non ha specifica competenza medica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock può essere causato da un forte dolore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock può essere causato da una forte emozione (gioia, rabbia)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock può essere causato da una forte perdita di sangue",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock può essere causato da un forte trauma",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock non può dipendere da forti emozioni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock non si verifica mai nelle persone che hanno avuto un trauma",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock non si verifica mai nelle persone che hanno perso molto sangue",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Lo stato di shock non rappresenta un pericolo per la salute",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool rende meno sicura la guida, poiché può provocare eccitazione e imprudenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool rende meno sicura la guida, perché può rallentare i riflessi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool rende meno sicura la guida, perché può provocare sonnolenza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool rende meno sicura la guida, perché può modificare pericolosamente la capacità di concentrazione e attenzione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool può far diminuire il livello di attenzione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool rende più sicura la guida, perché annulla la stanchezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool facilita la guida, perché fa aumentare la capacità di concentrazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool facilita la guida, perché rende più vigili e attenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool rende la guida più sicura, più allegra e meno noiosa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'assunzione di alcool migliora la vista",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si devono usare gli occhiali da vista o le lenti a contatto se nella patente si trova indicato tale obbligo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si devono usare gli occhiali da vista o le lenti a contatto se nella patente è stato inserito il codice armonizzato '01'",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si devono usare gli occhiali da vista o le lenti a contatto se nella patente figura, per esteso o sotto forma di codice, tale obbligo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si devono usare gli occhiali da vista o le lenti a contatto quando è indicato sulla patente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si deve fare uso di occhiali da vista o di lenti a contatto solo quando la miopia supera 6 diottrie",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si deve fare uso di occhiali da vista o di lenti a contatto da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si devono usare gli occhiali da vista o le lenti a contatto soltanto in caso di scarsa visibilità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la guida, si deve fare uso di occhiali da vista o di lenti a contatto soltanto sulle autostrade e sulle strade extraurbane principali",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere ristrettezza della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere mancata segnalazione degli incroci",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere mancanza di segnaletica orizzontale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere fondo stradale deformato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere fondo stradale scivoloso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere presenza di strettoie non segnalate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere strada suddivisa in carreggiate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere strada suddivisa in corsie",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere carreggiata a senso unico di circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere carreggiata a senso unico di circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere presenza di barriere laterali ad assorbimento d'urto (guardrails)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere regolamentazione semaforica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Causa probabile di incidenti dovuti alla struttura della strada può essere mancanza di curve pericolose",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre ridurre la velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre tenere in funzione i tergicristalli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre aumentare la distanza di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre evitare l'appannamento dei vetri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre manovrare con prudenza lo sterzo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre passare velocemente sulle pozzanghere per evitare di rimanere impantanati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre coprire il radiatore con l'apposita mascherina",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre frenare energicamente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre utilizzare, durante la marcia, la segnalazione luminosa di pericolo (quattro frecce lampeggianti simultaneamente)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di pioggia occorre procedere, di norma, con il pedale della frizione abbassato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning fa scivolare le ruote sullo strato di acqua",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning inizia a velocità più bassa se il pneumatico è molto consumato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning si verifica più facilmente nei veicoli più leggeri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning si verifica più facilmente a bassa velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning riduce lo sbandamento del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning aumenta nelle carreggiate a forte pendenza laterale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning aumenta l'aderenza sul fondo stradale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning rafforza il contatto fra pneumatici e asfalto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il fenomeno dell'aquaplaning non dipende dallo spessore e dal disegno del battistrada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre montare pneumatici invernali su tutte le ruote oppure catene sulle ruote motrici",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre moderare la velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre aumentare la distanza di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre evitare brusche manovre",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre evitare brusche accelerazioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre frenare con maggiore energia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre alla partenza, accelerare al massimo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre sterzare bruscamente per evitare di urtare veicoli fermi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strade coperte di neve occorre frenare a fondo in caso di sbandamento del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno procedere a velocità moderata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno aumentare la distanza di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno distanziarsi dalla traiettoria dei veicoli che si incrociano",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno, in discesa, procedere con marce basse",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno evitare brusche accelerazioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno usare maggiore attenzione nel transito su zone in ombra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno innestare la doppia trazione, se il veicolo ne è provvisto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno marciare molto vicino alla barriera laterale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno non usare le catene, ma gomme chiodate sulle ruote anteriori",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno frenare energicamente ogni volta che si incrocia un altro veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In presenza di tratti di strada ghiacciati è opportuno procedere con il cambio in folle",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno lasciarsi guidare dalla segnaletica orizzontale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno procedere ad una velocità adeguata alla visibilità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno fermarsi, se necessario, fuori dalla carreggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno se costretti a fermarsi sulla carreggiata, usare la segnalazione luminosa di pericolo (quattro frecce lampeggianti simultaneamente)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno evitare di fermarsi sulla carreggiata, se non per cause di forza maggiore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno accendere i proiettori fendinebbia o, in mancanza, quelli anabbaglianti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno accendere la luce posteriore per nebbia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno guidare con la massima prudenza e concentrazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno circolare con le sole luci di posizioni accese",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno mantenere in funzione l'indicatore di direzione sinistro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno procedere a zig zag per far meglio notare la propria presenza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno accodarsi al veicolo che precede quanto più vicino possibile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno suonare continuativamente il clacson",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di nebbia fitta è opportuno tenere la cintura di sicurezza sganciata per essere più pronti ad abbandonare il veicolo in caso di incidente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente coinvolto in un incidente stradale ha l'obbligo di fermarsi e di prestare assistenza agli eventuali feriti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente coinvolto in un incidente stradale deve fornire le proprie generalità e gli estremi della patente, della targa e dell'assicurazione del veicolo alle persone danneggiate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente coinvolto in un incidente stradale deve evitare che vengano modificate le tracce, se occorre ricostruire la dinamica dell'incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente coinvolto in un incidente stradale per la denunzia all'assicurazione può avvalersi degli appositi moduli prestampati forniti dalla propria assicurazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale è obbligatorio apporre il segnale mobile di pericolo sul lunotto posteriore del veicolo, prima di andar via",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale è obbligatorio coprire il veicolo con un telo di plastica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale è obbligatorio, solo di notte, apporre il segnale mobile di pericolo in prossimità del veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale è obbligatorio collocare subito il veicolo sul marciapiede",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Dopo un incidente stradale, è obbligatorio segnalare il veicolo fermo con il segnale mobile di pericolo anche nei centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È opportuno che il conducente esegua personalmente la manutenzione della pompa di iniezione del proprio veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La distanza percorsa durante il tempo di reazione non varia con la velocità",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il corretto funzionamento del motore è garantito dal fatto che la spia rossa dell’olio di lubrificazione rimane costantemente accesa",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È consentito migliorare le prestazioni del proprio veicolo aumentando la cilindrata del motore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è necessario mettere a punto i freni squilibrati, se il conducente è in grado di correggere l’anomalo comportamento del veicolo agendo sullo sterzo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Su strada sdrucciolevole, per garantire le migliori condizioni di aderenza in frenata, è opportuno premere a fondo il pedale del freno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"È consentito aumentare le prestazioni del proprio veicolo modificandone le impostazioni elettroniche della centralina che controlla l’iniezione di carburante",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando bisogna far salire o scendere un passeggero, è opportuno che ciò avvenga dal lato del marciapiede o, in mancanza, dal lato opposto al traffico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si deve far salire o scendere un passeggero dal veicolo, bisogna aprire la portiera solamente quando non si causa pericolo agli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si deve far salire o scendere un passeggero dal veicolo, bisogna farlo attendere fino a che il veicolo sia completamente fermo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si deve far salire o scendere un bambino dal veicolo, è opportuno che vi sia il controllo di un adulto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si deve far scendere un passeggero, bisogna tenere presente che l'apertura della portiera di destra è priva di qualsiasi rischio e pericolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"In caso di infossamento su neve o sabbia, non riuscendo a spostare il veicolo, è consigliabile inserire sotto la ruota che slitta qualcosa che faccia attrito (pezzi di legno, tappeti del veicolo, ecc.)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"In caso di infossamento su neve o sabbia, non riuscendo a partire con la prima marcia è opportuno innestare una marcia superiore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su una strada innevata l'aderenza del veicolo è minore che su una strada ghiacciata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I tamponamenti stradali avvengono principalmente per la forte velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I tamponamenti stradali avvengono maggiormente se non si rispetta la distanza di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I tamponamenti stradali avvengono principalmente per la disattenzione dei conducenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I tamponamenti stradali avvengono principalmente per l'improvviso guasto del freno di stazionamento",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I tamponamenti stradali avvengono principalmente tra autoveicoli dotati di servosterzo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Percorrendo un lungo tunnel o traforo, in caso di formazione di lunghe file di veicoli, è opportuno aumentare la distanza di sicurezza, per scongiurare, in caso d'incendio, il rapido propagarsi delle fiamme",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Percorrendo un lungo tunnel o traforo, in caso d'incendio, bisogna abbandonare velocemente il veicolo, seguendo la segnaletica che porta alle vie di fuga o ai luoghi sicuri protetti da porte tagliafuoco",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Percorrendo un lungo tunnel o traforo, in caso d'incendio, bisogna attenersi alle istruzioni vocali del personale di servizio o dei vigili del fuoco, per evitare di incamminarsi nella direzione sbagliata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il pannello in figura, posto all'interno di una galleria, indica la presenza di una via di fuga",
+      "isCorrect":true,
+      "image":"via_fuga.png"
+   },
+   {
+      "question":"Il pannello in figura, posto all'interno di una galleria, indica la presenza di un estintore",
+      "isCorrect":true,
+      "image":"estintore.png"
+   },
+   {
+      "question":"Il pannello in figura obbliga a tornare indietro all'imbocco della galleria",
+      "isCorrect":false,
+      "image":"via_fuga.png"
+   },
+   {
+      "question":"Percorrendo un lungo tunnel o traforo, in caso d'incendio, bisogna seguire la segnaletica di emergenza, anche se in netto contrasto con gli ordini vocali impartiti dai vigili del fuoco",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nelle autostrade e strade extraurbane, è obbligatorio accendere i fari anabbaglianti anche di giorno o, in alternativa, le luci di marcia diurna",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’errata impostazione dell’orientamento dei proiettori può ridurre la visibilità del conducente o abbagliare gli altri utenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Proiettori anabbaglianti male orientati possono abbagliare gli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Pur avendo acceso le luci anabbaglianti, si corre il rischio di abbagliare gli altri se le lampade sono montate in maniera errata o non sono omologate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Su un veicolo a motore non è consentito utilizzare lampade non omologate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Percorrendo una strada extraurbana durante una giornata assolata è sufficiente accendere le luci di posizione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Percorrendo una strada extraurbana, è obbligatorio tenere accesi i proiettori abbaglianti durante le ore diurne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso delle luci di posizione è obbligatorio di notte durante la sosta fuori della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Per le luci di posizione è possibile utilizzare lampade di qualsiasi colore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia nei centri abitati, è obbligatorio tenere accese le luci anabbaglianti da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, in caso di scarsa visibilità per condizioni atmosferiche (neve, pioggia, nebbia), è obbligatorio tenere accese le luci di posizione e quelle anabbaglianti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, in caso di nebbia con visibilità inferiore a 50 metri, bisogna usare la luce posteriore per nebbia, se il veicolo ne è dotato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Di notte, nei centri abitati, il veicolo in sosta al margine della carreggiata, può essere segnalato con le luci di sosta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, è obbligatorio tenere accese le luci abbaglianti, a partire dal tramonto del sole fino al suo sorgere",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Di notte, in caso di sosta fuori dalla carreggiata, è obbligatorio tenere accese le luci anabbaglianti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si lascia il veicolo in un parcheggio autorizzato, è obbligatorio tenere accese per tutto il tempo le luci di sosta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio accendere i proiettori anabbaglianti, anche di giorno, quando si transita in galleria",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio accendere le luci del veicolo in caso di scarsa visibilità per le condizioni del tempo (nebbia, neve, pioggia)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E' obbligatorio accendere i proiettori anabbaglianti nelle gallerie stradali, solo se scarsamente illuminate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, in caso di pioggia intensa, oltre alle luci anabbaglianti bisogna tenere accesa la luce posteriore per nebbia, se il veicolo ne è dotato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia fuori dai centri abitati, è obbligatorio fare uso delle luci anabbaglianti, sia di giorno che di notte",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia nelle ore notturne, l'uso delle luci anabbaglianti è obbligatorio anche se l'illuminazione pubblica è sufficiente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, in caso di fitta nevicata, oltre alle luci anabbaglianti bisogna tenere accesa la luce posteriore per nebbia, se il veicolo ne è dotato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Proiettori anabbaglianti male orientati possono abbagliare gli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, l'uso delle luci anabbaglianti non è consentito nelle gallerie illuminate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, l'uso delle luci di posizione è sempre consentito in alternativa a quelle anabbaglianti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L'uso delle luci anabbaglianti è obbligatorio quando si sorpassa un'auto della polizia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I catadiottri sono dispositivi che riflettono la luce",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri installati nella parte posteriore dei veicoli sono di colore rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri installati nella parte posteriore di rimorchi e carrelli-appendice sono di colore rosso e di forma triangolare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri vengono applicati anche sui rimorchi e sui carrelli-appendice",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri installati sulla parte davanti di rimorchi e carrelli-appendice sono di colore bianco",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri vanno accesi mezz'ora dopo il tramonto del sole",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I catadiottri vanno accesi insieme alle luci di posizione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I catadiottri sostituiscono le luci di posizione durante la circolazione nelle strade urbane",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I catadiottri hanno la funzione di indicare la presenza e l'ingombro dei veicoli su cui sono applicati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri di colore bianco hanno la funzione di evidenziare la parte davanti dei rimorchi e semirimorchi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri, se illuminati, hanno la funzione di rendere più visibili, specialmente di notte, i veicoli e i rimorchi in sosta sulla strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri rendono più visibile un veicolo guasto, nel caso in cui non funzionino le luci di posizione posteriori",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I catadiottri con gli indicatori di direzione, segnalano la svolta di un veicolo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I catadiottri di colore bianco sono installati negli autoveicoli che trasportano materiale infiammabile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I catadiottri possono sostituire gli indicatori di direzione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La targa posteriore di un autoveicolo è illuminata per consentire una facile lettura dei caratteri che la compongono",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La targa posteriore di un autoveicolo deve essere illuminata con una luce bianca",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La luce della targa di un autoveicolo si deve accendere solo di notte",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La luce della targa di un autoveicolo deve rimanere accesa se si sosta fuori dalla strada",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La spia di accensione della segnalazione luminosa di pericolo è di colore rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La spia della temperatura dell'acqua di raffreddamento è di colore rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La spia della pressione dell'olio è di colore rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La spia della pressione dell'olio è di colore rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La spia del freno a mano è di colore rosso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La spia di accensione degli indicatori di direzione è di colore rosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La spia di accensione delle luci anabbaglianti è di colore rosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La spia di accensione delle luci abbaglianti è di colore rosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La spia delle luci fendinebbia è di colore rosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La spia del dispositivo per sbrinare o disappannare il parabrezza è di colore rosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sul comando di accensione dei proiettori di profondità",
+      "isCorrect":true,
+      "image":"simbolo_abbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia a luce blu",
+      "isCorrect":true,
+      "image":"simbolo_abbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia a luce verde",
+      "isCorrect":false,
+      "image":"simbolo_abbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sul comando di accensione dei proiettori anabbaglianti",
+      "isCorrect":false,
+      "image":"simbolo_abbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato segnala l'accensione della luce posteriore per nebbia",
+      "isCorrect":false,
+      "image":"simbolo_abbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato ricorda al conducente che deve spegnere le luci di posizione",
+      "isCorrect":false,
+      "image":"simbolo_abbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sul comando di accensione dei proiettori anabbaglianti",
+      "isCorrect":true,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia a luce verde",
+      "isCorrect":true,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia a luce blu",
+      "isCorrect":false,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato segnala l'accensione della luce posteriore per nebbia",
+      "isCorrect":false,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sulla spia delle luci abbaglianti accese",
+      "isCorrect":false,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato segnala l'accensione delle luci di posizione",
+      "isCorrect":false,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica il comando per azionare l'indicatore di direzione destro",
+      "isCorrect":false,
+      "image":"simbolo_anabbaglianti.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica il comando degli indicatori di direzione",
+      "isCorrect":true,
+      "image":"simbolo_indicatori_direzione.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia a luce verde",
+      "isCorrect":true,
+      "image":"simbolo_indicatori_direzione.png"
+   },
+   {
+      "question":"Il simbolo raffigurato si trova sulla spia a luce verde lampeggiante dell'indicatore di direzione azionato",
+      "isCorrect":true,
+      "image":"simbolo_indicatori_direzione.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore rosso",
+      "isCorrect":false,
+      "image":"simbolo_indicatori_direzione.png"
+   },
+   {
+      "question":"Il simbolo raffigurato si trova su una spia che si attiva quando sono accese le luci di posizione",
+      "isCorrect":false,
+      "image":"simbolo_indicatori_direzione.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica il comando per accendere le luci di posizione",
+      "isCorrect":false,
+      "image":"simbolo_indicatori_direzione.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica il comando per azionare la segnalazione luminosa di pericolo",
+      "isCorrect":true,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sul comando che provoca l'accensione contemporanea di tutti gli indicatori di direzione",
+      "isCorrect":true,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore rosso",
+      "isCorrect":true,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica un dispositivo da usare in casi di emergenza",
+      "isCorrect":true,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica il comando che aziona il segnale mobile di pericolo",
+      "isCorrect":false,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sulla spia di freno a mano inserito",
+      "isCorrect":false,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Il simbolo raffigurato indica un dispositivo che si accende automaticamente ad ogni incidente",
+      "isCorrect":false,
+      "image":"simbolo_pericolo.png"
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione prima di ogni cambio di corsia, quando si viaggia su strada suddivisa in corsie",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione se, marciando su strada a senso unico, ci si sposta sulla corsia di sinistra provenendo da quella di destra",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione ogni volta che si deve effettuare una manovra di svolta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione se si intende uscire dalla carreggiata per effettuare una fermata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione quando, partendo dal margine della carreggiata, ci si vuole immettere nella circolazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione per segnalare l’intenzione di spostarsi nella corsia di decelerazione di uno svincolo autostradale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione per segnalare l’intenzione di entrare sulla carreggiata autostradale, provenendo da una corsia di accelerazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Non si devono usare gli indicatori di direzione quando si cambia corsia mentre si circola su strada a senso unico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è mai necessario usare gli indicatori di direzione quando si circola su strada a doppio senso ma con carreggiate separate da spartitraffico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non si devono usare gli indicatori di direzione se, per effettuare una fermata fuori della carreggiata, ci si sposta sul margine sinistro",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione destri per segnalare che si sta per frenare bruscamente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non si devono usare gli indicatori di direzione se, per entrare in un passo carrabile, occorre svoltare a destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione quando si effettua una svolta a sinistra, ma non quando si svolta a destra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si devono usare gli indicatori di direzione sinistri quando si deve percorrere un tornante verso sinistra",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario per segnalare che si vuole effettuare un cambio di corsia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario per segnalare l’intenzione di effettuare una manovra di sorpasso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario per segnalare l’intenzione di parcheggiare sul margine sinistro di una strada a senso unico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario ogni qualvolta si deve fare una manovra di svolta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario quando si effettuano manovre di retromarcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario nella marcia per file parallele, anche se non si effettuano cambiamenti di corsia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario per almeno 500 metri dopo aver effettuato un sorpasso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario quando si inizia una manovra di sorpasso, ma non quando la si termina rientrando nella corsia di marcia normale",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione non è necessario se si deve parcheggiare il veicolo spostandosi verso il margine destro della carreggiata",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione è necessario quando ci si arresta ad un semaforo rosso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso degli indicatori di direzione destri è necessario quando ci si arresta per cause di interruzione della circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è vietato, di norma, durante la marcia nei centri abitati",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è necessario, fuori dei centri abitati, quando l’illuminazione pubblica è insufficiente e non si incrociano altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è necessario, fuori dei centri abitati, quando l’illuminazione pubblica manca e non si incrociano altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante va sostituito con quello dei proiettori a luce anabbagliante quando si incrociano altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è di norma consentito in città, in caso di nebbia fitta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è necessario nelle gallerie urbane a senso unico",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è sempre ammesso quando si trasportano feriti o ammalati gravi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso dei proiettori a luce abbagliante è necessario, di giorno, se si circola su un’autostrada viaggiando controsole",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), sia di giorno che di notte, per dare avvertimenti utili al fine di evitare incidenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), anche all’interno dei centri abitati, per dare avvertimenti utili al fine di evitare incidenti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante) per segnalare al veicolo che precede, sia di giorno che di notte, l’intenzione di sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante) per segnalare al veicolo che precede, anche all’interno dei centri abitati, l’intenzione di sorpassare",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), soltanto sulle strade extraurbane",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), anche all’interno dei centri urbani, ma unicamente di giorno",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), solo quando si trasportano feriti o ammalati gravi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), purché l’illuminazione esterna manchi o sia insufficiente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito l’uso intermittente dei proiettori di profondità (a luce abbagliante), esclusivamente nei casi di pericolo immediato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, quando vi sia il pericolo di abbagliare gli altri utenti della strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, qualora vi sia il pericolo di abbagliare i pedoni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, se vi è pericolo di abbagliare i conducenti di veicoli circolanti su altre strade",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, quando stanno per incrociare altri veicoli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, quando seguono un veicolo a breve distanza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, dopo un loro uso prolungato, per evitare di scaricare la batteria",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, solo quando il veicolo che li precede a breve distanza è un’autovettura",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore rosso",
+      "isCorrect":true,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Una spia accesa di colore rosso, contrassegnata dal simbolo di figura, indica un eccessivo riscaldamento del motore",
+      "isCorrect":true,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è collocato sulla spia che indica l’eccessiva temperatura del liquido di raffreddamento del motore",
+      "isCorrect":true,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia che, se accesa, indica che la temperatura del liquido di raffreddamento supera i limiti stabiliti dal costruttore",
+      "isCorrect":true,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sulla spia che integra l’indicatore della temperatura del liquido di raffreddamento che circola nel motore",
+      "isCorrect":true,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato individua il bocchettone del serbatoio del liquido tergicristalli",
+      "isCorrect":false,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia che segnala il livello del liquido di raffreddamento nel radiatore",
+      "isCorrect":false,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sulla spia luminosa che indica la temperatura dell’olio di lubrificazione del motore",
+      "isCorrect":false,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sulla spia che individua l’indicatore della temperatura dell’olio che circola nel motore",
+      "isCorrect":false,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia che, se accesa, segnala l’eccessiva temperatura dell’olio di lubrificazione del cambio di velocità",
+      "isCorrect":false,
+      "image":"simbolo_temperatura_liquido_raffreddamento.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che il generatore di corrente non carica la batteria",
+      "isCorrect":true,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che la batteria non si sta ricaricando come previsto",
+      "isCorrect":true,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che l’alternatore non sta ricaricando la batteria",
+      "isCorrect":true,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Il simbolo raffigurato, se collocato su una spia di colore rosso, permette di capire se la batteria viene correttamente ricaricata o meno dall’alternatore",
+      "isCorrect":true,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che la batteria è completamente scarica",
+      "isCorrect":false,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica di sostituire subito la batteria",
+      "isCorrect":false,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che bisogna invertire l’allacciamento dei cavi ai morsetti della batteria",
+      "isCorrect":false,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che la batteria è sovraccarica",
+      "isCorrect":false,
+      "image":"simbolo_batteria.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su un dispositivo che dà indicazioni sulla pressione del lubrificante nel motore",
+      "isCorrect":true,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Il simbolo raffigurato può essere posto su una spia a luce rossa",
+      "isCorrect":true,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se spenta durante la marcia, indica che la pressione dell’olio di lubrificazione del motore è regolare",
+      "isCorrect":true,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica insufficiente pressione dell’olio di lubrificazione del motore",
+      "isCorrect":true,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica di arrestare subito il motore per evitare gravi danni",
+      "isCorrect":true,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Il simbolo raffigurato può contraddistinguere una spia luminosa di colore giallo ambra",
+      "isCorrect":false,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica una temperatura troppo bassa dell’olio di lubrificazione del motore",
+      "isCorrect":false,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che il motore consuma troppo olio",
+      "isCorrect":false,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che l’olio di lubrificazione del cambio di velocità è troppo denso",
+      "isCorrect":false,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che bisogna cambiare l’olio di lubrificazione del motore",
+      "isCorrect":false,
+      "image":"simbolo_pressione_olio.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore rosso",
+      "isCorrect":true,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Il simbolo raffigurato, contrassegna la spia di funzionamento difettoso di una parte dell’impianto frenante",
+      "isCorrect":true,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, può segnalare una eccessiva usura delle guarnizioni degli elementi frenanti",
+      "isCorrect":true,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, può segnalare lo scarso livello del liquido idraulico dei freni",
+      "isCorrect":true,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, comporta di provvedere rapidamente a una manutenzione o riparazione dell’impianto frenante",
+      "isCorrect":true,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, segnala che la centralina elettronica è fuori uso",
+      "isCorrect":false,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che occorre effettuare il tagliando periodico previsto dalla casa costruttrice entro 500 chilometri",
+      "isCorrect":false,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che occorre effettuare la revisione periodica di legge entro un mese",
+      "isCorrect":false,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Il simbolo raffigurato individua il luogo ove è riposto l’estintore di bordo",
+      "isCorrect":false,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Il simbolo raffigurato individua una parte dell’impianto elettrico dove si trova alta tensione",
+      "isCorrect":false,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, segnala portiere aperte o chiuse non correttamente",
+      "isCorrect":false,
+      "image":"simbolo_impianto_frenante.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore rosso",
+      "isCorrect":true,
+      "image":"simbolo_cinture_sicurezza.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore rosso che, se accesa durante la marcia, indica che il conducente o un passeggero non hanno indossato le cinture di sicurezza",
+      "isCorrect":true,
+      "image":"simbolo_cinture_sicurezza.png"
+   },
+   {
+      "question":"La spia rossa contraddistinta dal simbolo in figura, se accesa durante la marcia, è in genere abbinata ad un segnale acustico in funzione",
+      "isCorrect":true,
+      "image":"simbolo_cinture_sicurezza.png"
+   },
+   {
+      "question":"La spia rossa contraddistinta dal simbolo in figura può essere disattivata con apposito comando posto sul cruscotto",
+      "isCorrect":false,
+      "image":"simbolo_cinture_sicurezza.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto su una spia di colore giallo",
+      "isCorrect":false,
+      "image":"simbolo_cinture_sicurezza.png"
+   },
+   {
+      "question":"Il simbolo raffigurato è posto sul pulsante che permette di regolare le modalità di azione del pretensionatore delle cinture di sicurezza",
+      "isCorrect":false,
+      "image":"simbolo_cinture_sicurezza.png"
+   },
+   {
+      "question":"Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se non si allaccia la cintura di sicurezza, in caso d'improvvisa frenata si può essere proiettati contro il parabrezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se il veicolo è dotato di airbag frontali e laterali, si può fare a meno di allacciare la cintura di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza vanno agganciate solo se si circola a velocità uguale o superiore a 30 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli dotati di airbag con comando di disabilitazione, prima di sistemare sul sedile anteriore un seggiolino per bambini (schienale rivolto verso il parabrezza), bisogna disattivare l'airbag",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Nei veicoli che non sono muniti del comando per disabilitare l'airbag dal lato passeggero, il seggiolino per bambini non deve essere sistemato sul sedile anteriore, con lo schienale rivolto verso la strada",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un veicolo è dotato di air-bag, non vi è l’obbligo di indossare le cinture di sicurezza durante la marcia",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il poggiatesta è utile per prevenire il 'colpo di frusta'",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il poggiatesta è utile se viene regolato correttamente, sia in altezza che in inclinazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il poggiatesta è particolarmente utile per rilassare la muscolatura durante la guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il poggiatesta ha una funzione non di sicurezza, ma estetica",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le donne in stato di gravidanza con particolari condizioni di rischio certificate non sono obbligate ad agganciare la cintura di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli istruttori di guida nello svolgimento della loro professione non sono obbligati ad agganciare la cintura di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il postino, durante l'attività lavorativa, non ha l'obbligo di agganciare la cintura di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le persone con oltre 65 anni di età non sono obbligate ad agganciare la cintura di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Chi guida un’autovettura munito di autorizzazione ad esercitarsi alla guida (foglio rosa), non è obbligato ad utilizzare la cintura di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco è obbligatorio per i conducenti di ciclomotori a due ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco è obbligatorio per i conducenti di motocicli non dotati di cellula di sicurezza e di dispositivi di ritenuta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco è obbligatorio per il passeggero di un motociclo privo di cellula di sicurezza e sistemi di ritenuta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco è obbligatorio per il passeggero di un ciclomotore a due ruote, anche se maggiorenne",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco è obbligatorio per i conducenti di ciclomotori a due ruote, solo se minorenni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco non è obbligatorio per i conducenti di ciclomotori a due ruote, titolari di patente della categoria B",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco non è obbligatorio per i conducenti di ciclomotori a due ruote",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza hanno lo scopo di limitare i danni al conducente e ai passeggeri in caso di incidente stradale",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza devono essere indossate sia dal conducente che dai passeggeri delle autovetture che ne siano dotate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza richiedono un periodico controllo del loro stato di usura e di efficienza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza devono essere di tipo omologato e devono essere mantenute sempre efficienti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza hanno lo scopo di mantenere il corpo attaccato al sedile in caso di urto violento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza hanno lo scopo di evitare che il conducente o i passeggeri vadano a urtare parti interne del veicolo in caso di urto violento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza hanno lo scopo di evitare che il conducente o i passeggeri siano proiettati all’esterno della autovettura in caso di urto violento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza devono essere utilizzate in qualsiasi situazione di marcia",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza devono essere utilizzate anche dai passeggeri dei sedili posteriori delle autovetture",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza devono essere di tipo omologato e mantenute sempre efficienti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio utilizzare le cinture di sicurezza su una autovettura quando si circola ad una velocità inferiore ai 30 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio, ma è consigliato, indossare le cinture di sicurezza se si occupano i posti posteriori di una autovettura",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio l’uso delle cinture di sicurezza su una autovettura da parte di persone anziane (età superiore ai 70 anni)",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio l’uso delle cinture di sicurezza sui veicoli muniti di air-bag",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La spia che indica il mancato agganciamento delle cinture può essere disabilitata dal conducente con apposito comando posto sul cruscotto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le persone obese possono utilizzare appositi strumenti che evitano che la cintura di sicurezza stia aderente al corpo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’arrotolatore delle cinture di sicurezza può essere disattivato o modificato dal conducente, se crea fastidio al passeggero",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le cinture di sicurezza sono di utilità trascurabile nella circolazione urbana",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non è obbligatorio utilizzare le cinture di sicurezza su una autovettura quando si effettuano tragitti di lunghezza inferiore a un chilometro all’interno dei centri abitati",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso delle cinture di sicurezza consente il trasporto di bambini sui sedili anteriori in braccio a un adulto, senza pericoli",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I bambini di altezza inferiore a 1,50 metri, quando sono trasportati su una autovettura, devono essere trattenuti da sistemi di ritenuta omologati, adeguati alla loro statura e peso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I bambini di età inferiore a 3 anni non possono viaggiare su autovetture sprovviste degli idonei sistemi di ritenuta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Se un’autovettura è munita di airbag, è possibile trasportare bambini sul sedile anteriore assicurati ad idoneo seggiolino solo se il veicolo è dotato di comando per disattivare l’airbag stesso",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I sistemi di ritenuta per bambini sono classificati in gruppi, in funzione del peso del bambino che possono accogliere",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I sistemi di ritenuta per bambini devono essere di tipo omologato e mantenuti sempre efficienti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I sistemi di ritenuta per bambini sono di un unico tipo e sono tutti utilizzabili per trasportare bambini fino a 1,50 metri di altezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché su percorsi urbani",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché si circoli alla velocità massima di 40 km/h",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché sui sedili anteriori e a portata di braccio del conducente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"E’ consentito il trasporto di bambini senza che siano assicurati a sistemi di ritenuta, purché sui sedili anteriori in braccio a persona maggiorenne",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Si possono utilizzare le cinture di sicurezza al posto dei sistemi di ritenuta per trasportare un bambino, purché sia di altezza superiore a 1,30 metri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I seggiolini per bambini possono anche essere di costruzione artigianale, purché approvati da esperto della ASL",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’airbag è un cuscino gonfiabile di nylon o altro materiale sintetico",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag entra in funzione in caso di incidente stradale con urto violento",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag può essere pericoloso se si attiva mentre non si indossa la cintura di sicurezza",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag serve a limitare i danni agli occupanti del veicolo per urti contro superfici interne del veicolo in caso di urto violento a seguito di incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag può essere talvolta disattivabile",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag si gonfia automaticamente grazie al comando di un sensore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag si gonfia in pochi millisecondi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’airbag si gonfia in pochi secondi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’airbag si gonfia premendo un pulsante posto sul cruscotto",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’airbag deve essere gonfiato periodicamente per verificarne l’efficienza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’airbag è utile soltanto nei percorsi extraurbani",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’airbag non va usato insieme alle cinture di sicurezza",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’airbag non può essere montato su vetture con meno di 4 porte",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il conducente può tarare, con apposito comando, la velocità minima d’urto al di sopra della quale far attivare l’airbag",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco subisce un processo di invecchiamento dovuto a luce e calore",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La pulizia del casco deve essere effettuata con detersivi non corrosivi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco non deve essere pulito con solventi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco non deve essere pulito con benzina",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"L’uso del casco è necessario per ridurre gli effetti di eventuali urti alla testa",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco integrale protegge anche il viso da traumi e lesioni in caso di incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"E’ bene che il casco sia dotato di visiera",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La visiera del casco protegge il viso e gli occhi da impatti con insetti",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco deve essere di taglia corretta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco deve essere sostituito dopo che abbia subito un forte urto, anche se non mostra deformazioni sulla calotta esterna",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La robustezza della calotta esterna del casco potrebbe essere compromessa da solventi presenti in vernici o colle",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Durante la marcia, il casco deve essere sempre correttamente allacciato",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Indossare il casco in modo errato o senza averlo correttamente allacciato può comportare gravi rischi alla salute in caso di caduta o incidente",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco deve essere indossato anche per spostamenti brevi e a bassa velocità",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il casco deve essere indossato anche a bordo dei quadricicli a motore privi di carrozzeria (Quad)",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La visiera del casco deve essere sostituita se rigata o danneggiata",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"La visiera del casco deve garantire la perfetta visione con qualunque condizione di luce o illuminazione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il sistema di aerazione del casco consente di limitare il pericolo di appannamento della visiera",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Il conducente che non indossa il casco è soggetto alla decurtazione di punti dalla patente di guida",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Sul casco possono essere applicati adesivi di qualunque tipo, purché non coprano la visiera",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco deve essere periodicamente pulito con benzina o acquaragia per sgrassarlo ed eliminare resti di insetti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco deve essere completamente allacciato solo sui percorsi extraurbani",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Quando si circola nelle zone a velocità controllata inferiore a 30 km/h, non è obbligatorio l’uso del casco",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso del casco è obbligatorio su qualunque quadriciclo a motore",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco conserva invariate le sue caratteristiche protettive per periodi lunghissimi, di oltre venti anni",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco integrale non può essere utilizzato quando si circola nei centri urbani ad alta densità di circolazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Il casco integrale è inutile se si circola a bordo di un ciclomotore a due ruote",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’obbligo dell’uso del casco non riguarda i maggiorenni con più di tre anni di esperienza di guida",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"L’uso del casco durante la marcia diventa facoltativo quando la temperatura dell’aria è superiore ai trenta gradi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La visiera del casco peggiora notevolmente la visibilità e quindi va usata il meno possibile",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La calotta del casco può essere riparata con nastro adesivo di tipo speciale, se presenta una rottura inferiore ai tre centimetri",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"La visiera del casco può essere riparata con nastro adesivo, purché sia di tipo ultra trasparente",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I caschi da utilizzare alla guida dei ciclomotori non necessitano di omologazione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico permettono una giusta protezione di piedi e caviglie quando si è alla guida di veicolo a due ruote",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico riducono gli effetti di distorsioni in caso di appoggio impreciso dei piedi e proteggono le articolazioni della caviglia dal freddo",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico sono privi di nastri liberi o stringhe per evitarne l’aggancio alle pedivelle dei motocicli",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico proteggono i piedi da abrasioni sull’asfalto in caso di caduta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico sono omologati secondo norme internazionali",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le calzature omologate per l’uso motociclistico sono progettate per non scalzarsi in caso di caduta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Al posto degli stivali ad uso motociclistico si possono utilizzare scarpe da trekking in alta montagna, perché sono di analoga concezione",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico sono dotati di doppie stringhe per evitare scalzamenti",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico hanno la suola in acciaio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico coprono la gamba fin sopra il ginocchio per proteggere meglio il conducente in caso di caduta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Gli stivali ad uso motociclistico devono essere interamente realizzati in gomma ignifuga",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Non esistono specifici stivali ad uso motociclistico, pertanto è bene utilizzare calzature robuste del tipo utilizzato per caccia, pesca o alpinismo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Guidando ciclomotori o motocicli è consigliabile utilizzare guanti protettivi per le mani",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I guanti da motociclisti omologati proteggono in particolar modo il dorso della mano in caso di impatto con corpi duri",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I guanti da motociclisti proteggono il palmo della mano in caso di caduta con strisciamento sull’asfalto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I guanti da motociclisti garantiscono la giusta sensibilità durante la guida e una presa più sicura sui comandi",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I guanti da motociclisti possono avere imbottiture diverse a seconde della stagione",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Quando si circola a bordo di un motociclo, è opportuno indossare gli specifici guanti anche d’estate",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"I guanti ad uso motociclistico hanno speciali sistemi di aggancio per impedire il loro sfilamento in caso di caduta",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Non esistono guanti ad uso motociclistico di tipo omologato",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I guanti ad uso motociclistico possono essere sostituiti dai guanti da sci, ma solo nella stagione fredda",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Se si guida un motociclo senza guanti si può intervenire più rapidamente sui comandi",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I guanti ad uso motociclistico si riconoscono perché di colore nero e con una sagoma di moto stampigliata sul polso",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I guanti ad uso motociclistico coprono anche il gomito per proteggere meglio in caso di caduta",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I guanti ad uso motociclistico non sono idonei alla guida di ciclomotori a due ruote",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"I guanti ad uso motociclistico hanno come principale scopo quello di proteggere dal freddo, pertanto è inutile usarli l’estate",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le giacche ad uso motociclistico garantiscono un’adeguata protezione all’abrasione in caso di scivolamento sull’asfalto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Le giacche ad uso motociclistico hanno inserti rigidi protettivi in corrispondenza delle articolazioni",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli indumenti ad uso motociclistico omologati sono sottoposti a prove di resistenza al taglio e all’abrasione da impatto",
+      "isCorrect":true,
+      "image":""
+   },
+   {
+      "question":"Gli indumenti ad uso motociclistico omologati sono sottoposti a prove di resistenza al lavaggio",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le giacche ad uso motociclistico non sono previste per utilizzo estivo",
+      "isCorrect":false,
+      "image":""
+   },
+   {
+      "question":"Le giacche ad uso motociclistico, per essere omologate devono essere unicamente di colore nero",
+      "isCorrect":false,
+      "image":""
    }
 ]  
