@@ -3,7 +3,6 @@ from flask_restful import Api
 import resources, models
 from flask_jwt_extended import JWTManager
 
-
 app = Flask(__name__)
 api = Api(app)
 
@@ -16,4 +15,4 @@ api.add_resource(resources.UserLogin, '/login')
 api.add_resource(resources.QuestionToBeSent, '/question')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=443, ssl_context='adhoc')
