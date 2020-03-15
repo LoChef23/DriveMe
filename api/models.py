@@ -83,7 +83,7 @@ class Question():
     def retrieve_random_question(self):
         client = boto3.client('dynamodb')
         tableDesc = client.describe_table(TableName='Questions')
-        itemsInTable = int(tableDesc['Table']['ItemCount'])
+        itemsInTable = 200
         questionRandomID = random.randint(1, itemsInTable)
         result = client.get_item(
             TableName='Questions',
