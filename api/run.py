@@ -15,4 +15,4 @@ api.add_resource(resources.UserLogin, '/login')
 api.add_resource(resources.QuestionToBeSent, '/question')
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=80)
+    app.run(host="0.0.0.0", port=443, ssl_context='adhoc')
