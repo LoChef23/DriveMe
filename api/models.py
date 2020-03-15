@@ -94,7 +94,7 @@ class Question():
         
         imageName = result['Item']['QuestionImage']['S']
         if imageName != '-':
-            imagePath = os.path.abspath('./images/'+imageName)
+            imagePath = os.path.join('images', imageName)
             with open(imagePath, 'rb') as imageToBeConverted:
                 strQuestionImage = str(base64.b64encode(imageToBeConverted.read()))
         else:
