@@ -55,6 +55,6 @@ class QuestionToBeSent(Resource):
         question = Question()
         return question.retrieve_random_question()
 
-class Hello(Resource)
+class Hello(Resource):
     def get(self):
         return "Hello World!"
